@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
+h1 {
+	font-family: 'Cabin', sans-serif; ///font set with fallback
+	font-size: 4vh; ///dynamic text size set to 4% of viewport height
+	margin: auto; ///horizontally center
+	padding: 0;
+  	color: $c70; ///this is set in import.scss
+  	align-self: center; ///vertically center
+}
+
+h2 {
+	font-family: 'Cabin', sans-serif; ///font set with fallback
+	font-size: 3vh; ///dynamic text size set to 4% of viewport height
+	margin: auto; ///horizontally center
+	padding: 0;
+  	align-self: center; ///vertically center
+  	text-transform: uppercase;
+}

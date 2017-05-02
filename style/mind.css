@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css?family=Cabin");
+* {
+  box-sizing: border-box; }
+
+html {
+  font-size: 8px;
+  height: 100%; }
+
+body {
+  margin: 0;
+  height: 100%; }
+
+a:link {
+  text-decoration: none; }
+
+h1 {
+  font-family: 'Cabin', sans-serif;
+  font-size: 4vh;
+  margin: auto;
+  padding: 0;
+  color: #b3b3b3;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center; }
+
+h2 {
+  font-family: 'Cabin', sans-serif;
+  font-size: 3vh;
+  margin: auto;
+  padding: 0;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  text-transform: uppercase; }
+
+.shell {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background-color: #1a1a1a;
+  height: 100%;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column; }
+
+.icons {
+  fill: #e6e6e6; }
+  .icons:hover {
+    fill: white; }
+
+.top-bar {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1; }
+
+.home-scene {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 11;
+  -ms-flex: 11;
+  flex: 11;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center; }
+
+.button {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  color: black;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #e6e6e6;
+  box-shadow: 0 6px 0 0 #999999;
+  transition: background-color .2s ease, box-shadow .2s ease, margin .2s ease, color .2s ease;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin: 16px;
+  border-radius: 4px; }
+  .button:hover {
+    background-color: white; }
+  .button:active {
+    color: white;
+    background-color: #1a1a1a;
+    box-shadow: 0 0 0 0;
+    margin: 22px 16px 10px; }

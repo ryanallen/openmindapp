@@ -1,0 +1,38 @@
+///////////////////////////
+/// GREYSCALE GENERATOR ///
+///////////////////////////
+///use in html to change a box's 
+///background value.
+///0=black
+///100=white
+
+$lightness-min:0;///set this to your smallest desired value
+$lightness-max:100;///set this to your largest desired value
+
+@for $lightness from $lightness-min through $lightness-max {
+  .bg#{$lightness} 
+  {background-color:
+    hsl(0deg, 0%, $lightness);
+  }
+}
+
+//////////////////////
+/// GRID GENERATOR ///
+//////////////////////
+///creates a dynamic flexbox grid system
+///where all units are relative
+
+$grid-min:1;///set this to your smallest desired value
+$grid-max:23;///set this to your largest desired value
+
+@for $grid from $grid-min through $grid-max {
+  .box#{$grid}
+    {display:flex;flex:$grid; 
+  }
+}
+
+/// child boxes stack vertically in a column
+.column {flex-direction:column;}
+
+/// used to fill 100 of the vertical area
+.full-height {height:100%;}

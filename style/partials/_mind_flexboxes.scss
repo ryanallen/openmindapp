@@ -1,0 +1,46 @@
+.shell {
+	@include flex(1); ///100% of the viewport height
+    background: { /// : needs to replace the - for nested properties
+      color: $c10;
+    }
+	height: 100%; /// makes for no scrolling
+	flex-direction:	column; /// going to lay this out vertically
+}
+
+.icons{
+	fill:$c90;
+		&:hover {
+			fill:$c100;
+		}
+}
+.top-bar {
+	@include flex(1);/// 1/12 of the viewport height
+	/// layout defaults to horiz
+}
+.home-scene{
+	@include flex(11);///10/12 of the viewport height
+	align-items: center;
+	justify-content: center;
+}
+
+.button {
+	@include flex(1);/// button container
+	color: $c00;
+	align-items: center;/// centers text on the y axis
+	background-color: $c90;
+	box-shadow: 0 6px 0 0 $c60;
+  		&:hover { 
+  	 		background-color: $c100;
+  	 	}
+  	 	&:active {
+  	 		color: $c100;
+  	 		background-color: $c10;
+  	 		box-shadow: 0 0 0 0;
+  	 		margin: 22px 16px 10px;
+  	 	}
+	transition: background-color .2s ease, box-shadow .2s ease, margin .2s ease, color .2s ease; 
+  justify-content: center; /// centers text on the x axis
+  margin:16px;
+  border-radius: 4px;
+
+}

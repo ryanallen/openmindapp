@@ -1,0 +1,38 @@
+///	PROJECT VARIABLES
+
+$img-path : "../img/";	///	path to images
+
+///	COLORS
+	///	1 - darkest
+	///	9 - brightest
+
+$c00:hsl(0,0,0);
+$c10:hsl(0,0,10);
+$c20:hsl(0,0,20);
+$c30:hsl(0,0,30);
+$c40:hsl(0,0,40);
+$c50:hsl(0,0,50);
+$c60:hsl(0,0,60);
+$c70:hsl(0,0,70);
+$c80:hsl(0,0,80);
+$c90:hsl(0,0,90);
+$c100:hsl(0,0,100);
+
+/// MIXINS
+@mixin flex($flexunit) { /// set flex-grow / flex-shrink / basis
+	display: 	flex;
+	flex:		$flexunit;
+}
+
+@mixin scene($flex-size) {
+  @include        flex($flex-size); /// 
+  ///border-radius:  $rem1;         /// smaller corners for inner containers, .5 instead of 1
+  ///margin-bottom:  $rem2;         /// bottom margin set to keep from touching choices
+}
+
+///	IMPORTS
+
+@import 'partials/base';
+@import 'partials/mind_type';
+///@import	'partials/mind_loops'; ///for playing with grids later
+@import	'partials/mind_flexboxes';

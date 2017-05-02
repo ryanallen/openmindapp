@@ -1,0 +1,19 @@
+////////////////////////////////////////////////////////////////////////////////
+// BASE STYLES                                                                //
+////////////////////////////////////////////////////////////////////////////////
+* { box-sizing: border-box }  ///	mindblowing
+
+html {
+	font-size: 8px;  /// all rems are relative to this number
+	height: 100%;    /// sets the root container height to 100% of the viewport
+}
+
+body {
+	margin: 0;     /// gets rid of the default margins on the top and left
+	height: 100%;  /// sets the body container height to 100% of the root
+}
+
+a:link { text-decoration: none; } /// Removes underline from hyperlinks
+
+$rem1: 1rem;    /// sets group 1 rem units to 1 rem
+$rem2: 1.5rem;	/// sets group 2 rem units to 1.5 rem
