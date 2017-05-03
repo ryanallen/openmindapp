@@ -35,6 +35,12 @@ button {
   	 		box-shadow: 0 0 0 0;
   	 		margin: 22px 16px 10px;
   	 	}
+  	 	&:focus {
+  	 		color: $c100;
+  	 		background-color: $c10;
+  	 		box-shadow: 0 0 0 0;
+  	 		margin: 22px 16px 10px;
+  	 	}
 	transition: background-color .2s ease, box-shadow .2s ease, margin .2s ease, color .2s ease; 
   justify-content: center; /// centers text on the x axis
   margin:16px;
