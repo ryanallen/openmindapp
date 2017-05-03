@@ -20,7 +20,7 @@
 	justify-content: center;
 }
 
-.button {
+button {
 	@include flex(1);/// button container
 	color: $c00;
 	align-items: center;/// centers text on the y axis

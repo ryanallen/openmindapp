@@ -78,7 +78,7 @@ h2 {
   -ms-flex-pack: center;
   justify-content: center; }
 
-.button {
+button {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -97,9 +97,9 @@ h2 {
   justify-content: center;
   margin: 16px;
   border-radius: 4px; }
-  .button:hover {
+  button:hover {
     background-color: white; }
-  .button:active {
+  button:active {
     color: white;
     background-color: #1a1a1a;
     box-shadow: 0 0 0 0;
