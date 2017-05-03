@@ -16,11 +16,18 @@
     <div class="home-scene">
       <!-- html range slider -->
       <input id="home-scene__slider" type="range" min="5" max="20" step="5" value="5"/>
+      <p id="demo"></p>
     </div>
 
-    <div class="button">
+    <button class="button" onclick="practiceLength()">
     <h2>Start Practicing</h2>
-    </div>
+    </button>
+  <script>
+    function practiceLength() {
+    var x = document.getElementById("home-scene__slider").value;
+    document.getElementById("demo").innerHTML = x;
+}
+</script>
 
   </div>
 </body>

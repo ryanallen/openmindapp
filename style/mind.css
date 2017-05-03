@@ -14,6 +14,11 @@ body {
 a:link {
   text-decoration: none; }
 
+input, button, submit {
+  border: none; }
+  input:focus, button:focus, submit:focus {
+    outline: none; }
+
 h1 {
   font-family: 'Cabin', sans-serif;
   font-size: 4vh;

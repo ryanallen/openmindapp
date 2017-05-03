@@ -15,6 +15,12 @@ body {
 }
 
 a:link { text-decoration: none; } /// Removes underline from hyperlinks
+input, button, submit { 
+	border:none; 
+	&:focus {
+		outline: none;
+	}
+}
 
 $rem1: 1rem;    /// sets group 1 rem units to 1 rem
 $rem2: 1.5rem;	/// sets group 2 rem units to 1.5 rem
