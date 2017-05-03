@@ -9,8 +9,11 @@ $img-path : "../img/";	///	path to images
 $c00:hsl(0,0,0);
 $c10:hsl(0,0,10);
 $c20:hsl(0,0,20);
+	$c20_5:hsla(0,0,20,.5);
 $c30:hsl(0,0,30);
+	$c30_5:hsla(0,0,30,.5);
 $c40:hsl(0,0,40);
+	$c40_5:hsla(0,0,40,.5);
 $c50:hsl(0,0,50);
 $c60:hsl(0,0,60);
 $c70:hsl(0,0,70);
@@ -36,3 +39,4 @@ $c100:hsl(0,0,100);
 @import 'partials/mind_type';
 ///@import	'partials/mind_loops'; ///for playing with grids later
 @import	'partials/mind_flexboxes';
+@import	'partials/mind_range-slider'

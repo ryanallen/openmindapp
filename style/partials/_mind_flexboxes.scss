@@ -1,8 +1,5 @@
 .shell {
 	@include flex(1); ///100% of the viewport height
-    background: { /// : needs to replace the - for nested properties
-      color: $c10;
-    }
 	height: 100%; /// makes for no scrolling
 	flex-direction:	column; /// going to lay this out vertically
 }

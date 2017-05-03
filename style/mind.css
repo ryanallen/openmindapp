@@ -8,7 +8,8 @@ html {
 
 body {
   margin: 0;
-  height: 100%; }
+  height: 100%;
+  background-color: #1a1a1a; }
 
 a:link {
   text-decoration: none; }
@@ -40,7 +41,6 @@ h2 {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  background-color: #1a1a1a;
   height: 100%;
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
@@ -99,3 +99,78 @@ h2 {
     background-color: #1a1a1a;
     box-shadow: 0 0 0 0;
     margin: 22px 16px 10px; }
+
+input[type=range] {
+  -webkit-appearance: none;
+  width: 60%;
+  background: transparent; }
+  input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none; }
+  input[type=range]:focus {
+    outline: none; }
+  input[type=range]::-ms-track {
+    width: 100%;
+    cursor: pointer;
+    background: transparent;
+    border-color: transparent;
+    color: transparent; }
+  input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 6vh;
+    width: 6vh;
+    border-radius: 3vh;
+    background: #e6e6e6;
+    cursor: pointer;
+    margin: -3vh 0; }
+    input[type=range]::-webkit-slider-thumb:hover {
+      background: white;
+      box-shadow: 0 0 0 1.4vh rgba(77, 77, 77, 0.5); }
+    input[type=range]::-webkit-slider-thumb:active {
+      background: white;
+      box-shadow: 0 0 0 2.4vh rgba(102, 102, 102, 0.5); }
+  input[type=range]::-moz-range-thumb {
+    height: 6vh;
+    width: 6vh;
+    border-radius: 3vh;
+    background: #e6e6e6;
+    cursor: pointer;
+    margin: -3vh 0; }
+    input[type=range]::-moz-range-thumb:hover {
+      background: white;
+      box-shadow: 0 0 0 1.4vh rgba(77, 77, 77, 0.5); }
+    input[type=range]::-moz-range-thumb:active {
+      background: white;
+      box-shadow: 0 0 0 2.4vh rgba(102, 102, 102, 0.5); }
+  input[type=range]::-ms-thumb {
+    height: 6vh;
+    width: 6vh;
+    border-radius: 3vh;
+    background: #e6e6e6;
+    cursor: pointer;
+    margin: -3vh 0; }
+    input[type=range]::-ms-thumb:hover {
+      background: white;
+      box-shadow: 0 0 0 1.4vh rgba(77, 77, 77, 0.5); }
+    input[type=range]::-ms-thumb:active {
+      background: white;
+      box-shadow: 0 0 0 2.4vh rgba(102, 102, 102, 0.5); }
+  input[type=range]::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 0.6vh;
+    cursor: pointer;
+    background: #333333;
+    border-radius: 0.3vh; }
+  input[type=range]:active::-webkit-slider-runnable-track {
+    background: #4d4d4d; }
+  input[type=range]::-moz-range-track {
+    width: 100%;
+    height: 0.6vh;
+    cursor: pointer;
+    background: #333333;
+    border-radius: 0.3vh; }
+  input[type=range]::-ms-track {
+    width: 100%;
+    height: 0.6vh;
+    cursor: pointer;
+    background: #333333;
+    border-radius: 0.3vh; }
