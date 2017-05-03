@@ -78,6 +78,14 @@ h2 {
   -ms-flex-pack: center;
   justify-content: center; }
 
+.bottom-bar {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1; }
+
 button {
   display: -webkit-flex;
   display: -ms-flexbox;
