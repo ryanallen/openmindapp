@@ -14,8 +14,38 @@
 	@include flex(1);/// 1/12 of the viewport height
 	/// layout defaults to horiz
 }
+	.top-bar__left-action { 
+		@include flex(1);
+		color: $c90;
+			&:hover { 
+				color:$c100; 
+			}
+			&:active {
+				color: $c00;
+			}
+		transition:color .2s ease; 
+		align-items: center;/// centers text on the y axis
+	}
+	.top-bar__title { 
+		@include flex(4); 
+	}
+	.top-bar__right-action { 
+		@include flex(1);
+		justify-content:flex-end;
+		color: $c90;
+			&:hover { 
+				color:$c100; 
+			}
+			&:active {
+				color: $c00;
+			}
+		transition:color .2s ease; 
+		align-items: center;/// centers text on the y axis
+	}
+
 .home-scene{
 	@include flex(11);///10/12 of the viewport height
+	flex-direction:	column; /// going to lay this out vertically
 	align-items: center;
 	justify-content: center;
 }
@@ -44,5 +74,6 @@ button {
 	justify-content: center; /// centers text on the x axis
 	margin:16px;
 	border-radius: 4px;
+
 
 }

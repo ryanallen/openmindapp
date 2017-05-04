@@ -10,16 +10,37 @@
 <body>
   <div class="shell">
     <div class="top-bar">
-      <h1>Mind</h1>
+      <div class="top-bar__left-action">
+      </div>
+      <div class="top-bar__title">
+          <h1 class="top-bar__h1">Mind</h1>
+      </div>
+      <a href="https://goo.gl/forms/6LRq8rz19XAl4zwK2" class="top-bar__right-action">
+        <i class="material-icons top-bar__action-button">live_help</i>
+      </a>
     </div>
 
     <div class="home-scene">
+      <h2 class="home-scene__h2">Practice Length: 
+        <span class="home-scene--em__h2">
+          <output for="home-scene__slider" id="minutes">5</output> minutes
+        </span>
+      </h2>
+      
       <!-- html range slider -->
-      <input id="home-scene__slider" type="range" min="5" max="20" step="5" value="5"/>
+      <input id="home-scene__slider" 
+        type="range" 
+        min="5" 
+        max="20" 
+        step="5" 
+        value="5" 
+        oninput="outputUpdate(value)
+      "/>
+
     </div>
 
     <button onclick="practiceLength()">
-    <h2>Start Practicing</h2>
+    <h2 class="button-text__h2">Start Practicing</h2>
     </button>
   <script>
     function practiceLength() {
@@ -27,7 +48,10 @@
       window.location.href = 'contemplation-' + homeSceneSlider + 'min.html';
 
     }
-</script>
+    function outputUpdate(min) {
+      document.querySelector('#minutes').value = min;
+    }
+  </script>
 
   </div>
 </body>

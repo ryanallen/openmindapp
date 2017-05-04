@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Cabin");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
 * {
   box-sizing: border-box; }
 
@@ -12,32 +13,44 @@ body {
   background-color: #1a1a1a; }
 
 a:link {
-  text-decoration: none; }
+  text-decoration: none;
+  color: #e6e6e6; }
+  a:link:hover {
+    color: white; }
 
 input, button, submit {
   border: none; }
   input:focus, button:focus, submit:focus {
     outline: none; }
 
+.material-icons.top-bar__action-button {
+  font-size: 4vh;
+  margin: 0 4vh;
+  text-shadow: 0px 2px 4px black; }
+
 h1 {
   font-family: 'Cabin', sans-serif;
-  font-size: 4vh;
+  font-size: 4vh; }
+
+.top-bar__h1 {
   margin: auto;
-  padding: 0;
-  color: #b3b3b3;
-  -webkit-align-self: center;
-  -ms-flex-item-align: center;
-  align-self: center; }
+  color: #b3b3b3; }
 
 h2 {
   font-family: 'Cabin', sans-serif;
-  font-size: 3vh;
+  font-size: 3vh; }
+
+.button-text__h2 {
   margin: auto;
-  padding: 0;
-  -webkit-align-self: center;
-  -ms-flex-item-align: center;
-  align-self: center;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  color: black; }
+
+.home-scene__h2 {
+  color: #999999;
+  margin-bottom: 6vh; }
+
+.home-scene--em__h2 {
+  color: white; }
 
 .shell {
   display: -webkit-flex;
@@ -64,6 +77,51 @@ h2 {
   -ms-flex: 1;
   flex: 1; }
 
+.top-bar__left-action {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  color: #e6e6e6;
+  transition: color .2s ease;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center; }
+  .top-bar__left-action:hover {
+    color: white; }
+  .top-bar__left-action:active {
+    color: black; }
+
+.top-bar__title {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 4;
+  -ms-flex: 4;
+  flex: 4; }
+
+.top-bar__right-action {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  color: #e6e6e6;
+  transition: color .2s ease;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center; }
+  .top-bar__right-action:hover {
+    color: white; }
+  .top-bar__right-action:active {
+    color: black; }
+
 .home-scene {
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -71,6 +129,9 @@ h2 {
   -webkit-flex: 11;
   -ms-flex: 11;
   flex: 11;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;

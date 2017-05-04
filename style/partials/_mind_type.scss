@@ -1,19 +1,38 @@
 @import url('https://fonts.googleapis.com/css?family=Cabin');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+/// Rules for sizing the icon.
+.material-icons.top-bar__action-button {
+	font-size: 4vh;
+	margin: 0 4vh;
+	text-shadow: 0px 2px 4px $c00;
+}
 
 h1 {
 	font-family: 'Cabin', sans-serif; ///font set with fallback
 	font-size: 4vh; ///dynamic text size set to 4% of viewport height
-	margin: auto; ///horizontally center
-	padding: 0;
-  	color: $c70; ///this is set in import.scss
-  	align-self: center; ///vertically center
 }
+	.top-bar__h1 {
+		margin: auto; ///horizontally center
+  		color: $c70; ///this is set in import.scss
+	}
 
 h2 {
 	font-family: 'Cabin', sans-serif; ///font set with fallback
 	font-size: 3vh; ///dynamic text size set to 4% of viewport height
+}
+
+.button-text__h2 {
 	margin: auto; ///horizontally center
-	padding: 0;
-  	align-self: center; ///vertically center
   	text-transform: uppercase;
+  	color: $c00;
+}
+
+.home-scene__h2 {
+	color: $c60;
+	margin-bottom: 6vh;
+}
+
+.home-scene--em__h2 { 
+	color: $c100;
 }
