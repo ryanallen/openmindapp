@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-	<title>Mind</title>
+	<title><?php echo $title; ?></title>
 	<meta name="author" content="Ryan Allen">
 	<meta name="description" content="Know Thyself">
 	<link rel="stylesheet" href="style/mind.css">
