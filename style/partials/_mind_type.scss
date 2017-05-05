@@ -3,9 +3,14 @@
 
 /// Rules for sizing the icon.
 .material-icons.top-bar__action-button {
-	font-size: 4vh;
-	margin: 0 4vh;
+	font-size: 48px;
+	margin: 0 32px;
 	text-shadow: 0px 2px 4px $c00;
+}
+
+.material-icons.top-bar__empty-button {
+	font-size: 48px;
+	margin: 0 32px;
 }
 
 h1 {
