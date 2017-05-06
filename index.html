@@ -47,6 +47,19 @@
     <button onclick="practiceLength()">
     <h2 class="button-text__h2">Start Practicing</h2>
     </button>
+  <script src="https://www.gstatic.com/firebasejs/3.9.0/firebase.js"></script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyCCA0X2d1lVf4VQkm2gTesxKvUZdCnN7oI",
+        authDomain: "mind-20bdf.firebaseapp.com",
+        databaseURL: "https://mind-20bdf.firebaseio.com",
+        projectId: "mind-20bdf",
+        storageBucket: "mind-20bdf.appspot.com",
+        messagingSenderId: "253519601998"
+      };
+      firebase.initializeApp(config);
+    </script>
   <script>
     function practiceLength() {
       var homeSceneSlider = document.getElementById("home-scene__slider").value;
