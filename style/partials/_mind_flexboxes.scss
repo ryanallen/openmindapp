@@ -13,6 +13,7 @@
 .top-bar {
 	@include flex(2);/// 1/12 of the viewport height
 	/// layout defaults to horiz
+	min-height: 48px;
 }
 	.top-bar__empty {
 		color: $c00_0;
@@ -28,6 +29,7 @@
 			}
 		transition:color .2s ease; 
 		align-items: center;/// centers text on the y axis
+		min-height: 48px;
 	}
 	.top-bar__title { 
 		@include flex(4); 
@@ -44,6 +46,7 @@
 			}
 		transition:color .2s ease; 
 		align-items: center;/// centers text on the y axis
+		min-height: 48px;
 	}
 
 .home-scene{
