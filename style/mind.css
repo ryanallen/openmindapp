@@ -24,12 +24,12 @@ input, button, submit {
     outline: none; }
 
 .material-icons.top-bar__action-button {
-  font-size: 112px;
+  font-size: 48px;
   margin: 0 32px;
   text-shadow: 0px 2px 4px black; }
 
 .material-icons.top-bar__empty-button {
-  font-size: 112px;
+  font-size: 48px;
   margin: 0 32px; }
 
 h1 {
@@ -88,8 +88,7 @@ h2 {
   display: flex;
   -webkit-flex: 2;
   -ms-flex: 2;
-  flex: 2;
-  min-height: 48px; }
+  flex: 2; }
 
 .top-bar__empty {
   color: transparent; }
@@ -105,8 +104,7 @@ h2 {
   transition: color .2s ease;
   -webkit-align-items: center;
   -ms-flex-align: center;
-  align-items: center;
-  min-height: 48px; }
+  align-items: center; }
   .top-bar__left-action:hover {
     color: white; }
   .top-bar__left-action:active {
@@ -134,8 +132,7 @@ h2 {
   transition: color .2s ease;
   -webkit-align-items: center;
   -ms-flex-align: center;
-  align-items: center;
-  min-height: 48px; }
+  align-items: center; }
   .top-bar__right-action:hover {
     color: white; }
   .top-bar__right-action:active {
