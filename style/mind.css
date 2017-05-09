@@ -24,12 +24,12 @@ input, button, submit {
     outline: none; }
 
 .material-icons.top-bar__action-button {
-  font-size: 48px;
+  font-size: 112px;
   margin: 0 32px;
   text-shadow: 0px 2px 4px black; }
 
 .material-icons.top-bar__empty-button {
-  font-size: 48px;
+  font-size: 112px;
   margin: 0 32px; }
 
 h1 {
