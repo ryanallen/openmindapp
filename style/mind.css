@@ -274,6 +274,3 @@ input[type=range] {
     cursor: pointer;
     background: #333333;
     border-radius: 0.3vh; }
-
-audio {
-  width: 60vw; }
