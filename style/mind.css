@@ -91,6 +91,12 @@ h2 {
   flex: 2; }
 
 .top-bar__empty {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
   color: transparent; }
 
 .top-bar__left-action {
@@ -163,13 +169,16 @@ h2 {
   -ms-flex: 2;
   flex: 2; }
 
-button {
+.button {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
+  min-height: 8vh;
+  margin: auto;
+  text-transform: uppercase;
   color: black;
   -webkit-align-items: center;
   -ms-flex-align: center;
@@ -180,12 +189,12 @@ button {
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  margin: 32px;
+  margin: 16px 32px;
   border-radius: 4px;
   cursor: pointer; }
-  button:hover {
+  .button:hover {
     background-color: white; }
-  button:active {
+  .button:active {
     color: white;
     background-color: #1a1a1a;
     box-shadow: 0 0 0 0;

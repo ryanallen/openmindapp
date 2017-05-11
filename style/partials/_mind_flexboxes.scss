@@ -15,6 +15,7 @@
 	/// layout defaults to horiz
 }
 	.top-bar__empty {
+		@include flex(1);
 		color: $c00_0;
 	}
 	.top-bar__left-action { 
@@ -59,9 +60,12 @@
 	/// layout defaults to horiz
 }
 
-button {
+.button {
 	@include flex(1);/// button container
-	color: $c00;
+	min-height: 8vh;
+	margin: auto; ///horizontally center
+  	text-transform: uppercase;
+  	color: $c00;
 	align-items: center;/// centers text on the y axis
 	background-color: $c90;
 	box-shadow: 0 6px 0 0 $c60;
@@ -76,7 +80,7 @@ button {
   	 	}
 	transition: background-color .2s ease, box-shadow .2s ease, margin .2s ease, color .2s ease; 
 	justify-content: center; /// centers text on the x axis
-	margin:32px;
+	margin:16px 32px;
 	border-radius: 4px;
 	cursor:pointer;
 
