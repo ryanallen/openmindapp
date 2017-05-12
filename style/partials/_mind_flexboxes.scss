@@ -4,12 +4,6 @@
 	flex-direction:	column; /// going to lay this out vertically
 }
 
-.icons{
-	fill:$c90;
-		&:hover {
-			fill:$c100;
-		}
-}
 .top-bar {
 	@include flex(2);/// 1/12 of the viewport height
 	/// layout defaults to horiz
@@ -23,6 +17,7 @@
 		color: $c90;
 			&:hover { 
 				color:$c100; 
+				text-shadow:0 0 16px $c50;
 			}
 			&:active {
 				color: $c00;
@@ -71,17 +66,19 @@
 	box-shadow: 0 4px 0 0 $c60;
   		&:hover { 
   	 		background-color: $c100;
+  	 		box-shadow: 0 4px 0 0 $c60, 0 0 16px 0 $c50; ///makes the button glow on hover
+
   	 	}
   	 	&:active {
   	 		color: $c100;
   	 		background-color: $c20;
   	 		box-shadow: 0 0 0 0;
   	 		box-shadow: inset 0 2px 2px #000000;
-  	 		margin: 20px 32px 12px;
+  	 		margin: 12px 32px 4px; /// makes the button click down into place on tap
   	 	}
 	transition: background-color .2s ease, box-shadow .2s ease, margin .2s ease, color .2s ease; 
 	justify-content: center; /// centers text on the x axis
-	margin:16px 32px;
+	margin:8px 32px;
 	border-radius: 4px;
 	cursor:pointer;
 

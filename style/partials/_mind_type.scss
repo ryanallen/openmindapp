@@ -20,9 +20,10 @@ h1 {
 	.top-bar__home {
 		margin: auto; ///horizontally center
 		text-align: center;
-  		color: $c70; ///this is set in import.scss
-  		font-size: 4vh; ///dynamic text size set to 4% of viewport height
-  		font-weight: 500;
+  		color: $c80; ///this is set in import.scss
+  		font-size: 40px; ///dynamic text size set to 4% of viewport height
+  		font-weight: bold;
+  		text-shadow: 0 0 4px $c30, 0 0 6px $c20;
 	}
 
 	.top-bar__sub {

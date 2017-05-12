@@ -38,9 +38,10 @@ h1 {
 .top-bar__home {
   margin: auto;
   text-align: center;
-  color: #b3b3b3;
-  font-size: 4vh;
-  font-weight: 500; }
+  color: #cccccc;
+  font-size: 40px;
+  font-weight: bold;
+  text-shadow: 0 0 4px #4d4d4d, 0 0 6px #333333; }
 
 .top-bar__sub {
   margin: auto;
@@ -77,11 +78,6 @@ h2 {
   -ms-flex-direction: column;
   flex-direction: column; }
 
-.icons {
-  fill: #e6e6e6; }
-  .icons:hover {
-    fill: white; }
-
 .top-bar {
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -112,7 +108,8 @@ h2 {
   -ms-flex-align: center;
   align-items: center; }
   .top-bar__left-action:hover {
-    color: white; }
+    color: white;
+    text-shadow: 0 0 16px gray; }
   .top-bar__left-action:active {
     color: black; }
 
@@ -189,17 +186,18 @@ h2 {
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  margin: 16px 32px;
+  margin: 8px 32px;
   border-radius: 4px;
   cursor: pointer; }
   .button:hover {
-    background-color: white; }
+    background-color: white;
+    box-shadow: 0 4px 0 0 #999999, 0 0 16px 0 gray; }
   .button:active {
     color: white;
     background-color: #333333;
     box-shadow: 0 0 0 0;
     box-shadow: inset 0 2px 2px #000000;
-    margin: 20px 32px 12px; }
+    margin: 12px 32px 4px; }
 
 input[type=range] {
   -webkit-appearance: none;
