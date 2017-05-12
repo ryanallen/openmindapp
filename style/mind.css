@@ -276,6 +276,4 @@ input[type=range] {
     border-radius: 0.3vh; }
 
 audio {
-  width: 60vw;
-  height: 56px;
-  margin: -64px 0; }
+  width: 60vw; }
