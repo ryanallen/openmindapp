@@ -1,0 +1,41 @@
+.top-bar {
+	@include flex(1);/// 20% of the viewport height
+	/// layout defaults to horiz
+}
+
+.top-bar__title { 
+	@include flex(4); 
+}
+
+.top-bar__left-action { 
+	@include flex(1);
+	color: $c90;
+		&:hover { 
+			color:$c100; 
+			text-shadow:0 0 16px $c50;
+		}
+		&:active {
+			color: $c00;
+		}
+	transition:color .2s ease; 
+	align-items: center;/// centers text on the y axis
+}
+
+.top-bar__right-action { 
+	@include flex(1);
+	justify-content:flex-end;
+	color: $c90;
+		&:hover { 
+			color:$c100; 
+		}
+		&:active {
+			color: $c00;
+		}
+	transition:color .2s ease; 
+	align-items: center;/// centers text on the y axis
+}
+
+.top-bar__empty {
+	@include flex(1);
+	color: $c00_0;
+}
