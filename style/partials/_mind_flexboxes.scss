@@ -1,3 +1,8 @@
+.action-menu	{
+	@include flex(1);
+
+}
+
 .shell {
 	@include flex(1); ///100% of the viewport height
 	height: 100%; /// makes for no scrolling
@@ -5,7 +10,7 @@
 }
 
 .top-bar {
-	@include flex(2);/// 1/12 of the viewport height
+	@include flex(1);/// 20% of the viewport height
 	/// layout defaults to horiz
 }
 	.top-bar__empty {
@@ -43,7 +48,7 @@
 	}
 
 .home-scene{
-	@include flex(12);///10/12 of the viewport height
+	@include flex(4);///80% of the viewport height
 	flex-direction:	column; /// going to lay this out vertically
 	align-items: center;
 	justify-content: center;
@@ -57,7 +62,8 @@
 
 .button {
 	@include flex(1);/// button container
-	min-height: 8vh;
+	height: 8vh;
+	min-height: 48px;
 	margin: auto; ///horizontally center
   	text-transform: uppercase;
   	color: $c00;

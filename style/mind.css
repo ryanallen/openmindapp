@@ -66,6 +66,14 @@ h2 {
 .home-scene--em__h2 {
   color: white; }
 
+.action-menu {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1; }
+
 .shell {
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -82,9 +90,9 @@ h2 {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 2;
-  -ms-flex: 2;
-  flex: 2; }
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1; }
 
 .top-bar__empty {
   display: -webkit-flex;
@@ -145,9 +153,9 @@ h2 {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 12;
-  -ms-flex: 12;
-  flex: 12;
+  -webkit-flex: 4;
+  -ms-flex: 4;
+  flex: 4;
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
@@ -173,7 +181,8 @@ h2 {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  min-height: 8vh;
+  height: 8vh;
+  min-height: 48px;
   margin: auto;
   text-transform: uppercase;
   color: black;
