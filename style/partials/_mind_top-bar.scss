@@ -14,9 +14,6 @@
 			color:$c100; 
 			text-shadow:0 0 16px $c50;
 		}
-		&:active {
-			color: $c00;
-		}
 	transition:color .2s ease; 
 	align-items: center;/// centers text on the y axis
 }
@@ -28,9 +25,7 @@
 		&:hover { 
 			color:$c100; 
 		}
-		&:active {
-			color: $c00;
-		}
+	transform: initial;
 	transition:color .2s ease; 
 	align-items: center;/// centers text on the y axis
 }
