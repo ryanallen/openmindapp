@@ -7,6 +7,7 @@ $img-path : "../img/";	///	path to images
 	///	9 - brightest
 	$c00_0:hsla(0,0,0,.0);
 $c00:hsl(0,0,0);
+$c05:hsl(0,0,5);
 $c10:hsl(0,0,10);
 $c20:hsl(0,0,20);
 	$c20_5:hsla(0,0,20,.5);
@@ -40,5 +41,5 @@ $c100:hsl(0,0,100);
 ///@import	'partials/mind_loops'; ///for playing with grids later
 @import	'partials/mind_flexboxes';
 @import	'partials/mind_top-bar';
-@import	'partials/mind_range-slider';
+@import	'partials/mind_buttons';
 @import 'partials/mind_audio-controls';
