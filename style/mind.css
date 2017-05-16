@@ -35,24 +35,9 @@ input, button, submit {
 h1 {
   font-family: 'Cabin', sans-serif; }
 
-.top-bar__home {
-  margin: auto;
-  text-align: center;
-  color: #cccccc;
-  font-size: 40px;
-  font-weight: bold;
-  text-shadow: 0 0 4px #4d4d4d, 0 0 6px #333333; }
-
-.top-bar__sub {
-  margin: auto;
-  text-align: center;
-  color: #b3b3b3;
-  font-size: 2.4vh;
-  font-weight: 300; }
-
 h2 {
   font-family: 'Cabin', sans-serif;
-  font-size: 3vh; }
+  font-size: 24px; }
 
 .button-text__h2 {
   margin: auto;
@@ -116,9 +101,7 @@ h2 {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 1;
-  -ms-flex: 1;
-  flex: 1; }
+  height: 80px; }
 
 .top-bar__title {
   display: -webkit-flex;
@@ -155,8 +138,6 @@ h2 {
   -ms-flex-pack: end;
   justify-content: flex-end;
   color: #e6e6e6;
-  -webkit-transform: initial;
-  transform: initial;
   transition: color .2s ease;
   -webkit-align-items: center;
   -ms-flex-align: center;
@@ -172,6 +153,22 @@ h2 {
   -ms-flex: 1;
   flex: 1;
   color: transparent; }
+
+.top-bar__home {
+  margin: auto;
+  text-align: center;
+  color: #cccccc;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: bold;
+  text-shadow: 0 0 4px #4d4d4d, 0 0 6px #333333; }
+
+.top-bar__sub {
+  margin: auto;
+  text-align: center;
+  color: #b3b3b3;
+  font-size: 2.4vh;
+  font-weight: 300; }
 
 .button {
   display: -webkit-flex;
@@ -208,7 +205,28 @@ h2 {
     margin: 12px 32px 4px; }
 
 #action-list {
-  display: none; }
+  display: none;
+  background-color: #0d0d0d;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  box-shadow: inset 0 0 12px black; }
+
+.action-list__card-item {
+  color: #e6e6e6;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: 'Cabin', sans-serif;
+  font-size: 18px;
+  line-height: 56px;
+  margin: 0 16px 0 0; }
 
 audio {
   width: 60vw; }
