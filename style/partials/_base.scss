@@ -6,11 +6,13 @@
 html {
 	font-size: 8px;  /// all rems are relative to this number
 	height: 100%;    /// sets the root container height to 100% of the viewport
+	width: 100%;
 }
 
 body {
 	margin: 0;     /// gets rid of the default margins on the top and left
 	height: 100%;  /// sets the body container height to 100% of the root
+	width: 100%;
 	background-color: $c10; /// same as the shell bg
 }
 

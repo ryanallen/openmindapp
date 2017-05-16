@@ -13,7 +13,8 @@
 
 
 .home-scene{
-	@include flex(4);///80% of the viewport height
+	@include flex(1);
+	height: 100%;
 	flex-direction:	column; /// going to lay this out vertically
 	align-items: center;
 	justify-content: center;

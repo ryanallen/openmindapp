@@ -11,7 +11,6 @@
   <link rel="apple-touch-icon" sizes="152x152" href="touch-icon-ipad.png">
   <link rel="apple-touch-icon" sizes="180x180" href="touch-icon-iphone-retina.png">
   <link rel="apple-touch-icon" sizes="167x167" href="touch-icon-ipad-retina.png">
-  <!--https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/-->
 </head>
 <body>
   <div class="shell">
@@ -22,19 +21,28 @@
       <div class="top-bar__title">
           <h1 class="top-bar__home">Mind</h1>
       </div>
-      <a href="#" class="top-bar__right-action" onclick="actionList()"><!--https://goo.gl/forms/6LRq8rz19XAl4zwK2-->
+      <a href="#" class="top-bar__right-action" onclick="actionList()">
         <i class="material-icons top-bar__action-button">keyboard_arrow_down</i>
       </a>
     </div>
-
-    <ul id="action-list">
-      <li class="action-list__card-item">
-        Save Meditation&nbsp;<i class="material-icons">file_download</i>
-      </li>
-      <li class="action-list__card-item">
-        Save Meditation&nbsp;<i class="material-icons">file_download</i>
-      </li>
-    </ul>
+    <div id="action-list">
+      <a href="#" onclick="prompt('Copy Link', window.location.href)">
+        <div class="action-list__card-item">
+          <i class="material-icons action-list__icon--flip-h">
+            reply
+          </i>
+          &nbsp; &nbsp;Share Meditation
+       </div>
+      </a>
+      <a href="https://goo.gl/forms/6LRq8rz19XAl4zwK2" target="_blank">
+        <div class="action-list__card-item">
+          <i class="material-icons action-list__icon--flip-h">
+            feedback
+          </i>
+          &nbsp; &nbsp;Give App Feedback
+       </div>
+      </a>
+    </div>
 
     <div class="home-scene">
       <h2 class="home-scene__h2">I want to practice for...</h2></div>
