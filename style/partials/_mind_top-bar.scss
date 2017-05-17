@@ -1,0 +1,56 @@
+.top-bar {
+	display: flex;
+	height: 80px;
+	/// layout defaults to horiz
+}
+
+.top-bar__title { 
+	@include flex(4); 
+}
+
+.top-bar__left-action { 
+	@include flex(1);
+	color: $c90;
+		&:hover { 
+			color:$c100; 
+			text-shadow:0 0 16px $c50;
+		}
+	transition:color .2s ease; 
+	align-items: center;/// centers text on the y axis
+}
+
+.top-bar__right-action { 
+	@include flex(1);
+	justify-content:flex-end;
+	color: $c90;
+		&:hover { 
+			color:$c100; 
+		}
+	transition:color .2s ease; 
+	align-items: center;/// centers text on the y axis
+}
+
+.top-bar__empty {
+	@include flex(1);
+	color: $c00_0;
+}
+
+/// TYPE
+
+.top-bar__home {
+	margin: auto; ///horizontally center
+	text-align: center;
+		color: $c80; ///this is set in import.scss
+		font-size: 32px; ///dynamic text size set to 4% of viewport height
+		line-height: 40px; /// for vertical rhythm
+		font-weight: bold;
+		text-shadow: 0 2px 0 $c00;
+}
+
+.top-bar__sub {
+	margin: auto; ///horizontally center
+	text-align: center;
+		color: $c70; ///this is set in import.scss
+		font-size: 2.4vh; ///dynamic text size set to 4% of viewport height
+		font-weight: 300;
+}

@@ -1,49 +1,20 @@
+.action-menu	{
+	@include flex(1);
+
+}
+
 .shell {
 	@include flex(1); ///100% of the viewport height
 	height: 100%; /// makes for no scrolling
 	flex-direction:	column; /// going to lay this out vertically
+	background-color: $c10;
+	///margin:90vh 16px -90vh; /// moves to the bottom
 }
 
-.top-bar {
-	@include flex(2);/// 1/12 of the viewport height
-	/// layout defaults to horiz
-}
-	.top-bar__empty {
-		@include flex(1);
-		color: $c00_0;
-	}
-	.top-bar__left-action { 
-		@include flex(1);
-		color: $c90;
-			&:hover { 
-				color:$c100; 
-				text-shadow:0 0 16px $c50;
-			}
-			&:active {
-				color: $c00;
-			}
-		transition:color .2s ease; 
-		align-items: center;/// centers text on the y axis
-	}
-	.top-bar__title { 
-		@include flex(4); 
-	}
-	.top-bar__right-action { 
-		@include flex(1);
-		justify-content:flex-end;
-		color: $c90;
-			&:hover { 
-				color:$c100; 
-			}
-			&:active {
-				color: $c00;
-			}
-		transition:color .2s ease; 
-		align-items: center;/// centers text on the y axis
-	}
 
 .home-scene{
-	@include flex(12);///10/12 of the viewport height
+	@include flex(1);
+	height: 100%;
 	flex-direction:	column; /// going to lay this out vertically
 	align-items: center;
 	justify-content: center;
@@ -53,34 +24,4 @@
 .bottom-bar {
 	@include flex(2);/// 1/12 of the viewport height
 	/// layout defaults to horiz
-}
-
-.button {
-	@include flex(1);/// button container
-	min-height: 8vh;
-	margin: auto; ///horizontally center
-  	text-transform: uppercase;
-  	color: $c00;
-	align-items: center;/// centers text on the y axis
-	background-color: $c90;
-	box-shadow: 0 4px 0 0 $c60;
-  		&:hover { 
-  	 		background-color: $c100;
-  	 		box-shadow: 0 4px 0 0 $c60, 0 0 16px 0 $c50; ///makes the button glow on hover
-
-  	 	}
-  	 	&:active {
-  	 		color: $c100;
-  	 		background-color: $c20;
-  	 		box-shadow: 0 0 0 0;
-  	 		box-shadow: inset 0 2px 2px #000000;
-  	 		margin: 12px 32px 4px; /// makes the button click down into place on tap
-  	 	}
-	transition: background-color .2s ease, box-shadow .2s ease, margin .2s ease, color .2s ease; 
-	justify-content: center; /// centers text on the x axis
-	margin:8px 32px;
-	border-radius: 4px;
-	cursor:pointer;
-
-
 }

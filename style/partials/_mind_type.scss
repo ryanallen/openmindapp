@@ -17,26 +17,11 @@ h1 {
 	font-family: 'Cabin', sans-serif; ///font set with fallback
 
 }
-	.top-bar__home {
-		margin: auto; ///horizontally center
-		text-align: center;
-  		color: $c80; ///this is set in import.scss
-  		font-size: 40px; ///dynamic text size set to 4% of viewport height
-  		font-weight: bold;
-  		text-shadow: 0 0 4px $c30, 0 0 6px $c20;
-	}
 
-	.top-bar__sub {
-		margin: auto; ///horizontally center
-		text-align: center;
-  		color: $c70; ///this is set in import.scss
-  		font-size: 2.4vh; ///dynamic text size set to 4% of viewport height
-  		font-weight: 300;
-	}
 
 h2 {
 	font-family: 'Cabin', sans-serif; ///font set with fallback
-	font-size: 3vh; ///dynamic text size set to 4% of viewport height
+	font-size: 24px; ///dynamic text size set to 4% of viewport height
 }
 
 .button-text__h2 {
