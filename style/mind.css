@@ -26,13 +26,9 @@ input, button, submit {
     outline: none; }
 
 .material-icons.top-bar__action-button {
-  font-size: 48px;
+  font-size: 32px;
   margin: 0 32px;
   text-shadow: 0px 2px 4px black; }
-
-.material-icons.top-bar__empty-button {
-  font-size: 48px;
-  margin: 0 32px; }
 
 h1 {
   font-family: 'Cabin', sans-serif; }
@@ -134,9 +130,8 @@ h2 {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 1;
-  -ms-flex: 1;
-  flex: 1;
+  width: 80px;
+  height: 80px;
   -webkit-justify-content: flex-end;
   -ms-flex-pack: end;
   justify-content: flex-end;
@@ -152,10 +147,9 @@ h2 {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 1;
-  -ms-flex: 1;
-  flex: 1;
-  color: transparent; }
+  color: transparent;
+  width: 80px;
+  height: 80px; }
 
 .top-bar__home {
   margin: auto;
@@ -210,13 +204,11 @@ h2 {
 #action-list {
   display: none;
   background-color: #0d0d0d;
+  box-shadow: inset 0px 6px 0 black;
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
-  -ms-flex-item-align: end;
-  -webkit-align-self: flex-end;
-  align-self: flex-end;
-  box-shadow: inset 0px 6px 0 black;
+  position: absolute;
   width: 100%; }
 
 .action-list__card-item {

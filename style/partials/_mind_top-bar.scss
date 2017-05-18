@@ -20,7 +20,9 @@
 }
 
 .top-bar__right-action { 
-	@include flex(1);
+	display: flex;
+	width: 80px;
+	height: 80px;
 	justify-content:flex-end;
 	color: $c90;
 		&:hover { 
@@ -31,8 +33,10 @@
 }
 
 .top-bar__empty {
-	@include flex(1);
+	display: flex;
 	color: $c00_0;
+	width: 80px;
+	height: 80px;
 }
 
 /// TYPE

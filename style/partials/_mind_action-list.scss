@@ -1,9 +1,9 @@
 #action-list {
 	display: none;
 	background-color: $c05;
-	flex-direction:	column; /// going to lay this out vertically
-	align-self: flex-end;
 	box-shadow: inset 0px 6px 0 $c00;
+	flex-direction: column;
+	position: absolute;
 	width: 100%;
 }
 

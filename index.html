@@ -12,14 +12,11 @@
   <link rel="apple-touch-icon" sizes="152x152" href="touch-icon-ipad.png">
   <link rel="apple-touch-icon" sizes="180x180" href="touch-icon-iphone-retina.png">
   <link rel="apple-touch-icon" sizes="167x167" href="touch-icon-ipad-retina.png">
-
 </head>
 <body>
   <div class="shell">
     <div class="top-bar">
-
       <div class="top-bar__empty">
-        <i class="material-icons top-bar__empty-button">home</i>
       </div>
 
       <div class="top-bar__title">
@@ -27,10 +24,10 @@
       </div>
 
       <a href="#" class="top-bar__right-action" onclick="actionList()">
-        <i class="material-icons top-bar__action-button">keyboard_arrow_down</i>
+        <i class="material-icons top-bar__action-button">more_vert</i>
       </a>
-
     </div>
+
     <div id="action-list">
       <a href="#" onclick="prompt('Copy Link', window.location.href)">
         <div class="action-list__card-item">
@@ -61,25 +58,25 @@
       <a href="contemplation-10min.html">
         <h2 class="button">10 Minutes</h2>
       </a>
+    </div>
 
-  <script>
-    function actionList() {
-      var x = document.getElementById('action-list');
-      if (x.style.display === 'flex') {
-          x.style.display = 'none';
-      } else {
-          x.style.display = 'flex';
+    <script>
+      function actionList() {
+        var x = document.getElementById('action-list');
+        if (x.style.display === 'flex') {
+            x.style.display = 'none';
+        } else {
+            x.style.display = 'flex';
+        }
       }
-    }
 
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-256793-23', 'auto');
-    ga('send', 'pageview');
-  </script>
-
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-256793-23', 'auto');
+      ga('send', 'pageview');
+    </script>
   </div>
 </body>
 </html>
