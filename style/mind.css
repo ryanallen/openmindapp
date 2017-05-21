@@ -208,7 +208,14 @@ h2 {
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
+<<<<<<< HEAD
   position: absolute;
+=======
+  -ms-flex-item-align: end;
+  -webkit-align-self: flex-end;
+  align-self: flex-end;
+  box-shadow: inset 0px 6px 0 black;
+>>>>>>> action-list
   width: 100%; }
 
 .action-list__card-item {
