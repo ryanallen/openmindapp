@@ -1,17 +1,10 @@
-
 1.	[Preparations] Take a moment to get comfortable before listening.
 	1.1 [Four Noble Truths] The reason to practice is put an end to your stress.
 		1.1.1	Stress exists in life.
 		1.1.2	Stress is caused by wanting. Not getting what one wants, and getting what one does not want.
 		1.1.3	Stress can be ceased by ceasing wanting.
-		1.1.4	This is a path to help you limit and control your stress and wanting by helping you to see your true self. 
-	1.1 [Motivations]
-		1.1.1	[Mindsets] Basic qualities, like intelligence or talent, are not fixed traits. They can be developed through effort. Every thing you get in life comes through effort. You can do anything.
-		source: http://mindsetonline.com/whatisit/about/
-		1.1.2	Every experience you have is a choice.
-		1.1.3	Only you can change you
-		1.1.4	You believe what you choose to believe.
-		1.1.5	[faith] believe that if you choose to work hard and learn and change that you will reach your goals.
+		1.1.4	There is a noble eightfold path that will help
+	1.1 [Motivation] Your basic traits like intelligence, focus, concentration and the like, are not fixed traits. They and your other basic abilities can be developed through effort. Make the effort.*[source](http://mindsetonline.com/whatisit/about/)*
 	1.2	[Notice the Senses] So just start to notice and calm the senses.
 		1.2.1	Sight
 		1.2.2	Tastes
@@ -19,8 +12,8 @@
 		1.2.4	Sounds
 		1.2.5	Touch
 	1.3	[Posture] And notice the feeling of the still body, upright and yet relaxed at the same time. 
-	1.4	[Body scan]As you begin to scan down from head to toe. Noticing the different areas of comfort or discomfort.
-		1.3.1	[Follow an Imagined Feeling] And shift attention to the warm feeling of a smile on the mouth. Smile and notice the warm feeling as it spreads from the mouth to the rest of the face. Notice the warm feeling spreadhing through the to the back of the head. Follow the warm feeling as it moves down, into the neck, the shoulders, the upper arms, the lower arms, the hands and the fingers. The upper back, the chest, the abdomen, the obliques, the lower back, the hips, the groin the backside, the front and back of the upper legs, the lower legs, the ankles, the feet and the toes. And just imagine that feeling radiating out now away from the body into the space around you. Warming any others in the area. Imagine now that it grows larger, maybe as big as a city, as big as a country, as big as the earth, the galaxy, the universe.
+	1.4	[Body scan] As you begin to scan down from head to toe. Noticing the different areas of comfort or discomfort.
+		1.3.1	[Follow an Imagined Feeling] Imagine the feeling of warm light on the top of your head. Follow the warm feeling as it moves down, into the neck, the shoulders, the upper arms, the lower arms, the hands and the fingers. The upper back, the chest, the abdomen, the obliques, the lower back, the hips, the groin the backside, the front and back of the upper legs, the lower legs, the ankles, the feet and the toes. And just imagine that feeling radiating out now away from the body into the space around you. Warming any others in the area. Imagine now that it grows larger, maybe as big as a city, as big as a country, as big as the earth, the galaxy, the universe.
 		1.3.2 placeholder
 	1.5	[Object of meditation] And take the biggest breath possible and let it out slowly, noticing the feeling of the breath somewhere in the body. The tip of the nose, the rise and fall of the shoulders, the belly expanding, wherever you like.
 
