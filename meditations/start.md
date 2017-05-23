@@ -8,7 +8,7 @@
 ==========
 
 1.	[Prepare] Take a moment to get comfortable before listening.
-	1.1 [Four Noble Truths] The reason to practice is put an end to your stress.
+	1.1 [Four Noble Truths] The reason to practice is put an end to your stress and the stress of those around you.
 		1.1.1	Stress exists in life.
 		1.1.2	Stress is caused by not getting what things you want, and getting things you don't want.
 		1.1.3	Stress can be stopped when you stop wanting.
