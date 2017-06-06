@@ -72,11 +72,13 @@ Contemplate What is Skillful (Groups)
 ##See Yourself as You Really Are
 
 ###The Need for Insight
-5.	Let's think about what the root cause of my stress could be.
-	5.1 My stress is caused by certain mental habits that leak out as harmful and unskilful words and actions [see also - [Kleshas](https://en.wikipedia.org/wiki/Kleshas_(Buddhism)).
+5.	If the reason to practice is to end stress, let's think about what the root cause of our stress could be.
+	5.1 Our stress is caused by stressful thoughts or mental habits that eventually leak out as harmful words and actions [see also - [Kleshas](https://en.wikipedia.org/wiki/Kleshas_(Buddhism)).
 	5.2 Examples include anxiety, depression, anger, hatred, etc.
-	5.3 These examples are caused by the deeper mental patterns of attachment, me wanting things, like pleasure; and aversion, me getting things I do not want, like pain.
-	5.4 And ultimately these patterns are caused by one mental state.
-	5.5 [Ignorance] One of ignorance; where my mind overlays a false imagination onto my perception of reality. This lie I constantly tell myself makes me ignorant of how all things actually exist. 
-	5.6	With these meditations you can choose to practice and put effort into your focus and concentration in an effort to think logically through to skillful insights, which is the way out of ignorance, and an end to stress.
+	5.3 [Attachment and Aversion] These examples are caused by the deeper mental patterns of attachment, me habitually wanting things, like pleasure; and aversion, me not wanting things, like pain.
+	5.4 [Ignorance] These patterns are ultimately caused by one central belief or mental state. One of ignorance; where my mind overlays an imagined permanence onto my perception of reality. This lie I constantly construct makes me ignorant of how all things actually exist, which cause patterns of attachment and aversion, which cause all the unskilful thoughts, words, and actions. 
+	5.6	With these meditations you can choose to practice your focus and concentration in an effort to analyze your mind in an effort to see all things as they really are, which is the way out of ignorance on a path that ends stress.
+
+###Identifying the Lie [Ignorance]
+5.	
 
