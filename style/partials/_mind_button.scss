@@ -1,28 +1,35 @@
 .button {
 	@include flex(1);/// button container
-	height: 8vh;
-	min-height: 48px;
-	margin: auto; ///horizontally center
-  	text-transform: uppercase;
-  	color: $c00;
+	min-height: 96px;
+  width: 100%;
+  max-width: 960px;
+	margin: 0 auto 12px auto;
+  color: $c100;
 	align-items: center;/// centers text on the y axis
-	background-color: $c90;
-	box-shadow: 0 4px 0 0 $c60;
+  ///background-color: $c15;
+  ///box-shadow: 0 6px 0 0 $c08;
   		&:hover { 
   	 		background-color: $c100;
   	 		box-shadow: 0 4px 0 0 $c60, 0 0 16px 0 $c50; ///makes the button glow on hover
+        color: $c00;
 
   	 	}
-  	 	&:active {
-  	 		color: $c100;
-  	 		background-color: $c20;
-  	 		box-shadow: 0 0 0 0;
-  	 		box-shadow: inset 0 2px 2px #000000;
-  	 		margin: 12px 32px 4px; /// makes the button click down into place on tap
-  	 	}
 	transition: background-color .2s ease, box-shadow .2s ease, margin .2s ease, color .2s ease; 
-	justify-content: center; /// centers text on the x axis
-	margin:8px 32px;
-	border-radius: 4px;
-	cursor:pointer;
+}
+
+.button__text {
+  @include flex(1);
+  margin: 0 0 0 32px;
+}
+
+.material-icons.button__icon {
+  display: flex;
+  font-size: 32px;
+  margin: 0 32px;
+}
+
+.button__group {
+  @include flex(1);/// button container
+  flex-direction:column;
+  justify-content: center;
 }

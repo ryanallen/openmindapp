@@ -1,0 +1,16 @@
+.hero {
+	display: flex;
+	min-height: 192px;
+	flex-direction:	column; /// going to lay this out vertically
+	align-items: center;
+	justify-content: center;
+	color: $c60;
+	background-color: $c10;
+	margin-top: 2px;
+	box-shadow: 0 2px 0 0 $c10;
+}
+
+.hero__subtitle {
+	margin: 16px;
+	text-align: center;
+}

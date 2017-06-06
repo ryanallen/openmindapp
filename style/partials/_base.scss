@@ -13,16 +13,17 @@ body {
 	margin: 0;     /// gets rid of the default margins on the top and left
 	height: 100%;  /// sets the body container height to 100% of the root
 	width: 100%;
-	background-color: $c10; /// same as the shell bg
+	background-color: $c10;
 }
 
 a:link { 
 	text-decoration: none; 
 	color: $c90;
-		&:hover {
-			color: $c100;
-		}
-} /// Removes underline from hyperlinks
+}
+
+a:visited {
+	color: $c40;
+}
 input, button, submit { border:none; &:focus {outline: none;} } /// removes outlines
 
 $rem1: 1rem;    /// sets group 1 rem units to 1 rem
