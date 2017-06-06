@@ -73,7 +73,10 @@ Contemplate What is Skillful (Groups)
 
 ###The Need for Insight
 5.	Let's think about what the root cause of my stress could be.
-	5.1 My stress is caused by my negative thoughts that leak out as harmful and unskilful words and actions.
-	5.2 My negative thoughts about things are caused by my ignorance of how things really exist.
-	5.3 So the way to put an end to stress is to start seeing things the way they really are, without the overlay of false imagination and self delusion.
+	5.1 My stress is caused by certain mental habits that leak out as harmful and unskilful words and actions [see also - [Kleshas](https://en.wikipedia.org/wiki/Kleshas_(Buddhism)).
+	5.2 Examples include anxiety, depression, anger, hatred, etc.
+	5.3 These examples are caused by the deeper mental patterns of attachment, me wanting things, like pleasure; and aversion, me getting things I do not want, like pain.
+	5.4 And ultimately these patterns are caused by one mental state.
+	5.5 [Ignorance] One of ignorance; where my mind overlays a false imagination onto my perception of reality. This lie I constantly tell myself makes me ignorant of how all things actually exist. 
+	5.6	With these meditations you can choose to practice and put effort into your focus and concentration in an effort to think logically through to skillful insights, which is the way out of ignorance, and an end to stress.
 
