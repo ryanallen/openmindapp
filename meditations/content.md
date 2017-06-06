@@ -72,9 +72,8 @@ Contemplate What is Skillful (Groups)
 ##See Yourself as You Really Are
 
 ###The Need for Insight
-5.	Think about what the root cause of my stress could be.
-	5.1 My stress is caused by my negative emotions.
-	5.2 My negative emotions are caused by my negative thoughts about a thing.
-	5.3 My negative thoughts about things are caused by my ignorance of how things really exist.
+5.	Let's think about what the root cause of my stress could be.
+	5.1 My stress is caused by my negative thoughts that leak out as harmful and unskilful words and actions.
+	5.2 My negative thoughts about things are caused by my ignorance of how things really exist.
 	5.3 So the way to put an end to stress is to start seeing things the way they really are, without the overlay of false imagination and self delusion.
 
