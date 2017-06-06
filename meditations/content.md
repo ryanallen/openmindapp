@@ -60,8 +60,8 @@ Contemplate What is Skillful (Singles)
 	5.5 I am the owner of my thoughts, words, and actions; whether good or bad, of these shall I inherit.
 
 ##Contemplate the Four Encompassing Bodhisattva Vows (https://en.wikipedia.org/wiki/Bodhisattva_vow)
-5. [Contemplate what is skillful] There are four things that are skillful to contemplate to work for the relief and liberation of all sentient beings.
-	5.1	Sentient beings are countless; I vow to save them all.
+5. [Contemplate what is skillful] There are four things that are skillful to contemplate to work for the relief and liberation of all beings.
+	5.1	Beings are countless; I vow to save them all.
 	5.2	Stress and delusive-desires are inexhaustible; I vow to end them all.
 	5.3	There are teachings beyond-measure; I vow to learn them all.
 	5.4	The Buddha's Way is unsurpassable; I vow to accomplish it.
