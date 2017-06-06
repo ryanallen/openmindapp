@@ -27,11 +27,6 @@ input, button, submit {
   input:focus, button:focus, submit:focus {
     outline: none; }
 
-.material-icons.top-bar__action-button {
-  font-size: 32px;
-  margin: 0 32px;
-  text-shadow: 0px 2px 4px black; }
-
 h1 {
   font-family: 'Cabin', sans-serif; }
 
@@ -100,10 +95,8 @@ ol {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 1;
-  -ms-flex: 1;
-  flex: 1;
   color: #e6e6e6;
+  width: 64px;
   transition: color .2s ease;
   -webkit-align-items: center;
   -ms-flex-align: center;
@@ -111,6 +104,27 @@ ol {
   .top-bar__left-action:hover {
     color: white;
     text-shadow: 0 0 16px gray; }
+
+.top-bar__heading, .top-bar__sub {
+  margin: auto;
+  color: #cccccc;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: bold;
+  text-shadow: 0 0 4px black; }
+
+.top-bar__sub--offset {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 64px;
+  width: 100%;
+  margin: auto auto auto -64px; }
+
+.material-icons.top-bar__action-button {
+  font-size: 32px;
+  margin: 0 16px;
+  text-shadow: 0px 2px 4px black; }
 
 .top-bar__right-action {
   display: -webkit-flex;
@@ -136,22 +150,6 @@ ol {
   color: transparent;
   width: 80px;
   height: 80px; }
-
-.top-bar__heading {
-  margin: auto;
-  text-align: center;
-  color: #cccccc;
-  font-size: 32px;
-  line-height: 40px;
-  font-weight: bold;
-  text-shadow: 0 0 4px black; }
-
-.top-bar__sub {
-  margin: auto;
-  text-align: center;
-  color: #b3b3b3;
-  font-size: 2.4vh;
-  font-weight: 300; }
 
 .button {
   display: -webkit-flex;
@@ -238,6 +236,18 @@ ol {
 .action-list__icon--flip-h {
   -webkit-transform: scale(-1, 1);
   transform: scale(-1, 1); }
+
+.audio__group {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin-top: 64px; }
 
 audio {
   width: 60vw; }
