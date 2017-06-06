@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Cabin');
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
 
 /// Rules for sizing the icon.
 .material-icons.top-bar__action-button {
@@ -10,26 +11,37 @@
 
 h1 {
 	font-family: 'Cabin', sans-serif; ///font set with fallback
-
 }
 
 
 h2 {
-	font-family: 'Cabin', sans-serif; ///font set with fallback
+	font-family: 'Cabin', san-serif; ///font set with fallback
+	font-size: 28px; ///dynamic text size set to 4% of viewport height
+	line-height: 32px;
+	font-weight: 300;
+}
+
+h3 {
+	font-family: 'Cabin', san-serif; ///font set with fallback
 	font-size: 24px; ///dynamic text size set to 4% of viewport height
+	line-height: 28px;
 }
 
-.button-text__h2 {
-	margin: auto; ///horizontally center
-  	text-transform: uppercase;
-  	color: $c00;
+p {
+	font-family: 'Noto Serif', serif; ///font set with fallback
+	font-size: 16px; ///dynamic text size set to 4% of viewport height
+	line-height: 24px;
+	color: $c50;
 }
 
-.home-scene__h2 {
-	color: $c60;
-	margin-bottom: 6vh;
+ol {
+	@extend p;
+	margin: 32px 16px;
 }
 
-.home-scene--em__h2 { 
-	color: $c100;
+.text-link {
+	&:hover {
+		color: $c100;
+	}
+	transition: color .2s
 }

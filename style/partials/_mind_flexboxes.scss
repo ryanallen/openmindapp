@@ -12,15 +12,6 @@
 }
 
 
-.home-scene{
-	@include flex(1);
-	height: 100%;
-	flex-direction:	column; /// going to lay this out vertically
-	align-items: center;
-	justify-content: center;
-}
-
-
 .bottom-bar {
 	@include flex(2);/// 1/12 of the viewport height
 	/// layout defaults to horiz
