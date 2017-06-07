@@ -89,7 +89,9 @@ ol {
   display: -ms-flexbox;
   display: flex;
   height: 64px;
-  width: 100vw; }
+  width: 100vw;
+  background-color: #262626;
+  box-shadow: 0 2px 0 0 #141414; }
 
 .top-bar__left-action {
   display: -webkit-flex;
@@ -163,6 +165,7 @@ ol {
   max-width: 960px;
   margin: 0 auto 12px auto;
   color: white;
+  background-color: #262626;
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
