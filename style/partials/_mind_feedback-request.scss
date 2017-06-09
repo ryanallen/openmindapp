@@ -1,0 +1,21 @@
+.feedback-request {
+	display: flex;
+	min-height: 64px;
+	width: 100%;
+  	box-shadow: 0 -2px 0 0 $c08;
+	background-color: $button-color;
+	align-items: center;/// centers text on the y axis
+	justify-content: center;
+  		&:hover { 
+  	 		background-color: $c100;
+        color: $c00;
+
+  	 	}
+	transition: background-color .3s ease, color .3s ease;
+}
+
+.feedback-request__group {
+	@include flex(1); /// can grow or shrink
+	flex-direction: column;
+	justify-content: flex-end;
+}
