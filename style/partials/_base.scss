@@ -14,6 +14,9 @@ body {
 	height: 100%;  /// sets the body container height to 100% of the root
 	width: 100%;
 	background-color: $c10;
+	@include flex(1); /// allows for flexbox alignments in the full viewport
+	flex-direction: column; /// turn this off to watch everything break
+
 }
 
 a:link { 
@@ -22,7 +25,7 @@ a:link {
 }
 
 a:visited {
-	color: $c40;
+	color: $c50;
 }
 input, button, submit { border:none; &:focus {outline: none;} } /// removes outlines
 

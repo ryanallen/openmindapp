@@ -43,6 +43,8 @@ $c90:hsl(0,0,90);
 $c100:hsl(0,0,100);
 
 ///
+$button-color: $c20;
+$max-screen-width: 960px;
 $top-bar__height: 64px; /// sets the height of the top bar
 
 /// MIXINS
@@ -59,12 +61,11 @@ $top-bar__height: 64px; /// sets the height of the top bar
 
 ///	IMPORTS
 
-@import 'partials/base';
-@import 'partials/mind_type';
+@import 'partials/base'; /// 1st
+@import 'partials/mind_type'; /// 2nd
 ///@import	'partials/mind_loops'; ///for playing with grids later
-@import	'partials/mind_flexboxes';
-@import	'partials/mind_top-bar';
-@import	'partials/mind_button';
-@import	'partials/mind_action-list';
 @import 'partials/mind_audio-controls';
+@import	'partials/mind_button';
+@import	'partials/mind_flexboxes';
 @import 'partials/mind_hero';
+@import	'partials/mind_top-bar';

@@ -1,6 +1,9 @@
 .hero {
 	display: flex;
 	min-height: 192px;
+	width: 100%;
+	max-width: $max-screen-width;
+	margin: auto;
 	flex-direction:	column; /// going to lay this out vertically
 	align-items: center;
 	justify-content: center;
