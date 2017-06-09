@@ -1,8 +1,7 @@
 .button {
   display: flex;
 	min-height: 96px;
-  width: 100%;
-  max-width: 960px;
+  max-width: $max-screen-width;
 	margin: 0 auto 12px auto;
   color: $c100;
   background-color: $c15;
@@ -11,11 +10,10 @@
   ///box-shadow: 0 6px 0 0 $c08;
   		&:hover { 
   	 		background-color: $c100;
-  	 		box-shadow: 0 4px 0 0 $c60, 0 0 16px 0 $c50; ///makes the button glow on hover
         color: $c00;
 
   	 	}
-	transition: background-color .2s ease, box-shadow .2s ease, margin .2s ease, color .2s ease; 
+	transition: background-color .3s ease, color .3s ease; 
 }
 
 .button__text {
