@@ -1,5 +1,5 @@
 .button {
-	@include flex(1);/// button container
+  display: flex;
 	min-height: 96px;
   width: 100%;
   max-width: 960px;
@@ -32,5 +32,4 @@
 .button__group {
   @include flex(1);/// button container
   flex-direction:column;
-  justify-content: center;
 }
