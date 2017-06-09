@@ -73,12 +73,17 @@ Contemplate What is Skillful (Groups)
 
 ###The Need for Insight
 5.	If the reason to practice is to end stress, let's think about what the root cause of our stress could be.
-	5.1 Our stress is caused by stressful thoughts or mental habits that eventually leak out as harmful words and actions [see also - [Kleshas](https://en.wikipedia.org/wiki/Kleshas_(Buddhism)).
-	5.2 Examples include anxiety, depression, anger, hatred, etc.
-	5.3 [Attachment and Aversion] These examples are caused by the deeper mental patterns of attachment, me habitually wanting things, like pleasure; and aversion, me not wanting things, like pain.
-	5.4 [Ignorance] These patterns are ultimately caused by one central belief or mental state. One of ignorance; where my mind overlays an imagined permanence onto my perception of reality. This lie I constantly construct makes me ignorant of how all things actually exist, which cause patterns of attachment and aversion, which cause all the unskilful thoughts, words, and actions. 
+	5.1	Our stress is caused by stressful thoughts or mental habits that eventually leak out as harmful words and actions [see also - [Kleshas](https://en.wikipedia.org/wiki/Kleshas_(Buddhism)).
+	5.2	Examples include anxiety, depression, anger, hatred, etc.
+	5.3	[Attachment and Aversion] These examples are caused by the deeper mental patterns of attachment, me habitually wanting things, like pleasure; and aversion, me not wanting things, like pain.
+	5.4	[Ignorance] These patterns are ultimately caused by one central belief or mental state. One of ignorance; where my mind overlays an imagined permanence and duality onto my perception of reality. This lie I constantly construct makes me ignorant of how all things actually exist, which cause patterns of attachment and aversion, which cause all the unskilful thoughts, words, and actions. 
 	5.6	With these meditations you can choose to practice your focus and concentration in an effort to analyze your mind in an effort to see all things as they really are, which is the way out of ignorance on a path that ends stress.
 
-###Identifying the Lie [Ignorance]
-5.	
+###Identifying Ignorance
+5.	If identifying the mind's tricks that keeps us ignorant of how things really exist will end stress, let's think about how this process of ignorance works.
+	5.1	First we perceive a thing with one of our senses.
+	5.2	Next comes the lie when our mind ignorantly overlays the perception with an identity that we could call form, or group, or name, or self, or thing, etc.
+	5.3	Then our mind attaches meaning to the thing, such as good or bad.
+	5.4 We then start to think and stress about getting the good thing for our self and keeping the bad thing away from our self.
+	5.5 With these meditations you can choose to practice your focus and concentration in an effort to analyze your mind in an effort to see all things as they really are, which is the way out of ignorance on a path that ends stress.
 
