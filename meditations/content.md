@@ -71,19 +71,32 @@ Contemplate What is Skillful (Groups)
 
 ##See Yourself as You Really Are
 
-###The Need for Insight
-5.	If the reason to practice is to end stress, let's think about what the root cause of our stress could be.
-	5.1	Our stress is caused by stressful thoughts or mental habits that eventually leak out as harmful words and actions [see also - [Kleshas](https://en.wikipedia.org/wiki/Kleshas_(Buddhism)).
-	5.2	Examples include anxiety, depression, anger, hatred, etc.
-	5.3	[Attachment and Aversion] These examples are caused by the deeper mental patterns of attachment, me habitually wanting things, like pleasure; and aversion, me not wanting things, like pain.
-	5.4	[Ignorance] These patterns are ultimately caused by one central belief or mental state. One of ignorance; where my mind overlays an imagined permanence and duality onto my perception of reality. This lie I constantly construct makes me ignorant of how all things actually exist, which cause patterns of attachment and aversion, which cause all the unskilful thoughts, words, and actions. 
-	5.6	With these meditations you can choose to practice your focus and concentration in an effort to analyze your mind in an effort to see all things as they really are, which is the way out of ignorance on a path that ends stress.
+###The Cause of Stress
+5.	Now the reason to practice is to stop stress. So what do you think causes that stress?
+	5.1	It's caused by stressful thoughts, which are neural pathways or mental habits.
+		5.1.1 These eventually leak out as harmful words 
+		5.1.2 and actions [see also - [Kleshas](https://en.wikipedia.org/wiki/Kleshas_(Buddhism)).
+	5.2	Examples include things like anxiety, depression, anger, hatred, among others.
+	5.3	[Attachment and Aversion] These are caused by our brain's patterns of wanting.
+		5.3.1 Me wanting things I label good, like pleasure.
+		5.3.2 And me not wanting things I label bad, like pain.
+	5.4	[Ignorance] These are ultimately caused by a belief based on dellusion that is ignorant of the true nature of all things.
+		5.4.1 This ignorance exists because our mind overlays imagination and ideas over all of our perceptions. 
+		5.4.2 We cant't experience reality without the overlay of mind interfering. 
+		5.4.3 It imagines things last forever and are independent.
+		5.4.4 This dellusion makes me ignorant of how all things actually exist, causes wanting and other unskilful thoughts, words, and actions. 
+	5.5	Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which is the way out of ignorance on a path that ends stress.
 
 ###Identifying Ignorance
-5.	If identifying the mind's tricks that keeps us ignorant of how things really exist will end stress, let's think about how this process of ignorance works.
-	5.1	First we perceive a thing with one of our senses.
-	5.2	Next comes the lie when our mind ignorantly overlays the perception with an identity that we could call form, or group, or name, or self, or thing, etc.
+5.	Now the reason to practice is to stop stress, and stress is caused by our ignorance of how things really exist. So how do you think this process of ignorance works?
+	5.1	Well, first we perceive a thing with one of our senses.
+		5.1.1 Light leaves the sun and travels through space and the atmosphere to a bounce off an object and into our eyes.
+		5.1.2 The eye converts the data it receives in multiple ways before sending an electronic signal down a nerve into our brain.
+		5.1.3 Our brain then turns the signal into an experience for our mind to play with.
+	5.2	Next our mind overlays the perception with an identity that we could call form or name.
 	5.3	Then our mind attaches meaning to the thing, such as good or bad.
 	5.4 We then start to think and stress about getting the good thing for our self and keeping the bad thing away from our self.
-	5.5 With these meditations you can choose to practice your focus and concentration in an effort to analyze your mind in an effort to see all things as they really are, which is the way out of ignorance on a path that ends stress.
+	5.5 If we don't get the good thing we want it causes stress.
+	5.6 If we get the bad thing we don't want it causes stress.
+	5.7 Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which is the way out of ignorance on a path that ends stress.
 
