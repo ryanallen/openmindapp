@@ -90,7 +90,7 @@ Contemplate What is Skillful (Groups)
 ###Identifying Ignorance
 5.	Now the reason to practice is to stop stress, and stress is caused by our ignorance of how things really exist. So how do you think this process of ignorance works?
 	5.1	Well, first we perceive a thing with one of our senses.
-		5.1.1 Light leaves the sun and travels through space and the atmosphere to a bounce off an object and into our eyes.
+		5.1.1 Light leaves the sun and travels through space and the atmosphere to bounce off an object and into our eyes.
 		5.1.2 The eye converts the data it receives in multiple ways before sending an electronic signal down a nerve into our brain.
 		5.1.3 Our brain then turns the signal into an experience for our mind to play with.
 	5.2	Next our mind overlays the perception with an identity that we could call form or name.
