@@ -50,19 +50,19 @@ Contemplate What is Skillful (Singles)
 ======================
 
 ## Contemplate the Five Remembrances (Upajjhatthana Sutta)
-5. There are five things that are skillful to think about often.
-	5.1	I can not avoid aging.
-	5.2	I can not avoid illness or injury.
-	5.3	I can not avoid death.
-	5.4	I can not keep any thing forever.
-	5.5 I am the owner of my thoughts, words, and actions; whether good or bad, of these shall I inherit.
+5. There are five things that are skillful to think about often.  
+	5.1	I can not avoid aging.  
+	5.2	I can not avoid illness or injury.  
+	5.3	I can not avoid death.  
+	5.4	I can not keep any thing forever.  
+	5.5 I am the owner of my thoughts, words, and actions; whether good or bad, of these shall I inherit.  
 
 ## Contemplate the Four Encompassing Bodhisattva Vows (https://en.wikipedia.org/wiki/Bodhisattva_vow)
-5. [Contemplate what is skillful] There are four things that are skillful to contemplate to work for the relief and liberation of all beings.
-	5.1	Beings are countless; I vow to save them all.
-	5.2	Stress and delusive-desires are inexhaustible; I vow to end them all.
-	5.3	There are teachings beyond-measure; I vow to learn them all.
-	5.4	The Buddha's Way is unsurpassable; I vow to accomplish it.
+5. [Contemplate what is skillful] There are four things that are skillful to contemplate to work for the relief and liberation of all beings.  
+	5.1	Beings are countless; I vow to save them all.  
+	5.2	Stress and delusive-desires are inexhaustible; I vow to end them all.  
+	5.3	There are teachings beyond-measure; I vow to learn them all.  
+	5.4	The Buddha's Way is unsurpassable; I vow to accomplish it.  
 
 Contemplate What is Skillful (Groups)
 ======================
@@ -70,31 +70,31 @@ Contemplate What is Skillful (Groups)
 ## See Yourself as You Really Are
 
 ### The Cause of Stress
-5.	Now the reason to practice is to stop stress. So what do you think causes that stress?
-	5.1	It's caused by stressful thoughts, which are neural pathways or mental habits.
-		5.1.1 These eventually leak out as harmful words 
-		5.1.2 and actions [see also - [Kleshas](https://en.wikipedia.org/wiki/Kleshas_(Buddhism)).
-	5.2	Examples include things like anxiety, depression, anger, hatred, among others.
-	5.3	[Attachment and Aversion] These are caused by our brain's patterns of wanting.
-		5.3.1 Me wanting things I label good, like pleasure.
-		5.3.2 And me not wanting things I label bad, like pain.
-	5.4	[Ignorance] These are ultimately caused by a belief based on dellusion that is ignorant of the true nature of all things.
-		5.4.1 This ignorance exists because our mind overlays imagination and ideas over all of our perceptions. 
-		5.4.2 We cant't experience reality without the overlay of mind interfering. 
-		5.4.3 It imagines things last forever and are independent.
-		5.4.4 This dellusion makes me ignorant of how all things actually exist, causes wanting and other unskilful thoughts, words, and actions. 
-	5.5	Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which is the way out of ignorance on a path that ends stress.
+5.	Now the reason to practice is to stop stress. So what do you think causes that stress?  
+	5.1	It's caused by stressful thoughts, which are neural pathways or mental habits.  
+		5.1.1 These eventually leak out as harmful words  
+		5.1.2 and actions [see also - [Kleshas](https://en.wikipedia.org/wiki/Kleshas_(Buddhism)).  
+	5.2	Examples include things like anxiety, depression, anger, hatred, among others.  
+	5.3	[Attachment and Aversion] These are caused by our brain's patterns of wanting.  
+		5.3.1 Me wanting things I label good, like pleasure.  
+		5.3.2 And me not wanting things I label bad, like pain.  
+	5.4	[Ignorance] These are ultimately caused by a belief based on dellusion that is ignorant of the true nature of all things.  
+		5.4.1 This ignorance exists because our mind overlays imagination and ideas over all of our perceptions.  
+		5.4.2 We cant't experience reality without the overlay of mind interfering.  
+		5.4.3 It imagines things last forever and are independent.  
+		5.4.4 This dellusion makes me ignorant of how all things actually exist, causes wanting and other unskilful thoughts, words, and actions.  
+	5.5	Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which is the way out of ignorance on a path that ends stress.  
 
 ### Identifying Ignorance
-5.	Now the reason to practice is to stop stress, and stress is caused by our ignorance of how things really exist. So how do you think this process of ignorance works?
-	5.1	Well, first we perceive a thing with one of our senses.
-		5.1.1 Light leaves the sun and travels through space and the atmosphere to bounce off an object and into our eyes.
-		5.1.2 The eye converts the data it receives in multiple ways before sending an electronic signal down a nerve into our brain.
-		5.1.3 Our brain then turns the signal into an experience for our mind to play with.
-	5.2	Next our mind overlays the perception with an identity that we could call form or name.
-	5.3	Then our mind attaches meaning to the thing, such as good or bad.
-	5.4 We then start to think and stress about getting the good thing for our self and keeping the bad thing away from our self.
-	5.5 If we don't get the good thing we want it causes stress.
-	5.6 If we get the bad thing we don't want it causes stress.
-	5.7 Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which is the way out of ignorance on a path that ends stress.
+5.	Now the reason to practice is to stop stress, and stress is caused by our ignorance of how things really exist. So how do you think this process of ignorance works?  
+	5.1	Well, first we perceive a thing with one of our senses.  
+		5.1.1 Light leaves the sun and travels through space and the atmosphere to bounce off an object and into our eyes.  
+		5.1.2 The eye converts the data it receives in multiple ways before sending an electronic signal down a nerve into our brain.  
+		5.1.3 Our brain then turns the signal into an experience for our mind to play with.  
+	5.2	Next our mind overlays the perception with an identity that we could call form or name.  
+	5.3	Then our mind attaches meaning to the thing, such as good or bad.  
+	5.4 We then start to think and stress about getting the good thing for our self and keeping the bad thing away from our self.  
+	5.5 If we don't get the good thing we want it causes stress.  
+	5.6 If we get the bad thing we don't want it causes stress.  
+	5.7 Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which is the way out of ignorance on a path that ends stress.  
 
