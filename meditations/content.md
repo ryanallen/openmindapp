@@ -18,11 +18,11 @@ Framework
 
 ## 10 minutes
 1.	[Prepare] Take a moment to get comfortable before listening.  
-	1.1 [Four Noble Truths] The reason to practice is put an end to your stress and the stress of those around you.  
-		1.1.1	Stress exists in life.  
-		1.1.2	Stress is caused by not getting what things you want, and getting things you don't want.  
-		1.1.3	Stress can be stopped when you stop wanting.  
-		1.1.4	And there are skillful things you can practice that help to stop your stress. Meditation is one of those things.  
+	1.1. [Four Noble Truths] The reason to practice is put an end to your stress and the stress of those around you.  
+		1.1.1.	Stress exists in life.  
+		1.1.2.	Stress is caused by not getting what things you want, and getting things you don't want.  
+		1.1.3.	Stress can be stopped when you stop wanting.  
+		1.1.4.	And there are skillful things you can practice that help to stop your stress. Meditation is one of those things.  
 	1.2 [Motivation] Now it's important to understand that your basic traits like intelligence, focus, concentration and the like, are not fixed; rather they and your other basic abilities can be developed through effort. You must choose to make the effort.*[source](http://mindsetonline.com/whatisit/about/)*  
 	1.3	[Posture] And notice the feeling of the still body, upright and yet relaxed at the same time.  
 	1.4	[Notice the Senses] So just start to notice and calm the senses.  
