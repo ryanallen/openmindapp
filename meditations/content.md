@@ -9,16 +9,9 @@ Framework
 5. [Contemplate what is skillful]
 6.
 7. [Purification] Allow the mind to be free now, letting go of any focus. Every thing is everything.
-8. 
+8.  
 
-
-
-##5 Minutes
-1.	[Prepare] Take a moment to get comfortable before listening.
-	1.1 [Four Noble Truths] The reason to practice is put an end to your stress and the stress of those around you.
-
-
-##10 minutes
+##20 minutes
 1.	[Prepare] Take a moment to get comfortable before listening.
 	1.1 [Four Noble Truths] The reason to practice is put an end to your stress and the stress of those around you.
 		1.1.1	Stress exists in life.
@@ -60,11 +53,11 @@ Contemplate What is Skillful (Singles)
 	5.5 I am the owner of my thoughts, words, and actions; whether good or bad, of these shall I inherit.
 
 ##Contemplate the Four Encompassing Bodhisattva Vows (https://en.wikipedia.org/wiki/Bodhisattva_vow)
-5. [Contemplate what is skillful] There are four things that are skillful to contemplate to work for the relief and liberation of all beings.
-	5.1	Beings are countless; I vow to save them all.
-	5.2	Stress and delusive-desires are inexhaustible; I vow to end them all.
-	5.3	There are teachings beyond-measure; I vow to learn them all.
-	5.4	The Buddha's Way is unsurpassable; I vow to accomplish it.
+5. [Contemplate what is skillful] There are four things that are skillful to think about to relieve the stress of every one.
+	5.1	Beings are countless; I will help them all.
+	5.2	Stress and delusive-desires are inexhaustible; I will end them all.
+	5.3	There are teachings beyond-measure; I will learn them all.
+	5.4	The Buddha's Way is unsurpassable; I will accomplish it all.
 
 Contemplate What is Skillful (Groups)
 ======================
@@ -80,12 +73,12 @@ Contemplate What is Skillful (Groups)
 	5.3	[Attachment and Aversion] These are caused by our brain's patterns of wanting.
 		5.3.1 Me wanting things I label good, like pleasure.
 		5.3.2 And me not wanting things I label bad, like pain.
-	5.4	[Ignorance] These are ultimately caused by a belief based on dellusion that is ignorant of the true nature of all things.
+	5.4	[Ignorance] These are caused by a belief based on dellusion that is ignorant of the true nature of all things.
 		5.4.1 This ignorance exists because our mind overlays imagination and ideas over all of our perceptions. 
 		5.4.2 We cant't experience reality without the overlay of mind interfering. 
-		5.4.3 It imagines things last forever and are independent.
-		5.4.4 This dellusion makes me ignorant of how all things actually exist, causes wanting and other unskilful thoughts, words, and actions. 
-	5.5	Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which is the way out of ignorance on a path that ends stress.
+		5.4.3 Part of the dellusion is imagining things last forever and are independent and not relative to every other thing.
+		5.4.4 This dellusion makes us ignorant of how all things actually exist. It causes wanting and other unskilful thoughts, words, and actions. 
+	5.5	Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which is the way out of ignorance on a path that ends unhelpful stress.
 
 ###Identifying Ignorance
 5.	Now the reason to practice is to stop stress, and stress is caused by our ignorance of how things really exist. So how do you think this process of ignorance works?
