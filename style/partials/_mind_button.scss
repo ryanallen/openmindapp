@@ -1,6 +1,7 @@
 .button {
   display: flex;
 	min-height: 96px;
+  width: 100%; /// important for chrome
   max-width: $max-screen-width;
 	margin: 0 auto 12px auto;
   color: $c100;
