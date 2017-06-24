@@ -226,13 +226,19 @@ audio {
     color: white;
     text-shadow: 0 0 16px gray; }
 
-.top-bar__heading, .top-bar__sub {
+.top-bar__heading {
   margin: auto;
   color: #cccccc;
   font-size: 32px;
   line-height: 40px;
-  font-weight: bold;
-  text-shadow: 0 0 4px black; }
+  font-weight: bold; }
+
+.top-bar__sub {
+  margin: auto;
+  color: #cccccc;
+  font-size: 28px;
+  line-height: 32px;
+  font-weight: bold; }
 
 .top-bar__sub--offset {
   display: -webkit-flex;
