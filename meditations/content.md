@@ -65,14 +65,14 @@ Contemplate What is Skillful (Groups)
 ##See Yourself as You Really Are
 
 ###The Cause of Stress
-5.	Now the reason to practice is to stop stress. So what do you think causes that stress?
+5.	The reason to practice is to stop stress. Let's think about what causes that stress.
 	5.1	It's caused by stressful thoughts, which are neural pathways or mental habits.
 		5.1.1 These eventually leak out as harmful words 
 		5.1.2 and actions [see also - [Kleshas](https://en.wikipedia.org/wiki/Kleshas_(Buddhism)).
 	5.2	Examples include things like anxiety, depression, anger, hatred, among others.
 	5.3	[Attachment and Aversion] These are caused by our brain's patterns of wanting.
-		5.3.1 Me wanting things I label good, like pleasure.
-		5.3.2 And me not wanting things I label bad, like pain.
+		5.3.1 Wanting things I don't have that I label good, like pleasure.
+		5.3.2 Wanting to not have the things I label bad, like pain.
 	5.4	[Ignorance] These are caused by a belief based on dellusion that is ignorant of the true nature of all things.
 		5.4.1 This ignorance exists because our mind overlays imagination and ideas over all of our perceptions. 
 		5.4.2 We cant't experience reality without the overlay of mind interfering. 
@@ -80,16 +80,47 @@ Contemplate What is Skillful (Groups)
 		5.4.4 This dellusion makes us ignorant of how all things actually exist. It causes wanting and other unskilful thoughts, words, and actions. 
 	5.5	Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which is the way out of ignorance on a path that ends unhelpful stress.
 
-###Identifying Ignorance
-5.	Now the reason to practice is to stop stress, and stress is caused by our ignorance of how things really exist. So how do you think this process of ignorance works?
-	5.1	Well, first we perceive a thing with one of our senses.
-		5.1.1 Light leaves the sun and travels through space and the atmosphere to bounce off an object and into our eyes.
-		5.1.2 The eye converts the data it receives in multiple ways before sending an electronic signal down a nerve into our brain.
-		5.1.3 Our brain then turns the signal into an experience for our mind to play with.
-	5.2	Next our mind overlays the perception with an identity that we could call form or name.
-	5.3	Then our mind attaches meaning to the thing, such as good or bad.
-	5.4 We then start to think and stress about getting the good thing for our self and keeping the bad thing away from our self.
-	5.5 If we don't get the good thing we want it causes stress.
-	5.6 If we get the bad thing we don't want it causes stress.
-	5.7 Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which is the way out of ignorance on a path that ends stress.
+###Identify My Wrong Belief (From the Middle to the Source)
+5.	Practice to stop the stress caused by a wrong belief in how things really exist. 
+	Let's think about how this wrong belief works.
+	5.1	[Contact] We first sense things
+		5.1.1	like light 
+		5.1.2	through our eyes.
+	5.2	[6 Sense Bases] Nerves then deliver an electrical signal to the brain.
+	5.3 [Name and Form] The mind then labels the signal with names it remembers. 
+		5.3.1	shape
+		5.3.2	hand
+		5.5.3	my hand
+		5.5.4	my body
+		5.5.5	me
+	5.4	[Consciousness] The mind becomes conscious of the new labels.
+	5.5 [Karmic formations] The mind records the labels in the brain's physical neural pathways forming beliefs.
+	5.6 [Ignorance] Like our wrong belief that the labels applied in the mind exist as something other than a mental condition of consciousness.
+	5.7	[Feelings] This wrong belief causes our feelings of wanting and not wanting.
+	5.8 [Craving] Which causes us to crave things we label good, and hate the things labeled bad.
+		5.8.1	We stress about not having things we want; 
+		5.8.2	we stress about having things we don't want; 
+		5.8.3	we stress about losing things we have and want to keep.
+	5.9	Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which is the way out of ignorance on a path that ends unhelpful stress.
 
+Research
+===
+
+Wikipedia's ordering doesnt make sense for the 12 nidanas, and the talk page doesnt seem very legit. I found different sources for ordering, the 2nd of the 2 is the better one.	
+
+12 Nidanas [ordering from](http://personal.carthage.edu/jlochtefeld/buddhism/wheeloflife/nidanas.html) [avidya - ignorance] ignorance is the dualistic habit pattern of good or bad, subject and object, our mind uses to [samskaras] create and strengthen neural pathways which [vijnana] creates a mental habit for consciousness to [nama-rupa] apply names and labels to [shadayatana] the electrical signals delivered to our brains from nerves receiving data from [sparsha] our organs, which gather data from reality.
+
+Twelve Nidanas [ordering from Thich Nhat Hanh](https://tnhaudio.org/2012/12/02/a-new-teaching-on-the-twelve-nidanas/)
+
+Avidya (delusion) past
+Sanskara (impulses, actions, dispositions) past
+Vijñana (consciousness)
+Namarapa (body and mind)
+Sadayatana (six sense organs and object)
+Sparsa (contact)
+Vedana (feelings)
+Trsna (craving, attachment)
+Upadana (grasping)
+Bhava (existence)
+Jati (birth)
+Jara-marana (old age and death)
