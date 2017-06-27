@@ -28,6 +28,7 @@ $c18:hsl(0,0,18);
 $c19:hsl(0,0,15);
 $c20:hsl(0,0,20);
 	$c20_5:hsla(0,0,20,.5);
+$c22:hsl(0,0,22);
 $c24:hsl(0,0,24);
 $c28:hsl(0,0,28);
 $c30:hsl(0,0,30);
@@ -43,7 +44,7 @@ $c90:hsl(0,0,90);
 $c100:hsl(0,0,100);
 
 ///
-$button-color: $c20;
+$button-color: $c24;
 $max-screen-width: 960px;
 $top-bar__height: 64px; /// sets the height of the top bar
 
@@ -68,4 +69,5 @@ $top-bar__height: 64px; /// sets the height of the top bar
 @import	'partials/mind_button';
 @import	'partials/mind_flexboxes';
 @import 'partials/mind_hero';
+@import	'partials/mind_notification';
 @import	'partials/mind_top-bar';

@@ -50,6 +50,11 @@ h3 {
   font-size: 24px;
   line-height: 28px; }
 
+h4 {
+  font-family: 'Noto Serif', san-serif;
+  font-size: 18px;
+  line-height: 24px; }
+
 p, ol {
   font-family: 'Noto Serif', serif;
   font-size: 16px;
@@ -88,7 +93,7 @@ audio {
   max-width: 960px;
   margin: 0 auto 12px auto;
   color: white;
-  background-color: #333333;
+  background-color: #3d3d3d;
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
@@ -201,7 +206,28 @@ audio {
 
 .hero__subtitle {
   margin: 16px;
+  font-style: italic;
+  font-weight: bold;
   text-align: center; }
+
+.hero__p {
+  margin: 16px; }
+
+.notification {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 96px;
+  width: 100%;
+  margin: 0 auto 12px auto;
+  color: #b3b3b3;
+  background-color: #262626;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center; }
 
 .top-bar {
   display: -webkit-flex;

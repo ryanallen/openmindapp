@@ -1,0 +1,11 @@
+.notification {
+  display: flex;
+	min-height: 96px;
+  width: 100%; /// important for chrome
+	margin: 0 auto 12px auto;
+  color: $c70;
+  background-color: $c15;
+  justify-content: center;
+  align-items: center;
+  ///box-shadow: 0 6px 0 0 $c08;
+}
