@@ -46,45 +46,70 @@ Contemplate What is Skillful (Groups)
 
 ##See Yourself as You Really Are
 
-###The Cause of Stress
-5.	The reason to practice is to stop unhelpful stress. Let's think about what causes that stress.
-	5.1	It's caused by stressful thoughts or mental habits.
-		5.1.1 Which leak out as harmful words 
-		5.1.2 and harmful actions [see also - [Kleshas](https://en.wikipedia.org/wiki/Kleshas_(Buddhism)).
-	5.2	Examples may be anxiety, depression, anger, hatred, among others.
-	5.3	[Attachment and Aversion] Stressful thoughts are caused by our brain's patterns of wanting.
-		5.3.1 Such as wanting things we don't have that we label good, like pleasure.
-		5.3.2 and wanting to not have things labeled bad, like pain.
-	5.4	[Ignorance] These are caused by the overlay of a delusional desire for eternal life, and a false belief that we and the things we covet will last forever.
-		5.4.1 This delusion exists because our mind overlays names and labels over all of our perceptions.
-		5.4.2 The core delusional labels split reality in half and are named this and that. 
-			5.3.2.1	Wisdom sees
-			5.3.2.2	This and that 
-		5.4.3 We can't experience reality without the overlay of mind interfering which is why its important to mindfully train our minds to see reality as it actually exists.
-	5.5	Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which sees through delusion on a path that ends unhelpful stress.
+##An Overview [4 Noble Truths]
+1.	The reason to practice is to stop unhelpful stress.
+2.	There are many ways to end stress.
+3.	The most efficient way to end stress is to identify a root cause and then change it.
+4.	Unhelpful stress is caused by our mind's deluded belief in a dualistic reality.
+5.	Choose to calm down and focus to better analyze your mind to see all things as they really are.
+	5.1 Which sees through delusion
+	5.2	on a path that ends unhelpful stress for everyone.
 
-###The Cause of Delusion (From the Middle to the Source)
-5.	Practice to stop unhelpful stress caused by the mind, viewing perceptions through a delusional belief in how things really exist. 
-	Let's think about the process behind this delusional belief.
-	5.1	[Contact] First we sense things
-		5.1.1	like light 
-		5.1.2	through our eyes.
-	5.2	[6 Sense Bases] Next our nerves communicate an electrical signal to the brain.
-	5.3 [Name and Form] Then the mind labels the signal with names it remembers. 
-		5.3.1	shape
-		5.3.2	hand
-		5.5.3	my hand
-		5.5.4	my body
-		5.5.5	me
-	5.4	[Consciousness] Which makes the mind become conscious of the grouping of labels we call an experience.
-	5.5 [Karmic formations] The mind records the experience forming beliefs.
-	5.6 [Ignorance] Like our delusional belief that our mental experiences exist as something concrete and separate from a mental condition of consciousness.
-		5.6.1	Beliefs are built on the experiences we remember
-		5.6.2	which are colored by our mental vocabulary and habits. 
-		5.6.3	If we think about things that make us angry
-		5.6.4	we are more likely to label our experiences angrily, 
-		5.6.5	which forms our beliefs on a foundation of anger, hatred, and suffering.
-	5.8	Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which sees through delusion on a path that ends unhelpful stress.
+##The Cause of Stress - Delusion
+1.	The reason to practice is to stop unhelpful stress. 
+	1.1	Let's think about what causes that stress.
+2.	It's caused by stressful thoughts or mental habits.
+	2.1	Which leak out as harmful words 
+	2.2	and harmful actions [Kleshas]
+3.	Examples may be anxiety, depression, anger, hatred, among others.
+4	[Attachment and Aversion] Stressful thoughts are caused by our brain's patterns of wanting.
+	4.1 Such as wanting things we don't have that we label good, like pleasure.
+	4.2 and wanting to not have things labeled bad, like pain.
+5.	[Ignorance] These are caused by the overlay of a delusional desire for eternal life, and a false belief that we and the things we covet will last forever.
+	5.1	This delusion exists because our mind overlays names and labels over all of our perceptions.
+	5.2 The core delusional labels split reality in half and are named this and that. 
+		5.2.1	Wisdom sees
+		5.2.1	This and that 
+6.	We can't experience reality without the overlay of mind interfering which is why its important to mindfully train our minds to see reality as it actually exists.
+7.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
+
+##The Reason to Remove Delusion - End Stress
+1.	Practice to stop the stress caused by a deluded and closed mind with a limited view of reality.
+	1.1	Let's think about how we might end stress.
+2.	We can suppress unhelpful thought patterns like anger, hatred and the like.
+	2.1	We can do this by thinking deeply about the opposite thought pattern we want to change.
+	2.2	To counteract hatred we can practice love
+	2.3	To counteract wanting we can practice giving
+	2.4	To counteract delusion we can practice wisdom through logically analyzing reality
+3.	The root of all our unhelpful thought patterns is a deluded belief that overlays every one of our experiences.
+	3.1	This deluded mind views reality from a fixed perspective,
+	3.2	which causes all our unhelpful suffering and stress.
+4.	Therefore by learning to recognize and understand this delusion in ourselves, as well as learning to analyze and logically think about reality, we will learn to see through delusion and end unhelpful stress.
+5.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
+
+
+##The Process of Delusion (From the Middle to the Source)
+1.	Practice to stop the stress caused by a deluded and closed mind with a limited view of reality.
+	1.1	Let's think about the process behind this delusional belief.
+2.	[Contact] First we sense things
+	2.1	like light 
+	2.2	through our eyes.
+3.	Next our nerves communicate an electrical signal to the brain.
+4.	[Name and Form] Then the mind labels the signal with names it remembers. 
+	4.1	shape
+	4.2	hand
+	4.2	my hand
+	4.4	my body
+	4.5	me
+5.	[Consciousness] Which makes the mind become conscious of the grouping of labels we call an experience.
+6.	[Karmic formations] The mind records the experience forming beliefs.
+7.	[Ignorance] Like our delusional belief that our mental experiences exist as something concrete and separate from a mental condition of consciousness.
+	7.1	Beliefs are built on the experiences we remember
+	7.2	which are colored by our mental vocabulary and habits. 
+	7.3	If we think about things that make us angry
+	7.4	we are more likely to label our experiences angrily, 
+	7.5	which forms our beliefs on a foundation of anger, hatred, and suffering.
+8.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
 
 		####RESEARCH
 
@@ -107,10 +132,11 @@ Contemplate What is Skillful (Groups)
 		Jati (birth)
 		Jara-marana (old age and death)
 
-3.	Next Title
-	3.1	Practice to stop the stress caused by a deluded and closed mind with a limited view of reality.
-		3.1.1	Let's think about what causes this limited view of reality.
-	3.2	Surprise its a dualistic view instead of one united. 
+## Next Title
+1.	Practice to stop the stress caused by a deluded and closed mind with a limited view of reality.
+	1.1	Let's think about what causes this limited view of reality.
+2.	...
+3.	Surprise its a dualistic view instead of one united. Good or bad instead of good and bad :) <3 meta om.
 
 ---
 
@@ -118,16 +144,16 @@ Contemplate What is Skillful (Singles)
 ======================
 
 ##Contemplate the Five Remembrances (Upajjhatthana Sutta)
-5. There are five things that are skillful to think about often.
-	5.1	I can not avoid aging.
-	5.2	I can not avoid illness or injury.
-	5.3	I can not avoid death.
-	5.4	I can not keep any thing forever.
-	5.5 I am the owner of my thoughts, words, and actions; whether good or bad, of these shall I inherit.
+1. There are five things that are skillful to think about often.
+	1.1	I can not avoid aging.
+	1.2	I can not avoid illness or injury.
+	1.3	I can not avoid death.
+	1.4	I can not keep any thing forever.
+	1.5 I am the owner of my thoughts, words, and actions; whether good or bad, of these shall I inherit.
 
 ##Contemplate the Four Encompassing Bodhisattva Vows (https://en.wikipedia.org/wiki/Bodhisattva_vow)
-5. [Contemplate what is skillful] There are four things that are skillful to think about to relieve the stress of every one.
-	5.1	Beings are countless; I will help them all.
-	5.2	Stress and delusive-desires are inexhaustible; I will end them all.
-	5.3	There are teachings beyond-measure; I will learn them all.
-	5.4	The Buddha's Way is unsurpassable; I will accomplish it all.
+1. [Contemplate what is skillful] There are four things that are skillful to think about to relieve the stress of every one.
+	1.1	Beings are countless; I will help them all.
+	1.2	Stress and delusive-desires are inexhaustible; I will end them all.
+	1.3	There are teachings beyond-measure; I will learn them all.
+	1.4	The Buddha's Way is unsurpassable; I will accomplish it all.
