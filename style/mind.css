@@ -262,8 +262,8 @@ audio {
 .top-bar__sub {
   margin: auto;
   color: #cccccc;
-  font-size: 28px;
-  line-height: 32px;
+  font-size: 18px;
+  line-height: 24px;
   font-weight: bold; }
 
 .top-bar__sub--offset {

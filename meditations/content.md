@@ -2,7 +2,7 @@ Framework
 ==========
 
 ##1 Minute
-1. [Prepare] Take a moment to get comfortable before listening.
+1. 
 2. 
 3. [Follow] Focus your concentration on the feeling of the breath someplace in the body.
 4.
@@ -55,7 +55,7 @@ Contemplate What is Skillful (Groups)
 	5.1 Which sees through delusion
 	5.2	on a path that ends unhelpful stress for everyone.
 
-##The Cause of Stress - Delusion
+##Contemplate the Cause of Stress
 1.	The reason to practice is to stop unhelpful stress. 
 	1.1	Let's think about what causes that stress.
 2.	It's caused by stressful thoughts or mental habits.
@@ -73,7 +73,7 @@ Contemplate What is Skillful (Groups)
 6.	We can't experience reality without the overlay of mind interfering which is why its important to mindfully train our minds to see reality as it actually exists.
 7.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
 
-##The Reason to Remove Delusion - End Stress
+##Contemplate Ending Stress
 1.	Practice to stop the stress caused by a deluded and closed mind with a limited view of reality.
 	1.1	Let's think about how we might end stress.
 2.	We can suppress unhelpful thought patterns like anger, hatred and the like.
@@ -88,7 +88,7 @@ Contemplate What is Skillful (Groups)
 5.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
 
 
-##The Process of Delusion (From the Middle to the Source)
+##Contemplate the Process of Delusion
 1.	Practice to stop the stress caused by a deluded and closed mind with a limited view of reality.
 	1.1	Let's think about the process behind this delusional belief.
 2.	[Contact] First we sense things
@@ -157,3 +157,5 @@ Contemplate What is Skillful (Singles)
 	1.2	Stress and delusive-desires are inexhaustible; I will end them all.
 	1.3	There are teachings beyond-measure; I will learn them all.
 	1.4	The Buddha's Way is unsurpassable; I will accomplish it all.
+
+Build an online wellness platform that reinvests profits into local communities in an effort to understand and end the stress of its people.
