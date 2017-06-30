@@ -41,24 +41,24 @@ h1 {
 
 h2 {
   font-family: 'Cabin', san-serif;
-  font-size: 28px;
-  line-height: 32px;
+  font-size: 24px;
+  line-height: 28px;
   font-weight: 300; }
 
 h3 {
   font-family: 'Cabin', san-serif;
-  font-size: 24px;
-  line-height: 28px; }
+  font-size: 20px;
+  line-height: 24px; }
 
 h4 {
   font-family: 'Noto Serif', san-serif;
-  font-size: 18px;
-  line-height: 24px; }
+  font-size: 16px;
+  line-height: 20px; }
 
 p, ol {
   font-family: 'Noto Serif', serif;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 14px;
+  line-height: 20px;
   color: gray; }
 
 ol {
@@ -213,14 +213,16 @@ audio {
 .hero__p {
   margin: 16px; }
 
+.material-icons.hero__p-icon {
+  font-size: 14px;
+  text-shadow: 0px 1px 2px black; }
+
 .notification {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   min-height: 96px;
   width: 100%;
-  margin: 0 auto 12px auto;
-  color: #b3b3b3;
   background-color: #262626;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -228,6 +230,11 @@ audio {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center; }
+
+.notification__text {
+  text-align: center;
+  color: #b3b3b3;
+  margin: 0 16px; }
 
 .top-bar {
   display: -webkit-flex;

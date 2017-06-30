@@ -9,27 +9,27 @@ h1 {
 
 h2 {
 	font-family: 'Cabin', san-serif; ///font set with fallback
-	font-size: 28px; ///dynamic text size set to 4% of viewport height
-	line-height: 32px;
+	font-size: 24px; ///dynamic text size set to 4% of viewport height
+	line-height: 28px;
 	font-weight: 300;
 }
 
 h3 {
 	font-family: 'Cabin', san-serif; ///font set with fallback
-	font-size: 24px; ///dynamic text size set to 4% of viewport height
-	line-height: 28px;
+	font-size: 20px; ///dynamic text size set to 4% of viewport height
+	line-height: 24px;
 }
 
 h4 {
 	font-family: 'Noto Serif', san-serif; ///font set with fallback
-	font-size: 18px; ///dynamic text size set to 4% of viewport height
-	line-height: 24px;
+	font-size: 16px; ///dynamic text size set to 4% of viewport height
+	line-height: 20px;
 }
 
 p {
 	font-family: 'Noto Serif', serif; ///font set with fallback
-	font-size: 16px; ///dynamic text size set to 4% of viewport height
-	line-height: 24px;
+	font-size: 14px; ///dynamic text size set to 4% of viewport height
+	line-height: 20px;
 	color: $c50;
 }
 
