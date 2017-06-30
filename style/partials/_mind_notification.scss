@@ -2,10 +2,14 @@
   display: flex;
 	min-height: 96px;
   width: 100%; /// important for chrome
-	margin: 0 auto 12px auto;
-  color: $c70;
   background-color: $c15;
   justify-content: center;
   align-items: center;
   ///box-shadow: 0 6px 0 0 $c08;
+}
+
+.notification__text {
+	text-align: center;
+	color: $c70;
+	margin: 0 16px;
 }
