@@ -19,10 +19,14 @@ Framework
 		1.1.3	It can be stopped when you stop wanting.
 		1.1.4	And there are skillful things you can practice that help to stop your stress. Meditation is one of those things.
 	1.2 [Motivation] Understand that our basic traits like intelligence, focus, concentration and the like, are not fixed but can be developed through effort. You must choose to make the effort.*[source](http://mindsetonline.com/whatisit/about/)*
-	1.3	[Posture] And notice the feeling of the still body, upright and yet relaxed at the same time. 
-	1.4	[Notice the Senses] Start to notice and calm the senses.
-	1.5	[Body scan] As you to scan down from head to toe. Noticing the different areas of comfort or discomfort.
-	1.6	[Object of meditation] Now take your biggest breath and notice the feeling of it somewhere in the body. The tip of the nose, the back of the throat, the belly expanding, wherever you like.
+	1.3	[Notice the Senses] Start to notice and calm the senses.
+		1.3.1	[Posture] And notice the feeling of the still body, upright and yet relaxed at the same time. 
+		1.3.2	[Body scan] As you to scan down from head to toe. Noticing the different areas of comfort or discomfort.
+	1.4	[Object of meditation] Now take your biggest breath and notice the feeling of it somewhere in the body. 
+		1.4.1	The tip of the nose, 
+		1.4.2	the back of the throat, 
+		1.4.3	the belly expanding, 
+		1.4.4	wherever you like.
 2.	[Count] Start by counting the breaths from one to four, starting over when you reach four. Count one with the inhale, two with the exhale.
 	2.1	If the mind wanders restart the counting once you notice, without judging.
 3.	[Follow] Focus your concentration on the feeling of the breath someplace in the body. And let go of counting.
