@@ -2,33 +2,33 @@ Framework
 ==========
 
 ##1 Minute
-1. 
-2. 
-3. [Follow] Focus your concentration on the feeling of the breath someplace in the body.
-4.
-5. [Contemplate what is skillful]
-6.
-7. [Purification] Allow the mind to be free now, letting go of any focus. Every thing is everything.
-8.  
+1.	[Prepare]
+2.	[Counting] Start by counting the breaths from one to four.
+3.	[Follow] Focus your concentration on the feeling of the breath someplace in the body.
+4.	[Stabilize] Allow one's breathing to calm down, which calms down the mind, which calms down the breath.
+5.	[Contemplate what is skillful]
+6.	[Contemplate the mind] This experience is empty of an objective self because it arises from the mind.
+7.	[Purification] Every thing is everything.
+8.	[Prepare]
 
 ##20 minutes
 1.	[Prepare] Take a moment to get comfortable before listening.
-	1.1 [Four Noble Truths] Practice to end your stress and the stress of those around you.
+	1.1 [Four Noble Truths] Practice to put an end to your stress and the stress of those around you.
 		1.1.1	Stress exists in life.
 		1.1.2	It's caused by not getting the things you want, like pleasure, and getting things you don't want, like pain.
-		1.1.3	It can be stopped when you stop wanting.
+		1.1.3	Stress can be stopped when you stop wanting.
 		1.1.4	And there are skillful things you can practice that help to stop your stress. Meditation is one of those things.
-	1.2 [Motivation] Understand that our basic traits like intelligence, focus, concentration and the like, are not fixed but can be developed through effort. You must choose to make the effort.*[source](http://mindsetonline.com/whatisit/about/)*
-	1.3	[Notice the Senses] Start to notice and calm the senses.
+	1.2 [Motivation] Now it's important to understand that your basic traits like intelligence, focus, concentration and the like, are not fixed, rather they and your other basic abilities but can be developed through effort. You must choose to make the effort.*[source](http://mindsetonline.com/whatisit/about/)*
+	1.3	[Notice the Senses] So just start to notice and calm the senses.
 		1.3.1	[Posture] And notice the feeling of the still body, upright and yet relaxed at the same time. 
-		1.3.2	[Body scan] As you to scan down from head to toe. Noticing the different areas of comfort or discomfort.
+		1.3.2	[Body scan] As you begin to scan down from head to toe. Noticing the different areas of comfort or discomfort.
 	1.4	[Object of meditation] Now take your biggest breath and notice the feeling of it somewhere in the body. 
 		1.4.1	The tip of the nose, 
 		1.4.2	the back of the throat, 
 		1.4.3	the belly expanding, 
 		1.4.4	wherever you like.
-2.	[Count] Start by counting the breaths from one to four, starting over when you reach four. Count one with the inhale, two with the exhale.
-	2.1	If the mind wanders restart the counting once you notice, without judging.
+2.	[Counting] Start by counting the breaths from one to four, starting over when you reach four. Count one with the inhale, two with the exhale.
+	2.1	[Reminder] If the mind wanders restart the counting once you notice, without judging.
 3.	[Follow] Focus your concentration on the feeling of the breath someplace in the body. And let go of counting.
 	3.1	[Follow the Breath] Follow the coming in and going out of the breath. 
 		3.1.1	Notice how each breath is unique.
@@ -36,9 +36,10 @@ Framework
 		3.1.3	Each breath has a beginning, a middle, and an end. 
 		3.1.4	There is a moment between breaths of stillness.
 		3.1.5	Eventually the breath becomes subtle, peaceful, and still. 
-	3.2	Notice if the mind wanders and gently switch focus back to the breath, without judging.
-4.	[Stabilize] Allow one's breathing to calm down, which calms down the mind, which calms down the breath.
-	4.1	Notice if the mind wanders and gently switch focus back to the breath, without judging.
+	3.2	[Reminder ] Notice if the mind wanders and gently bring your focus back to the breath, without judging.
+4.	[Stabilization] Allow one's breathing to calm down, which calms down the mind, which calms down the breath.
+	4.1	[Reminder] Notice if the mind wanders and gently switch focus back to the breath,
+	4.2	without judging.
 5.	[Contemplate what is skillful] 
 6.	[Contemplate the mind] Realize this experience is empty of an objective self, because it arises from the mind. 
 7.	[Purification] Allow the mind to be free now, letting go of any focus. Every thing is everything. 
@@ -115,7 +116,7 @@ Contemplate What is Skillful (Groups)
 	7.5	which forms our beliefs on a foundation of anger, hatred, and suffering.
 8.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
 
-		####RESEARCH
+	####RESEARCH
 
 		Wikipedia's ordering doesnt make sense for the 12 nidanas, and the talk page doesnt seem very legit. I found different sources for ordering, the 2nd of the 2 is the better one.	
 
@@ -137,10 +138,21 @@ Contemplate What is Skillful (Groups)
 		Jara-marana (old age and death)
 
 ## Next Title
-1.	Practice to stop the stress caused by a deluded and closed mind with a limited view of reality.
-	1.1	Let's think about what causes this limited view of reality.
-2.	...
-3.	Surprise its a dualistic view instead of one united. Good or bad instead of good and bad :) <3 meta om.
+1.	Practice to stop the stress caused by a deluded and closed mind.
+	1.1	Let's think about how delusion causes us to label things good which causes wanting.
+2.	First we briefly perceive a thing.
+	2.1 Like another person
+	2.2	Our feelings are neutral.
+3.	If we give the object more attention we perceive more attributes and form subjective opinions based in ignorance.
+	3.1	The person is beautiful
+	3.2 kind
+	3.3 good
+	3.4	and attracted to us.
+4.	Delusion tricks us into thinking these labels exist as a thing outside the mind and inside the thing we are perceiving.
+	4.1	The mind labeled the person as good because some of our experiences of good people are beautiful and kind.
+	4.2	The mind labeled the group of skin hair bones and guts as a person, because all of our experiences of people have these things.
+4.	Finally we lust after and want the good things and are revolted by and hate the bad things.
+5.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
 
 ---
 
