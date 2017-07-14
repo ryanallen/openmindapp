@@ -1,7 +1,7 @@
 Framework
 ==========
 
-##1 Minute
+## 1 Minute
 1.	[Prepare]
 2.	[Counting] Start by counting the breaths from one to four.
 3.	[Follow] Focus your concentration on the feeling of the breath someplace in the body.
@@ -11,7 +11,7 @@ Framework
 7.	[Purification] Every thing is everything.
 8.	[Prepare]
 
-##20 minutes
+## 20 minutes
 1.	[Prepare] Take a moment to get comfortable before listening.
 	1.1 [Four Noble Truths] Practice to put an end to your stress and the stress of those around you.
 		1.1.1	Stress exists in life.
@@ -49,9 +49,9 @@ Framework
 Contemplate What is Skillful (Groups)
 ======================
 
-##See Yourself as You Really Are
+## See Yourself as You Really Are
 
-##An Overview [4 Noble Truths]
+## An Overview [4 Noble Truths]
 1.	The reason to practice is to stop unhelpful stress.
 2.	There are many ways to end stress.
 3.	The most efficient way to end stress is to identify a root cause and then change it.
@@ -60,7 +60,7 @@ Contemplate What is Skillful (Groups)
 	5.1 Which sees through delusion
 	5.2	on a path that ends unhelpful stress for everyone.
 
-##Contemplate the Cause of Stress
+## Contemplate the Cause of Stress
 1.	The reason to practice is to stop unhelpful stress. 
 	1.1	Let's think about what causes that stress.
 2.	It's caused by stressful thoughts or mental habits.
@@ -78,7 +78,7 @@ Contemplate What is Skillful (Groups)
 6.	We can't experience reality without the overlay of mind interfering which is why its important to mindfully train our minds to see reality as it actually exists.
 7.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
 
-##Contemplate Ending Stress
+## Contemplate Ending Stress
 1.	Practice to stop the stress caused by a deluded and closed mind with a limited view of reality.
 	1.1	Let's think about how we might end stress.
 2.	We can suppress unhelpful thought patterns like anger, hatred and the like.
@@ -93,7 +93,7 @@ Contemplate What is Skillful (Groups)
 5.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
 
 
-##Contemplate the Process of Delusion
+## Contemplate the Process of Delusion
 1.	Practice to stop the stress caused by a deluded and closed mind with a limited view of reality.
 	1.1	Let's think about the process behind this delusional belief.
 2.	[Contact] First we sense things
@@ -116,7 +116,7 @@ Contemplate What is Skillful (Groups)
 	7.5	which forms our beliefs on a foundation of anger, hatred, and suffering.
 8.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
 
-	####RESEARCH
+	#### RESEARCH
 
 		Wikipedia's ordering doesnt make sense for the 12 nidanas, and the talk page doesnt seem very legit. I found different sources for ordering, the 2nd of the 2 is the better one.	
 
@@ -159,7 +159,7 @@ Contemplate What is Skillful (Groups)
 Contemplate What is Skillful (Singles)
 ======================
 
-##Contemplate the Five Remembrances (Upajjhatthana Sutta)
+## Contemplate the Five Remembrances (Upajjhatthana Sutta)
 1. There are five things that are skillful to think about often.
 	1.1	I can not avoid aging.
 	1.2	I can not avoid illness or injury.
@@ -167,11 +167,9 @@ Contemplate What is Skillful (Singles)
 	1.4	I can not keep any thing forever.
 	1.5 I am the owner of my thoughts, words, and actions; whether good or bad, of these shall I inherit.
 
-##Contemplate the Four Encompassing Bodhisattva Vows (https://en.wikipedia.org/wiki/Bodhisattva_vow)
+## Contemplate the Four Encompassing Bodhisattva Vows (https://en.wikipedia.org/wiki/Bodhisattva_vow)
 1. [Contemplate what is skillful] There are four things that are skillful to think about to relieve the stress of every one.
 	1.1	Beings are countless; I will help them all.
 	1.2	Stress and delusive-desires are inexhaustible; I will end them all.
 	1.3	There are teachings beyond-measure; I will learn them all.
 	1.4	The Buddha's Way is unsurpassable; I will accomplish it all.
-
-Build an online wellness platform that reinvests profits into local communities in an effort to understand and end the stress of its people.
