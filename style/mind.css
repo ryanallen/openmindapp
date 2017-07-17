@@ -54,7 +54,7 @@ h3 {
 h4 {
   font-family: "Amiko", san-serif;
   font-size: 16px;
-  line-height: 20px; }
+  line-height: 24px; }
 
 p, ol {
   font-family: "Amiko", serif;
@@ -217,7 +217,8 @@ audio {
   margin: 16px; }
 
 .material-icons.hero__p-icon {
-  font-size: 14px;
+  font-size: 20px;
+  line-height: 24px;
   text-shadow: 0px 1px 2px black; }
 
 .notification {
@@ -227,17 +228,31 @@ audio {
   min-height: 96px;
   width: 100%;
   background-color: #262626;
+  color: white;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
   -webkit-align-items: center;
   -ms-flex-align: center;
-  align-items: center; }
+  align-items: center;
+  transition: background-color .3s ease, color .3s ease;
+  margin-bottom: 48px; }
+  .notification:hover {
+    background-color: white;
+    color: black; }
 
 .notification__text {
   text-align: center;
-  color: #b3b3b3;
   margin: 0 16px; }
+
+.material-icons.notification-icon {
+  font-size: 24px;
+  line-height: 24px;
+  padding: 8px;
+  color: black;
+  background-color: white;
+  border-radius: 2px;
+  margin-left: 16px; }
 
 .top-bar {
   display: -webkit-flex;

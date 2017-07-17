@@ -3,13 +3,28 @@
 	min-height: 96px;
   width: 100%; /// important for chrome
   background-color: $c15;
+  color: $c100;
   justify-content: center;
   align-items: center;
-  ///box-shadow: 0 6px 0 0 $c08;
+      &:hover { 
+        background-color: $c100;
+        color: $c00;
+      }
+  transition: background-color .3s ease, color .3s ease; 
+  margin-bottom: 48px;
 }
 
 .notification__text {
 	text-align: center;
-	color: $c70;
 	margin: 0 16px;
+}
+
+.material-icons.notification-icon {
+  font-size: 24px;
+  line-height: 24px;
+  padding: 8px;
+  color: $c00;
+  background-color: $c100;
+  border-radius: 2px;
+  margin-left: 16px;
 }
