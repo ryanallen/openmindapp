@@ -30,7 +30,7 @@ a:link {
   color: #e6e6e6; }
 
 a:visited {
-  color: gray; }
+  color: #999999; }
 
 input, button, submit {
   border: none; }
