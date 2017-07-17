@@ -15,9 +15,11 @@
 
 .hero__subtitle {
 	margin: 16px;
-	font-style: italic;
+	color:	$c50;
 	font-weight: bold;
 	text-align: center;
+	font-size: 18px; ///dynamic text size set to 4% of viewport height
+	line-height: 24px;
 }
 
 .hero__p {

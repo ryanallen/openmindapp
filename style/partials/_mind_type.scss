@@ -1,36 +1,43 @@
-@import url('https://fonts.googleapis.com/css?family=Cabin');
+///@import url('https://fonts.googleapis.com/css?family=Cabin');
+@import url('https://fonts.googleapis.com/css?family=Lato:900&subset=latin-ext');
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
-@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+@import url('https://fonts.googleapis.com/css?family=Chivo:400&subset=latin-ext');
+///@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+@import url('https://fonts.googleapis.com/css?family=Amiko&subset=latin-ext');
+
+$type: 'Lato';
+$type2: 'Chivo';
+$type3: 'Amiko';
 
 h1 {
-	font-family: 'Cabin', sans-serif; ///font set with fallback
+	font-family: $type, sans-serif; ///font set with fallback
 }
 
 
 h2 {
-	font-family: 'Cabin', san-serif; ///font set with fallback
+	font-family: $type2, san-serif; ///font set with fallback
 	font-size: 24px; ///dynamic text size set to 4% of viewport height
 	line-height: 28px;
 	font-weight: 300;
 }
 
 h3 {
-	font-family: 'Cabin', san-serif; ///font set with fallback
+	font-family: $type, san-serif; ///font set with fallback
 	font-size: 20px; ///dynamic text size set to 4% of viewport height
 	line-height: 24px;
 }
 
 h4 {
-	font-family: 'Noto Serif', san-serif; ///font set with fallback
+	font-family: $type3, san-serif; ///font set with fallback
 	font-size: 16px; ///dynamic text size set to 4% of viewport height
 	line-height: 20px;
 }
 
 p {
-	font-family: 'Noto Serif', serif; ///font set with fallback
-	font-size: 14px; ///dynamic text size set to 4% of viewport height
-	line-height: 20px;
-	color: $c50;
+	font-family: $type3, serif; ///font set with fallback
+	font-size: 16px; ///dynamic text size set to 4% of viewport height
+	line-height: 24px;
+	color: $c40;
 }
 
 ol {
