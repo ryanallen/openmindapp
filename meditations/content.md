@@ -2,14 +2,14 @@ Framework
 ==========
 
 ## 1 Minute
-1.	[Prepare]
+1.	...
 2.	[Counting] Start by counting the breaths from one to four.
 3.	[Follow] Focus your concentration on the feeling of the breath someplace in the body.
 4.	[Stabilize] Allow one's breathing to calm down, which calms down the mind, which calms down the breath.
-5.	[Contemplate what is skillful]
+5.	...
 6.	[Contemplate the mind] This experience is empty of an objective self because it arises from the mind.
 7.	[Purification] Every thing is everything.
-8.	[Prepare]
+8.	...
 
 ## 20 minutes
 1.	[Prepare] Take a moment to get comfortable before listening.
