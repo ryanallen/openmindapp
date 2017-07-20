@@ -160,6 +160,8 @@ Contemplate What is Skillful (Singles)
 ======================
 
 ## Contemplate the Five Remembrances (Upajjhatthana Sutta)
+### End harmful thoughts and actions
+#### End conceit, lust, 
 1. There are five things that are skillful to think about often.
 	1.1	I can not avoid aging.
 	1.2	I can not avoid illness or injury.
