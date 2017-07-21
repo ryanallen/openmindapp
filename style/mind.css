@@ -38,13 +38,15 @@ input, button, submit {
     outline: none; }
 
 h1 {
-  font-family: "Lato", sans-serif; }
+  font-family: "Lato", sans-serif;
+  text-align: center; }
 
 h2 {
   font-family: "Chivo", san-serif;
   font-size: 24px;
   line-height: 28px;
-  font-weight: 300; }
+  font-weight: 300;
+  text-align: center; }
 
 h3 {
   font-family: "Lato", san-serif;
@@ -220,6 +222,13 @@ audio {
   font-size: 20px;
   line-height: 24px;
   text-shadow: 0px 1px 2px black; }
+
+.hero__character {
+  margin-top: 24px;
+  display: block;
+  width: 320px;
+  max-width: 60%;
+  height: auto; }
 
 .notification {
   display: -webkit-flex;
