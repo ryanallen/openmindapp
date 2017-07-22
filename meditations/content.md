@@ -151,7 +151,7 @@ Contemplate What is Skillful (Groups)
 4.	Delusion tricks us into thinking these labels exist as a thing outside the mind and inside the thing we are perceiving.
 	4.1	The mind labeled the person as good because some of our experiences of good people are beautiful and kind.
 	4.2	The mind labeled the group of skin hair bones and guts as a person, because all of our experiences of people have these things.
-4.	Finally we lust after and want the good things and are revolted by and hate the bad things.
+4.	Finally we lust after and want the good things and are revolted by and hate the bad things. When we dont get the things we want we suffer, when we get the things we don't want we suffer (use this line edited in)
 5.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
 
 ---
