@@ -116,43 +116,22 @@ Contemplate What is Skillful (Groups)
 	7.5	which forms our beliefs on a foundation of anger, hatred, and suffering.
 8.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
 
-	#### RESEARCH
-
-		Wikipedia's ordering doesnt make sense for the 12 nidanas, and the talk page doesnt seem very legit. I found different sources for ordering, the 2nd of the 2 is the better one.	
-
-		12 Nidanas [ordering from](http://personal.carthage.edu/jlochtefeld/buddhism/wheeloflife/nidanas.html) [avidya - ignorance] ignorance is the dualistic habit pattern of good or bad, subject and object, our mind uses to [samskaras] create and strengthen neural pathways which [vijnana] creates a mental habit for consciousness to [nama-rupa] apply names and labels to [shadayatana] the electrical signals delivered to our brains from nerves receiving data from [sparsha] our organs, which gather data from reality.
-
-		Twelve Nidanas [ordering from Thich Nhat Hanh](https://tnhaudio.org/2012/12/02/a-new-teaching-on-the-twelve-nidanas/)
-
-		Avidya (delusion) past
-		Sanskara (impulses, actions, dispositions) past
-		Vijñana (consciousness)
-		Namarapa (body and mind)
-		Sadayatana (six sense organs and object)
-		Sparsa (contact)
-		Vedana (feelings)
-		Trsna (craving, attachment)
-		Upadana (grasping)
-		Bhava (existence)
-		Jati (birth)
-		Jara-marana (old age and death)
-
-## Next Title
-1.	Practice to stop the stress caused by a deluded and closed mind.
-	1.1	Let's think about how delusion causes us to label things good which causes wanting.
+## How Labels Cause Stress by Projection
+1.	Practice to stop stress caused by a deluded and closed mind stuck in the habits of craving and loathing.
+	1.1	Let's think about this process of craving and loathing.
 2.	First we briefly perceive a thing.
-	2.1 Like another person
-	2.2	Our feelings are neutral.
-3.	If we give the object more attention we perceive more attributes and form subjective opinions based in ignorance.
-	3.1	The person is beautiful
-	3.2 kind
-	3.3 good
-	3.4	and attracted to us.
-4.	Delusion tricks us into thinking these labels exist as a thing outside the mind and inside the thing we are perceiving.
-	4.1	The mind labeled the person as good because some of our experiences of good people are beautiful and kind.
-	4.2	The mind labeled the group of skin hair bones and guts as a person, because all of our experiences of people have these things.
-4.	Finally we lust after and want the good things and are revolted by and hate the bad things. When we dont get the things we want we suffer, when we get the things we don't want we suffer (use this line edited in)
-5.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
+	2.1 Like a feeling in our body
+2. Next we delusionally think the thing we perceive exists as a solid continuous entity, independent of thought.
+3.	Then we label the thing as good or bad.
+	3.1	This pleasurable feeling is good. I want it to last forever and will have stress when it is gone.
+	3.2	Or, this painful feeling is bad. I hate it and will have stress as long as I have it.
+4.	We think labels like good and bad, and even the notion of I, exist outside our imagination and inside the thing we are perceiving.
+	4.1 Neither the body part nor the pleasure are good by default, we just label them good.
+	4.2	Similarly neither the pain nor the body part containing it are bad by default, we just label them this way.
+	4.3	We label based off the experiences and beliefs in our imagination. 
+5.	We crave good things and hate bad things. 
+6.	Our craving and hatred causes us stress, and leaks out causing stress in others.
+7.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
 
 ---
 
