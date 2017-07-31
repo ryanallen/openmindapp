@@ -133,6 +133,18 @@ Contemplate What is Skillful (Groups)
 6.	Our craving and hatred causes us stress, and leaks out causing stress in others.
 7.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
 
+## Insight is the Way Out
+1.	Practice insight to stop stress caused by a deluded and closed mind.
+2. Observe your mind to see the way you and all things actually exist. 
+3.	This is the only way to give up the false beliefs you are overlaying onto the way things really are.
+	3.1	There are no external means of removing stress. It is all in your mind.
+4.	We practice insight by first calming our thoughts, and then using reason to explore the true nature of all things, until we can focus and concentrate on what we have understood.
+	4.1	"The abaondonment of desire, hatred, and so forth, is through not seeing those in objects." ~ Dharmakirti
+5.	When you see that all troublesome emotions, and all problems, arise from your deluded misunderstandings, you will want to get rid of all of this ignorance.
+6.	When you remove this delusion, you stop creating unhelpful thoughts, which stops unhelpful words and actions.
+7. Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
+
+
 ---
 
 Contemplate What is Skillful (Singles)
