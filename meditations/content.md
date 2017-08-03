@@ -49,7 +49,7 @@ Framework
 Contemplate What is Skillful (Groups)
 ======================
 
-## See Yourself as You Really Are
+# The Need for Insight
 
 ## An Overview [4 Noble Truths]
 1.	The reason to practice is to stop unhelpful stress.
@@ -144,6 +144,26 @@ Contemplate What is Skillful (Groups)
 5.	When you see that all troublesome emotions, and all problems, arise from your deluded misunderstandings, you will want to get rid of all of this ignorance.
 6.	When you remove this delusion, you stop creating unhelpful thoughts, which stops unhelpful words and actions.
 7. Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
+
+# How to Undermine Ignorance
+
+## Feel the Impact of Interrelatedness
+All things are relative to all things.
+
+1.	Practice insight by thinking about how things are related through their causes and conditions.
+	1.1	A six-inch line is short relative to an eight-inch line.
+	1.2	An eight-inch line is short relative to a ten-inch line.
+2.	Delusion, which causes all our unhelpful stress, is the mistaken view that people and things exist outside the influence of other things, independent and unchangeable, with a findable true self.
+3.	The way to remove this delusion is to think about the fact that all things are changeable, and exist relative to all other things.
+	3.1	Where there is long, there has to be short. They don't exist through their own nature. Long doesn't make long, it makes short.
+4.	Let's think about a changable and impermaant thing, like a house.
+5.	Think about all the things that made this house come into existence.
+	5.1	The wood, stone, and other materials used in its construction.
+	5.2 The place it was built.
+	5.3	The people who built it.
+	5.4 All of these things make this particular house what it is. If you remove one of these things, is it still the same house? If not where did the house go? Was the essence of the house contained in the thing you removed? If not, where does the essence of the house exist? If you look deep enough you will see that an eternal essence can not be found in any of the parts of the house, for even the parts themselves contain other parts.
+6.	See how the house depending on other things conflicts with the idea that the house exists in its own right, with a findable and true self.
+
 
 
 ---
