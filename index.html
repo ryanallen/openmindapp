@@ -35,7 +35,7 @@
 <script type="application/json">
 {
   "vars": {
-    "account": "UA-256793-24",
+    "account": "UA-256793-24"
   },
   "triggers": {
     "trackPageview": {
@@ -44,8 +44,11 @@
     },
     "anchorClicks": {
       "on": "click",
+      "selector": "a",
       "request": "event",
-      "selector": "#button-intro-to-meditation"
+      "vars": {
+        "eventId": "42",
+        "eventLabel": "clicked on a link"
     }
   }
 }
