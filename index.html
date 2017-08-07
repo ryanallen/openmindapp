@@ -31,7 +31,10 @@
     <link rel="apple-touch-icon" sizes="167x167" href="touch-icon-ipad-retina.png">
   </head>
   <body>
-<amp-analytics type="googleanalytics">
+<amp-analytics 
+  type="googleanalytics"
+  config="https://www.googletagmanager.com/amp.json?id=GTM-TLLZDHK&gtm.url=SOURCE_URL"
+  data-credentials="include">
 <script type="application/json">
 {
   "vars": {
@@ -41,15 +44,6 @@
     "trackPageview": {
       "on": "visible",
       "request": "pageview"
-    },
-    "anchorClicks": {
-      "on": "click",
-      "selector": "a",
-      "request": "event",
-      "vars": {
-        "eventId": "42",
-        "eventLabel": "clicked on a link"
-      }
     }
   }
 }
