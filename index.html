@@ -41,30 +41,24 @@
     "trackPageview": {
       "on": "visible",
       "request": "pageview"
-    }
-  },
-  "triggers": {
-    "trackClickOnWayfindingButton" : {
-      "on": "click",
-      "selector": "#button-intro-to-meditation",
-      "request": "event",
-      "vars": {
-        "eventCategory": "wayfinding",
-        "eventAction": "button-click",
-        "eventLabel": "Introduction to Meditation"
-      }
-    }
-  },
-  "triggers": {
-    "trackClickOnWayfindingButton" : {
-      "on": "click",
-      "selector": "#button-mindfulness",
-      "request": "event",
-      "vars": {
-        "eventCategory": "wayfinding",
-        "eventAction": "button-click",
-        "eventLabel": "Mindfulness"
-      }
+    },
+  "trackClickOnWayfindingButton" : {
+    "on": "click",
+    "selector": "#button-intro-to-meditation",
+    "request": "event",
+    "vars": {
+      "eventCategory": "wayfinding",
+      "eventAction": "button-click",
+      "eventLabel": "Introduction to Meditation"
+    },
+  "trackClickOnWayfindingButton" : {
+    "on": "click",
+    "selector": "#button-mindfulness",
+    "request": "event",
+    "vars": {
+      "eventCategory": "wayfinding",
+      "eventAction": "button-click",
+      "eventLabel": "Mindfulness"
     }
   }
 }
