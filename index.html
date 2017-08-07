@@ -40,7 +40,12 @@
   "triggers": {
     "trackPageview": {
       "on": "visible",
-      "request": "pageview"
+      "request": "pageview",
+    },
+    "anchorClicks": {
+      "on": "click",
+      "selector": "a",
+      "request": "event"
     }
   }
 }
