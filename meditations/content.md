@@ -22,11 +22,30 @@ Framework
 	1.3	[Notice the Senses] So just start to notice and calm the senses.
 		1.3.1	[Posture] And notice the feeling of the still body, upright and yet relaxed at the same time. 
 		1.3.2	[Body scan] As you begin to scan down from head to toe. Noticing the different areas of comfort or discomfort.
-	1.4	[Object of meditation] Now take your biggest breath and notice the feeling of it somewhere in the body. 
-		1.4.1	The tip of the nose, 
-		1.4.2	the back of the throat, 
-		1.4.3	the belly expanding, 
-		1.4.4	wherever you like.
+			1.3.2.1	Beginning at the top of the head, follow and scan down.
+			1.3.2.2	The back of the head
+			1.3.2.3	to the forehead
+			1.3.2.4	the face
+			1.3.2.5	the neck
+			1.3.2.6	the shoulders
+			1.3.2.7	the upper arms
+			1.3.2.8	the lower arms
+			1.3.2.9	the hands
+			1.3.2.10	the fingers
+			1.3.2.11	the upper chest
+			1.3.2.12	the abdomen
+			1.3.2.13	the upper back
+			1.3.2.14	the lower back
+			1.3.2.15	hips
+			1.3.2.16	the upper legs
+			1.3.2.17	the lower legs
+			1.3.2.18	feet
+			1.3.2.19	toes
+	1.4	[Object of Meditation] Now take your biggest breath and notice the feeling of it somewhere in the body.
+		1.4.1	The tip of the nose,  
+		1.4.2	the back of the throat,  
+		1.4.3	the belly expanding,  
+		1.4.4	wherever you like.  
 2.	[Counting] Start by counting the breaths from one to four, starting over when you reach four. Count one with the inhale, two with the exhale.
 	2.1	[Reminder] If the mind wanders restart the counting once you notice, without judging.
 3.	[Follow] Focus your concentration on the feeling of the breath someplace in the body. And let go of counting.
@@ -36,14 +55,12 @@ Framework
 		3.1.3	Each breath has a beginning, a middle, and an end. 
 		3.1.4	There is a moment between breaths of stillness.
 		3.1.5	Eventually the breath becomes subtle, peaceful, and still. 
-	3.2	[Reminder ] Notice if the mind wanders and gently bring your focus back to the breath, without judging.
 4.	[Stabilization] Allow one's breathing to calm down, which calms down the mind, which calms down the breath.
-	4.1	[Reminder] Notice if the mind wanders and gently switch focus back to the breath,
-	4.2	without judging.
-5.	[Contemplate what is skillful] 
+	[Reminder] Notice if the attention wanders, label it thinking, or feeling, and bring the attention back.
+5.	[Contemplate what is skillful]
 6.	[Contemplate the mind] Realize this experience is empty of an objective self, because it arises from the mind. 
 7.	[Purification] Allow the mind to be free now, letting go of any focus. Every thing is everything. 
-8.	[Prepare] Bring the attention back to the breath. Back to the body. Back to the senses.
+8.	[Prepare] And now bring the attention back to the breath, back to the body, back to the senses.
 ---
 
 Contemplate What is Skillful (Groups)
@@ -150,19 +167,24 @@ Contemplate What is Skillful (Groups)
 ## Feel the Impact of Interrelatedness
 All things are relative to all things.
 
-1.	Practice insight by thinking about how things are related through their causes and conditions.
+1.	All things are related through their causes and conditions.
 	1.1	A six-inch line is short relative to an eight-inch line.
 	1.2	An eight-inch line is short relative to a ten-inch line.
-2.	Delusion, which causes all our unhelpful stress, is the mistaken view that people and things exist outside the influence of other things, independent and unchangeable, with a findable true self.
+2.	Delusion tricks us into thinking that people and things falsely exist outside the influence of other things.
+	2.1	It tricks us into thinking things don't change and last forever.
+	2.2	We are deluded into thinking people and things have a findable continuous entity that is permanent and outside the realm of change.
 3.	The way to remove this delusion is to think about the fact that all things are changeable, and exist relative to all other things.
-	3.1	Where there is long, there has to be short. They don't exist through their own nature. Long doesn't make long, it makes short.
-4.	Let's think about a changable and impermaant thing, like a house.
+	3.1	Where there is long, there has to be short. 
+	3.2	They don't exist through their own nature.
+4.	Let's think about a changeable and impermanent thing, like a house.
 5.	Think about all the things that made this house come into existence.
 	5.1	The wood, stone, and other materials used in its construction.
 	5.2 The place it was built.
 	5.3	The people who built it.
 	5.4 All of these things make this particular house what it is. If you remove one of these things, is it still the same house? If not where did the house go? Was the essence of the house contained in the thing you removed? If not, where does the essence of the house exist? If you look deep enough you will see that an eternal essence can not be found in any of the parts of the house, for even the parts themselves contain other parts.
-6.	See how the house depending on other things conflicts with the idea that the house exists in its own right, with a findable and true self.
+6.	See how the house depending on other things conflicts with the idea that the house exists in its own right, with a findable and true self, outside the influence of other things.
+7. Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
+7.	Choose to calm down and analyze your mind to see all things as they really are.
 
 
 

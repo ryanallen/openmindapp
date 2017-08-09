@@ -31,24 +31,19 @@
     <link rel="apple-touch-icon" sizes="167x167" href="touch-icon-ipad-retina.png">
   </head>
   <body>
-<amp-analytics 
-  type="googleanalytics"
-  config="https://www.googletagmanager.com/amp.json?id=GTM-TLLZDHK&gtm.url=SOURCE_URL"
-  data-credentials="include">
-<script type="application/json">
-{
-  "vars": {
-    "account": "UA-256793-24"
-  },
-  "triggers": {
-    "trackPageview": {
-      "on": "visible",
-      "request": "pageview"
+  <amp-analytics 
+    type="googleanalytics"
+    config="https://www.googletagmanager.com/amp.json?id=GTM-TLLZDHK&gtm.url=SOURCE_URL"
+    data-credentials="include">
+    <script 
+      type="application/json">
+    {
+      "vars": {
+        "account": "UA-256793-24"
+      }
     }
-  }
-}
-</script>
-</amp-analytics>
+    </script>
+  </amp-analytics>
     <div class="top-bar">
       <h1 class="top-bar__heading">Open Mind</h1>
     </div>
@@ -60,7 +55,7 @@
       </p> 
     </div>
     <div class="button__group">
-      <a id="button-intro-to-meditation" class="button" href="meditations/introduction.html">
+      <a id="intro-to-meditation" class="button" href="meditations/introduction.html">
         <h3 class="button__text">Introduction to Meditation</h3><i class="material-icons button__icon">keyboard_arrow_right</i>
       </a>
       <a id="button-mindfulness" class="button" href="meditations/mindfulness.html">
@@ -75,7 +70,7 @@
       <a id="button-sutras" class="button" href="meditations/sutras.html">
         <h3 class="button__text">Words of the Buddha</h3><i class="material-icons button__icon">keyboard_arrow_right</i>
       </a>
-      <a href="http://eepurl.com/cVBuh1" target="_blank" >
+      <a id="notification-stay-updated" href="http://eepurl.com/cVBuh1" target="_blank" >
         <div class="notification">
           <i class="material-icons notification-icon">notifications</i>
           <h4 class="notification__text">Tell Me About New Meditations
