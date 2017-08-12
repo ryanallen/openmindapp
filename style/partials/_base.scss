@@ -7,6 +7,7 @@ html {
 	font-size: 8px;  /// all rems are relative to this number
 	height: 100%;    /// sets the root container height to 100% of the viewport
 	width: 100%;
+	background-color: $c10;
 }
 
 body {
@@ -16,7 +17,6 @@ body {
 	background-color: $c10;
 	@include flex(1); /// allows for flexbox alignments in the full viewport
 	flex-direction: column; /// turn this off to watch everything break
-
 }
 
 a:link { 
