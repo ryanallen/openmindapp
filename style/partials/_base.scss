@@ -17,6 +17,7 @@ body {
 	background-color: $c10;
 	@include flex(1); /// allows for flexbox alignments in the full viewport
 	flex-direction: column; /// turn this off to watch everything break
+	align-items: center;
 }
 
 a:link { 
