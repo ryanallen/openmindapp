@@ -22,30 +22,11 @@ Framework
 	1.3	[Notice the Senses] So just start to notice and calm the senses.
 		1.3.1	[Posture] And notice the feeling of the still body, upright and yet relaxed at the same time. 
 		1.3.2	[Body scan] As you begin to scan down from head to toe. Noticing the different areas of comfort or discomfort.
-			1.3.2.1	Beginning at the top of the head, follow and scan down.
-			1.3.2.2	The back of the head
-			1.3.2.3	to the forehead
-			1.3.2.4	the face
-			1.3.2.5	the neck
-			1.3.2.6	the shoulders
-			1.3.2.7	the upper arms
-			1.3.2.8	the lower arms
-			1.3.2.9	the hands
-			1.3.2.10	the fingers
-			1.3.2.11	the upper chest
-			1.3.2.12	the abdomen
-			1.3.2.13	the upper back
-			1.3.2.14	the lower back
-			1.3.2.15	hips
-			1.3.2.16	the upper legs
-			1.3.2.17	the lower legs
-			1.3.2.18	feet
-			1.3.2.19	toes
-	1.4	[Object of Meditation] Now take your biggest breath and notice the feeling of it somewhere in the body.
-		1.4.1	The tip of the nose,  
-		1.4.2	the back of the throat,  
-		1.4.3	the belly expanding,  
-		1.4.4	wherever you like.  
+	1.4	[Object of meditation] Now take your biggest breath and notice the feeling of it somewhere in the body. 
+		1.4.1	The tip of the nose, 
+		1.4.2	the back of the throat, 
+		1.4.3	the belly expanding, 
+		1.4.4	wherever you like.
 2.	[Counting] Start by counting the breaths from one to four, starting over when you reach four. Count one with the inhale, two with the exhale.
 	2.1	[Reminder] If the mind wanders restart the counting once you notice, without judging.
 3.	[Follow] Focus your concentration on the feeling of the breath someplace in the body. And let go of counting.
@@ -55,18 +36,20 @@ Framework
 		3.1.3	Each breath has a beginning, a middle, and an end. 
 		3.1.4	There is a moment between breaths of stillness.
 		3.1.5	Eventually the breath becomes subtle, peaceful, and still. 
+	3.2	[Reminder ] Notice if the mind wanders and gently bring your focus back to the breath, without judging.
 4.	[Stabilization] Allow one's breathing to calm down, which calms down the mind, which calms down the breath.
-	[Reminder] Notice if the attention wanders, label it thinking, or feeling, and bring the attention back.
-5.	[Contemplate what is skillful]
+	4.1	[Reminder] Notice if the mind wanders and gently switch focus back to the breath,
+	4.2	without judging.
+5.	[Contemplate what is skillful] 
 6.	[Contemplate the mind] Realize this experience is empty of an objective self, because it arises from the mind. 
 7.	[Purification] Allow the mind to be free now, letting go of any focus. Every thing is everything. 
-8.	[Prepare] And now bring the attention back to the breath, back to the body, back to the senses.
+8.	[Prepare] Bring the attention back to the breath. Back to the body. Back to the senses.
 ---
 
 Contemplate What is Skillful (Groups)
 ======================
 
-# The Need for Insight
+## See Yourself as You Really Are
 
 ## An Overview [4 Noble Truths]
 1.	The reason to practice is to stop unhelpful stress.
@@ -150,42 +133,16 @@ Contemplate What is Skillful (Groups)
 6.	Our craving and hatred causes us stress, and leaks out causing stress in others.
 7.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
 
-## Insight Stops Stress
+## Insight is the Way Out
 1.	Practice insight to stop stress caused by a deluded and closed mind.
-2.	Observe your mind to see the way you and all things actually exist. 
+2. Observe your mind to see the way you and all things actually exist. 
 3.	This is the only way to give up the false beliefs you are overlaying onto the way things really are.
-	3.1	There are no external means of removing stress. 
-	3.2	It is all in your mind.
-4.	We practice insight by first calming our thoughts, and then using reason to explore the nature of all things, until we can focus and concentrate on what we have understood.
-	4.1	As Dharmakirti said: "The abandonment of desire, hatred, and so forth, is through not seeing those in objects."
+	3.1	There are no external means of removing stress. It is all in your mind.
+4.	We practice insight by first calming our thoughts, and then using reason to explore the true nature of all things, until we can focus and concentrate on what we have understood.
+	4.1	"The abaondonment of desire, hatred, and so forth, is through not seeing those in objects." ~ Dharmakirti
 5.	When you see that all troublesome emotions, and all problems, arise from your deluded misunderstandings, you will want to get rid of all of this ignorance.
 6.	When you remove this delusion, you stop creating unhelpful thoughts, which stops unhelpful words and actions.
 7. Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
-
-# How to Undermine Ignorance
-
-## Feel the Impact of Interrelatedness
-All things are relative to all things.
-
-1.	All things are related through their causes and conditions.
-	1.1	A six-inch line is short relative to an eight-inch line.
-	1.2	An eight-inch line is short relative to a ten-inch line.
-2.	Delusion tricks us into thinking that people and things falsely exist outside the influence of other things.
-	2.1	It tricks us into thinking things don't change and last forever.
-	2.2	We are deluded into thinking people and things have a findable continuous entity that is permanent and outside the realm of change.
-3.	The way to remove this delusion is to think about the fact that all things are changeable, and exist relative to all other things.
-	3.1	Where there is long, there has to be short. 
-	3.2	They don't exist through their own nature.
-4.	Let's think about a changeable and impermanent thing, like a house.
-5.	Think about all the things that made this house come into existence.
-	5.1	The wood, stone, and other materials used in its construction.
-	5.2 The place it was built.
-	5.3	The people who built it.
-	5.4 All of these things make this particular house what it is. If you remove one of these things, is it still the same house? If not where did the house go? Was the essence of the house contained in the thing you removed? If not, where does the essence of the house exist? If you look deep enough you will see that an eternal essence can not be found in any of the parts of the house, for even the parts themselves contain other parts.
-6.	See how the house depending on other things conflicts with the idea that the house exists in its own right, with a findable and true self, outside the influence of other things.
-7. Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
-7.	Choose to calm down and analyze your mind to see all things as they really are.
-
 
 
 ---
@@ -209,22 +166,3 @@ Contemplate What is Skillful (Singles)
 	1.2	Stress and delusive-desires are inexhaustible; I will end them all.
 	1.3	There are teachings beyond-measure; I will learn them all.
 	1.4	The Buddha's Way is unsurpassable; I will accomplish it all.
-
----
-
-Basics
-=======
-
-# Introduction
-1. Hi, my name's Ryan, and welcome to Open Mind, a free app to help you develop your mindfulness to know what is going on in your head at any moment, as well as your wisdom by practicing insight, all in an effort to end your stress and the stress of those around you. Here are some tips on how to get the most out of these exercises for your brain.
-
-
-2.	Finding a place where you won't be disturbed is important when you're beginning. Background noise is ok if it isn't distracting. 
-
-3.	Science has shown that if you practice around the same time each day you are more likely to create a new skillful habit. Practicing in the same place can also be helpful.
-
-4.	Your practice will be different every time you do it. Sometimes it's easy to maintain your focus and concentration, sometimes it's difficult and your thoughts scatter quickly and repeatedly. It's important to stick with it and notice when your attention wanders, and then start over. Try to maintain focus, fail, and try again without judging yourself. The reason we fail is so we can learn to bring our focus back.
-
-5.	There are different postures you can use such as laying down, sitting, kneeling, standing, walking, or even doing simple repetitive tasks. The easiest and most skillful position when first starting is sitting, and it's what I would recommend starting off with. If you keep your back straight while also remaining relaxed it makes it easier to calm your breathing and your mind. 
-
-6. And thats it, you're now ready experience a calmer, wiser, and more open mind.

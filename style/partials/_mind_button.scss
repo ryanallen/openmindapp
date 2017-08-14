@@ -1,7 +1,7 @@
 .button {
   display: flex;
 	min-height: 96px;
-  min-width: $max-screen-width; /// important for chrome
+  width: 100%; /// important for chrome
   max-width: $max-screen-width;
 	margin: 0 auto 12px auto;
   color: $c100;
@@ -22,11 +22,6 @@
   margin: 0 0 0 32px;
 }
 
-.button__text--center {
-  @include flex(1);
-  justify-content: center;
-}
-
 .material-icons.button__icon {
   display: flex;
   font-size: 32px;
@@ -40,27 +35,25 @@
 
 ////////////////////////////////////////
 
-
-.button-flat {
-  @extend .button;
-  min-height: 72px;
-  background-color: transparent;
-}
-
-.button-cta {
-  @extend .button;
-  min-height: 72px;
-  color: $c00;
-  background-color: $c90;
-        &:hover { 
-        background-color: $c100; 
+.button__feedback-request {
+  display: flex;
+  min-height: 64px;
+  width: 100%;
+    box-shadow: 0 -2px 0 0 $c08;
+  background-color: $c15;
+  align-items: center;/// centers text on the y axis
+  justify-content: center;
+      &:hover { 
+        background-color: $c100;
         color: $c00;
+
       }
+  transition: background-color .3s ease, color .3s ease;
 }
 
 .button__group--viewport-bottom {
   @extend .button__group;
-  padding-top: 56px;
+  justify-content: flex-end;
 }
 
 ////////////////////////////////////////
