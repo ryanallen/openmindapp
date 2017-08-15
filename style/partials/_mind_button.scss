@@ -61,6 +61,7 @@
 .button__group--viewport-bottom {
   @extend .button__group;
   padding-top: 56px;
+  /// If I want to try fixing something to the bottom again this info from the AMP slack channel might help. Set a container below body with this: display: fixed; top: 0; right: 0; bottom: 0; left: 0; display: flex; justify-content: center; align-items: center;
 }
 
 ////////////////////////////////////////
