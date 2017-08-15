@@ -153,16 +153,24 @@ All things are relative to all things.
 1.	Practice insight by thinking about how things are related through their causes and conditions.
 	1.1	A six-inch line is short relative to an eight-inch line.
 	1.2	An eight-inch line is short relative to a ten-inch line.
-2.	Delusion, which causes all our unhelpful stress, is the mistaken view that people and things exist outside the influence of other things, independent and unchangeable, with a findable true self.
-3.	The way to remove this delusion is to think about the fact that all things are changeable, and exist relative to all other things.
+2.	Delusion is the mistaken view that people and things exist independently and outside the influence of other things.
+	2.1	If things existed outside the influence of other things, how would those things change?
+	2.2	Is there any thing imaginable that is unchangable?
+3.	The way to remove this delusion is to think about the fact that all things are changeable because they exist relative to other things. They are dependent on other things.
 	3.1	Where there is long, there has to be short. They don't exist through their own nature. Long doesn't make long, it makes short.
-4.	Let's think about a changable and impermaant thing, like a house.
+4.	Let's think about a thing, like a house.
 5.	Think about all the things that made this house come into existence.
-	5.1	The wood, stone, and other materials used in its construction.
-	5.2 The place it was built.
-	5.3	The people who built it.
-	5.4 All of these things make this particular house what it is. If you remove one of these things, is it still the same house? If not where did the house go? Was the essence of the house contained in the thing you removed? If not, where does the essence of the house exist? If you look deep enough you will see that an eternal essence can not be found in any of the parts of the house, for even the parts themselves contain other parts.
-6.	See how the house depending on other things conflicts with the idea that the house exists in its own right, with a findable and true self.
+	5.0.1	[1 minute] It's materials, location, and other dependencies.
+	5.1	Its materials,
+		5.1.1	like wood, stone, and plastic.
+	5.2 location,
+	5.3	and other dependencies.
+		5.3.1	Like the people who built it,
+		5.3.2	and the timeframe it exists as in this house.
+	5.4	If we change one of these things, is it still the same house? 
+	5.5	Was its soul in the thing we changed? 
+	5.6	Is a flame burning on a candle now the same flame from 2 minutes ago?
+6.	See how the house depending on other things conflicts with the deluded idea that the house exists as a concrete independent entity.
 
 
 
