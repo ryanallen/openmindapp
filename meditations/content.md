@@ -32,10 +32,7 @@ Framework
 3.	[Follow] Focus your concentration on the feeling of the breath someplace in the body. And let go of counting.
 	3.1	[Follow the Breath] Follow the coming in and going out of the breath. 
 		3.1.1	Notice how each breath is unique.
-		3.1.2	Some long and some short. 
-		3.1.3	Each breath has a beginning, a middle, and an end. 
-		3.1.4	There is a moment between breaths of stillness.
-		3.1.5	Eventually the breath becomes subtle, peaceful, and still. 
+		3.1.2	Eventually the breath becomes subtle, peaceful, and still. 
 	3.2	[Reminder ] Notice if the mind wanders and gently bring your focus back to the breath, without judging.
 4.	[Stabilization] Allow one's breathing to calm down, which calms down the mind, which calms down the breath.
 	4.1	[Reminder] Notice if the mind wanders and gently switch focus back to the breath,
