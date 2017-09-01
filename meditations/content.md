@@ -169,6 +169,19 @@ All things are relative to all things.
 	5.6	Is a flame burning on a candle now the same flame from 2 minutes ago?
 6.	See how the house depending on other things conflicts with the deluded idea that the house exists as a concrete independent entity.
 
+1.	Everything is nothing more than a set of relations.
+	1.1	When this is, that is
+	1.2	This arising, that arises
+	1.3	When this is not, that is not
+	1.4	This ceasing, that ceases.
+2.	Since every thing is conditioned, relative, and interdependent, there is nothing to regard as a permanent entity; which is sometimes called ego or self or soul.
+3.	To illustrate the relative nature of the things around us, let's consider a candle.
+4.	It's flame burns dependent upon things, like the wax and the wick.
+	4.1	When the wax and the wick are present, the flame burns.
+	4.2	If either of these is absent, the flame will cease to burn. 
+5.	Or consider a plant, which is dependent upon things like the seed, earth and light.
+6.	See how every thing arises dependent upon causal factors, and not independently.
+
 
 
 ---
