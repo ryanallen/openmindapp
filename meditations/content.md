@@ -71,19 +71,19 @@ Contemplate What is Skillful (Groups)
 6.	We can't experience reality without the overlay of mind interfering which is why its important to mindfully train our minds to see reality as it actually exists.  
 7.	Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which sees through delusion on a path that ends unhelpful stress.
 
-## Contemplate Ending Stress
-1.	Practice to stop the stress caused by a deluded and closed mind with a limited view of reality.
-	1.1	Let's think about how we might end stress.
-2.	We can suppress unhelpful thought patterns like anger, hatred and the like.
-	2.1	We can do this by thinking deeply about the opposite thought pattern we want to change.
-	2.2	To counteract hatred we can practice love
-	2.3	To counteract wanting we can practice giving
-	2.4	To counteract delusion we can practice wisdom through logically analyzing reality
-3.	The root of all our unhelpful thought patterns is a deluded belief that overlays every one of our experiences.
-	3.1	This deluded mind views reality from a fixed perspective,
-	3.2	which causes all our unhelpful suffering and stress.
-4.	Therefore by learning to recognize and understand this delusion in ourselves, as well as learning to analyze and logically think about reality, we will learn to see through delusion and end unhelpful stress.
-5.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
+## [Contemplate Ending Stress](https://openmindapp.org/meditations/insight__ending-stress.html)  
+1.	Practice to stop the stress caused by a deluded and closed mind with a limited view of reality.  
+	1.1	Let's think about how we might end stress.  
+2.	We can suppress unhelpful thought patterns like anger, hatred and the like.  
+	2.1	We can do this by thinking deeply about the opposite thought pattern we want to change.  
+	2.2	To counteract hatred we can practice love  
+	2.3	To counteract wanting we can practice giving  
+	2.4	To counteract delusion we can practice wisdom through logically analyzing reality.  
+3.	The root of all our unhelpful thought patterns is a deluded belief that overlays every one of our experiences.  
+	3.1	This deluded mind views reality from a fixed perspective,  
+	3.2	which causes all our unhelpful suffering and stress.  
+4.	Therefore by learning to recognize and understand this delusion in ourselves, as well as learning to analyze and logically think about reality, we will learn to see through delusion and end unhelpful stress.  
+5.	Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which sees through delusion on a path that ends unhelpful stress.
 
 
 ## Contemplate the Process of Delusion
