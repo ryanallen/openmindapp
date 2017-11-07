@@ -166,46 +166,31 @@ All things are relative to all things.
 6.	See how the house depending on other things conflicts with the deluded idea that the house exists as a concrete independent entity.  
 7.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.  
 
----
-
-## WIP  
-
-1.	Everything is nothing more than a set of relations.
-	1.1	When this is, that is
-	1.2	This arising, that arises
-	1.3	When this is not, that is not
-	1.4	This ceasing, that ceases.
-2.	Since every thing is conditioned, relative, and interdependent, there is nothing to regard as a permanent entity; which is sometimes called ego or self or soul.
-3.	To illustrate the relative nature of the things around us, let's consider a candle.
-4.	It's flame burns dependent upon things, like the wax and the wick.
-	4.1	When the wax and the wick are present, the flame burns.
-	4.2	If either of these is absent, the flame will cease to burn. 
-5.	Or consider a plant, which is dependent upon things like the seed, earth and light.
-6.	See how every thing arises dependent upon causal factors, and not independently.
-
-
 
 ---
 
-Contemplate What is Skillful (Singles)
+Contemplate What is Skillful (Singles)  
 ======================
 
-## Contemplate the Five Remembrances (Upajjhatthana Sutta)
-### End harmful thoughts and actions
-#### End conceit, lust, 
-1. There are five things that are skillful to think about often.
-	1.1	I can not avoid aging.
-	1.2	I can not avoid illness or injury.
-	1.3	I can not avoid death.
-	1.4	I can not keep any thing forever.
-	1.5 I am the owner of my thoughts, words, and actions; whether good or bad, of these shall I inherit.
+## [Words of the Buddha](https://openmindapp.org/meditations/sutras.html)  
+### [5 Things to Think About Often](https://openmindapp.org/meditations/sutras__5-things.html)  
+#### Contemplate the Five Remembrances (Upajjhatthana Sutta)  
+#### End harmful thoughts and actions  
+#### End conceit, lust,   
+1. There are five things that are skillful to think about often.  
+	1.1	I can not avoid aging.  
+	1.2	I can not avoid illness or injury.  
+	1.3	I can not avoid death.  
+	1.4	I can not keep any thing forever.  
+	1.5 I am the owner of my thoughts, words, and actions; whether good or bad, of these shall I inherit.  
 
-## Contemplate the Four Encompassing Bodhisattva Vows (https://en.wikipedia.org/wiki/Bodhisattva_vow)
-1. [Contemplate what is skillful] There are four things that are skillful to think about to relieve the stress of every one.
-	1.1	Beings are countless; I will help them all.
-	1.2	Stress and delusive-desires are inexhaustible; I will end them all.
-	1.3	There are teachings beyond-measure; I will learn them all.
-	1.4	The Buddha's Way is unsurpassable; I will accomplish it all.
+## Contemplate the Four Encompassing Bodhisattva Vows (https://en.wikipedia.org/wiki/Bodhisattva_vow)  
+### Recorded but not uploaded yet  
+1. [Contemplate what is skillful] There are four things that are skillful to think about to relieve the stress of every one.  
+	1.1	Beings are countless; I will help them all.  
+	1.2	Stress and delusive-desires are inexhaustible; I will end them all.  
+	1.3	There are teachings beyond-measure; I will learn them all.  
+	1.4	The Buddha's Way is unsurpassable; I will accomplish it all.  
 
 ---
 
@@ -225,3 +210,23 @@ Basics
 5.	There are different postures you can use such as laying down, sitting, kneeling, standing, walking, or even doing simple repetitive tasks. The easiest and most skillful position when first starting is sitting, and it's what I would recommend starting off with. If you keep your back straight while also remaining relaxed it makes it easier to calm your breathing and your mind.  
 
 6. And thats it, you're now ready experience a calmer, wiser, and more open mind.
+
+---
+
+## WIP  
+
+1.	Everything is nothing more than a set of relations.
+	1.1	When this is, that is
+	1.2	This arising, that arises
+	1.3	When this is not, that is not
+	1.4	This ceasing, that ceases.
+2.	Since every thing is conditioned, relative, and interdependent, there is nothing to regard as a permanent entity; which is sometimes called ego or self or soul.
+3.	To illustrate the relative nature of the things around us, let's consider a candle.
+4.	It's flame burns dependent upon things, like the wax and the wick.
+	4.1	When the wax and the wick are present, the flame burns.
+	4.2	If either of these is absent, the flame will cease to burn. 
+5.	Or consider a plant, which is dependent upon things like the seed, earth and light.
+6.	See how every thing arises dependent upon causal factors, and not independently.
+
+
+
