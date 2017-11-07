@@ -33,13 +33,13 @@ Framework
 3.	[Follow] Focus your concentration on the feeling of the breath someplace in the body. And let go of counting.  
 	3.1	[Follow the Breath] Follow the coming in and going out of the breath.  
 		3.1.1	Notice how each breath is unique.  
-		3.1.2	Eventually the breath becomes subtle, peaceful, and still.  
-	3.2	[Reminder] Notice if the attention wanders, label it thinking, or feeling, and bring the attention back.   
+		3.1.2	Eventually the breath becomes subtle, peaceful, and still.     
 4.	[Stabilization] Allow one's breathing to calm down, which calms down the mind, which calms down the breath.  
-5.	[Contemplate what is skillful] 
-6.	[Contemplate the mind] Realize this experience is empty of an objective self, because it arises from the mind. 
-7.	[Purification] Allow the mind to be free now, letting go of any focus. Every thing is everything. 
-8.	[Prepare] Bring the attention back to the breath. Back to the body. Back to the senses.
+	4.1	[Reminder] Notice if the attention wanders, label it thinking, or feeling, and bring the attention back.  
+5.	[Contemplate what is skillful]  
+6.	[Contemplate the mind] Realize this experience is empty of an objective self, because it arises from the mind.  
+7.	[Purification] Allow the mind to be open and free now, letting go of any focus. Every thing is everything.  
+8.	[Prepare] Bring the attention back to the breath. Back to the body. Back to the senses.  
 ---
 
 Contemplate What is Skillful (Groups)  
