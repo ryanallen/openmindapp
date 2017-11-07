@@ -86,28 +86,28 @@ Contemplate What is Skillful (Groups)
 5.	Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which sees through delusion on a path that ends unhelpful stress.
 
 
-## Contemplate the Process of Delusion
-1.	Practice to stop the stress caused by a deluded and closed mind with a limited view of reality.
-	1.1	Let's think about the process behind this delusional belief.
-2.	[Contact] First we sense things
-	2.1	like light 
-	2.2	through our eyes.
-3.	Next our nerves communicate an electrical signal to the brain.
-4.	[Name and Form] Then the mind labels the signal with names it remembers. 
-	4.1	shape
-	4.2	hand
-	4.2	my hand
-	4.4	my body
-	4.5	me
-5.	[Consciousness] Which makes the mind become conscious of the grouping of labels we call an experience.
-6.	[Karmic formations] The mind records the experience forming beliefs.
-7.	[Ignorance] Like our delusional belief that our mental experiences exist as something concrete and separate from a mental condition of consciousness.
-	7.1	Beliefs are built on the experiences we remember
-	7.2	which are colored by our mental vocabulary and habits. 
-	7.3	If we think about things that make us angry
-	7.4	we are more likely to label our experiences angrily, 
-	7.5	which forms our beliefs on a foundation of anger, hatred, and suffering.
-8.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
+## [Contemplate the Process of Delusion](https://openmindapp.org/meditations/insight__process-of-delusion.html)  
+1.	Practice to stop the stress caused by a deluded and closed mind with a limited view of reality.  
+	1.1	Let's think about the process behind this delusional belief.  
+2.	[Contact] First we sense things  
+	2.1	like light  
+	2.2	through our eyes.  
+3.	Next our nerves communicate an electrical signal to the brain.  
+4.	[Name and Form] Then the mind labels the signal with names it remembers.  
+	4.1	shape  
+	4.2	hand  
+	4.2	my hand  
+	4.4	my body  
+	4.5	me  
+5.	[Consciousness] Which makes the mind become conscious of the grouping of labels we call an experience.  
+6.	[Karmic formations] The mind records the experience forming beliefs.  
+7.	[Ignorance] Like our delusional belief that our mental experiences exist as something concrete and separate from a mental condition of consciousness.  
+	7.1	Beliefs are built on the experiences we remember  
+	7.2	which are colored by our mental vocabulary and habits.  
+	7.3	If we think about things that make us angry  
+	7.4	we are more likely to label our experiences angrily,  
+	7.5	which forms our beliefs on a foundation of anger, hatred, and suffering.  
+8.	Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which sees through delusion on a path that ends unhelpful stress.  
 
 ## How Labels Cause Stress by Projection
 1.	Practice to stop stress caused by a deluded and closed mind stuck in the habits of craving and loathing.
