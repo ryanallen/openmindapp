@@ -109,22 +109,22 @@ Contemplate What is Skillful (Groups)
 	7.5	which forms our beliefs on a foundation of anger, hatred, and suffering.  
 8.	Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which sees through delusion on a path that ends unhelpful stress.  
 
-## How Labels Cause Stress by Projection
-1.	Practice to stop stress caused by a deluded and closed mind stuck in the habits of craving and loathing.
-	1.1	Let's think about this process of craving and loathing.
-2.	First we briefly perceive a thing.
-	2.1 Like a feeling in our body
-2. Next we delusionally think the thing we perceive exists as a solid continuous entity, independent of thought.
-3.	Then we label the thing as good or bad.
-	3.1	This pleasurable feeling is good. I want it to last forever and will have stress when it is gone.
-	3.2	Or, this painful feeling is bad. I hate it and will have stress as long as I have it.
-4.	We think labels like good and bad, and even the notion of I, exist outside our imagination and inside the thing we are perceiving.
-	4.1 Neither the body part nor the pleasure are good by default, we just label them good.
-	4.2	Similarly neither the pain nor the body part containing it are bad by default, we just label them this way.
-	4.3	We label based off the experiences and beliefs in our imagination. 
-5.	We crave good things and hate bad things. 
-6.	Our craving and hatred causes us stress, and leaks out causing stress in others.
-7.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
+## [Contemplate Delusional Labeling](https://openmindapp.org/meditations/insight__delusional-labeling.html)  
+1.	Practice to stop stress caused by a deluded and closed mind stuck in the habits of craving and hating.  
+	1.1	Let's think about this process of craving and hating.  
+2.	First we briefly perceive a thing.  
+	2.1 Like a feeling in our body  
+2. Next we delusionally think the thing we perceive exists as a solid continuous entity, independent of thought.  
+3.	Then we label the thing as good or bad.  
+	3.1	This pleasurable feeling is good. I want it to last forever and will have stress when it is gone.  
+	3.2	Or, this painful feeling is bad. I hate it and will have stress as long as I have it.   
+4.	We think labels like good and bad, and even the notion of I, exist outside our imagination and inside the thing we are perceiving.  
+	4.1 Neither the body part nor the pleasure are good by default, we just label them good.  
+	4.2	Similarly neither the pain nor the body part containing it are bad by default, we just label them this way.  
+	4.3	We label based off the experiences and beliefs in our imagination.  
+5.	We crave good things and hate bad things.  
+6.	Our craving and hatred causes us stress, and leaks out causing stress in others.  
+7.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.  
 
 ## Insight Stops Stress
 1.	Practice insight to stop stress caused by a deluded and closed mind.
