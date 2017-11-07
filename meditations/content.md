@@ -140,30 +140,31 @@ Contemplate What is Skillful (Groups)
 
 # How to Undermine Ignorance
 
-## Feel the Impact of Interrelatedness
-All things are relative to all things.
+## [Experience Relativity](https://openmindapp.org/meditations/insight__experience-relativity.html)  
+All things are relative to all things.  
 
-1.	Practice insight by thinking about how things are related through their causes and conditions.
-	1.1	A six-inch line is short relative to an eight-inch line.
-	1.2	An eight-inch line is short relative to a ten-inch line.
-2.	Delusion is the mistaken view that people and things exist independently and outside the influence of other things and the realm of change.
-	2.1	If things existed outside the influence of other things, how would those things change?
-	2.2	Is there any thing imaginable that is unchangable?
-3.	The way to remove this delusion is to think about the fact that all things are changeable because they exist relative to other things. They are dependent on other things.
-	3.1	Where there is long, there has to be short. They don't exist through their own nature. 
-4.	Let's think about a thing, like a house.
-5.	Think about all the things that made this house come into existence.
-	5.0.1	[1 minute] It's materials, location, and other dependencies.
-	5.1	Its materials,
-		5.1.1	like wood, stone, and plastic.
-	5.2 location,
-	5.3	and other dependencies.
-		5.3.1	Like the people who built it,
-		5.3.2	and the timeframe it exists as a house within.
-	5.4	If we change one of these things, is it still the same house? 
-	5.5	Was its soul in the thing we changed? 
-	5.6	Is a flame burning on a candle now the same flame from 2 minutes ago?
-6.	See how the house depending on other things conflicts with the deluded idea that the house exists as a concrete independent entity.
+1.	Practice insight by thinking about how things are related through their causes and conditions.  
+	1.1	A six-inch line is short relative to an eight-inch line.  
+	1.2	An eight-inch line is short relative to a ten-inch line.  
+2.	Delusion is the mistaken view that people and things exist independently and outside the influence of other things and the realm of change.  
+	2.1	Think about it, if things existed outside the influence of other things, how would those things change?  
+	2.2	Is there any thing imaginable that is unchangable?  
+3.	The way to remove this delusion is to think about the fact that all things are changeable because they exist relative to other things.  
+	3.1	Where there is long, there has to be short.  
+4.	Let's think about a thing, like a house.  
+5.	Think about all the things that made this house come into existence.  
+	5.0.1	[1 minute] It's materials, location, and other dependencies.  
+	5.1	Its materials,  
+		5.1.1	like wood, stone, and plastic.  
+	5.2 location,  
+	5.3	and other dependencies.  
+		5.3.1	Like the people who built it,  
+		5.3.2	and the timeframe it exists as a house within.  
+	5.4	If we change one of these things, is it still the same house?  
+	5.5	Was its soul in the thing we changed?  
+	5.6	Is a flame burning on a candle now the same flame from 2 minutes ago?  
+6.	See how the house depending on other things conflicts with the deluded idea that the house exists as a concrete independent entity.  
+7.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.  
 
 1.	Everything is nothing more than a set of relations.
 	1.1	When this is, that is
