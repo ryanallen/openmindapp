@@ -1,0 +1,2 @@
+# mind
+https://openmindapp.org
