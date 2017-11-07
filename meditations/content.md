@@ -1,4 +1,4 @@
-Framework
+[Framework and Calm Down](https://openmindapp.org/meditations/insight__calm-down.html)
 ==========
 
 ## 1 Minute  
@@ -56,23 +56,20 @@ Contemplate What is Skillful (Groups)
 	5.1 Which sees through delusion  
 	5.2	on a path that ends unhelpful stress for everyone.  
 
-## Contemplate the Cause of Stress
-1.	The reason to practice is to stop unhelpful stress. 
-	1.1	Let's think about what causes that stress.
-2.	It's caused by stressful thoughts or mental habits.
-	2.1	Which leak out as harmful words 
-	2.2	and harmful actions [Kleshas]
-3.	Examples may be anxiety, depression, anger, hatred, among others.
-4	[Attachment and Aversion] Stressful thoughts are caused by our brain's patterns of wanting.
-	4.1 Such as wanting things we don't have that we label good, like pleasure.
-	4.2 and wanting to not have things labeled bad, like pain.
-5.	[Ignorance] These are caused by the overlay of a delusional desire for eternal life, and a false belief that we and the things we covet will last forever.
-	5.1	This delusion exists because our mind overlays names and labels over all of our perceptions.
-	5.2 The core delusional labels split reality in half and are named this and that. 
-		5.2.1	Wisdom sees
-		5.2.1	This and that 
-6.	We can't experience reality without the overlay of mind interfering which is why its important to mindfully train our minds to see reality as it actually exists.
-7.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.
+## [Contemplate the Cause of Stress](https://openmindapp.org/meditations/insight__cause-of-stress.html)  
+1.	The reason to practice is to stop unhelpful stress.  
+	1.1	Let's think about what causes that stress.  
+2.	It's caused by stressful thoughts or mental habits.  
+	2.1	Which leak out as harmful words  
+	2.2	and harmful actions [Kleshas]  
+3.	Examples may be anxiety, depression, anger, hatred, among others.  
+4	[Attachment and Aversion] Stressful thoughts are caused by our brain's patterns of wanting.  
+	4.1 Such as wanting things we don't have that we label good, like pleasure.  
+	4.2 and wanting to not have things labeled bad, like pain.  
+5.	[Ignorance] These are caused by the overlay of a delusional desire for eternal life, and a false belief that we and the things we covet will last forever.  
+	5.1	This delusion exists because our mind overlays names and labels over all of our perceptions.  
+6.	We can't experience reality without the overlay of mind interfering which is why its important to mindfully train our minds to see reality as it actually exists.  
+7.	Choose to practice your focus and concentration to analyze your mind and see all things as they really are, which sees through delusion on a path that ends unhelpful stress.
 
 ## Contemplate Ending Stress
 1.	Practice to stop the stress caused by a deluded and closed mind with a limited view of reality.
