@@ -213,14 +213,52 @@ Basics
 
 ---
 
-## WIP  
+## WIP 
 
-1.	Everything is nothing more than a set of relations.
+## [Contemplate Consciousness](https://openmindapp.org/meditations/insight__experience-relativity.html)  
+All things are relative to all things. 
+
+1.	Practice insight by thinking about how consciousness exists as a continuum of relative moments. 
+	1.1	Just as a moment has an end, so it must have a beginning and a middle. 
+	1.2	Also the beginning, middle, and end are to be analyzed like a moment.
+	1.3 ~ Nagarjuna
+2.	Consciousness of a white cup has earlier and later moments in its continuum.
+3.	These moments of consciousness make up parts of the stream of consciousness.
+4.	Even the shortest amount of time we can perceive in this continuum is made from parts.
+5.	If it didn't have a beginning, middle, and end, it couldn't join with other moments to form a continuum.
+
+---
+
+2.	Delusion is the mistaken view that people and things exist independently and outside the influence of other things and the realm of change.  
+	2.1	Think about it, if things existed outside the influence of other things, how would those things change?  
+	2.2	Is there any thing imaginable that is unchangable?  
+3.	The way to remove this delusion is to think about the fact that all things are changeable because they exist relative to other things.  
+	3.1	Where there is long, there has to be short.  
+4.	Let's think about a thing, like a house.  
+5.	Think about all the things that made this house come into existence.  
+	5.0.1	[1 minute] It's materials, location, and other dependencies.  
+	5.1	Its materials,  
+		5.1.1	like wood, stone, and plastic.  
+	5.2 location,  
+	5.3	and other dependencies.  
+		5.3.1	Like the people who built it,  
+		5.3.2	and the timeframe it exists as a house within.  
+	5.4	If we change one of these things, is it still the same house?  
+	5.5	Was its soul in the thing we changed?  
+	5.6	Is a flame burning on a candle now the same flame from 2 minutes ago?  
+6.	See how the house depending on other things conflicts with the deluded idea that the house exists as a concrete independent entity.  
+7.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone. 
+
+--- 
+
+
+
+1.	Everything is nothing more than a set of conditioned relations.
 	1.1	When this is, that is
 	1.2	This arising, that arises
 	1.3	When this is not, that is not
 	1.4	This ceasing, that ceases.
-2.	Since every thing is conditioned, relative, and interdependent, there is nothing to regard as a permanent entity; which is sometimes called ego or self or soul.
+2.	Since every thing is conditioned, relative, and interdependent, there is nothing to regard as a permanent entity, ego, elf or soul.
 3.	To illustrate the relative nature of the things around us, let's consider a candle.
 4.	It's flame burns dependent upon things, like the wax and the wick.
 	4.1	When the wax and the wick are present, the flame burns.
