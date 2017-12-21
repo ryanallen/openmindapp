@@ -185,6 +185,19 @@ All things are relative to all things.
 6.	See how the house depending on other things conflicts with the deluded idea that the house exists as a concrete independent entity.  
 7.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.  
 
+---
+
+## [Contemplate Consciousness](https://openmindapp.org/meditations/insight__experience-relativity.html)  
+All things are relative to all things. 
+
+1.	Practice insight by thinking about how consciousness exists as a continuum of relative moments.  
+	1.1	Just as a moment has an end, so it must have a beginning and a middle.  
+	1.2	Also the beginning, middle, and end are to be analyzed like a moment.  
+	1.3 ~ Nagarjuna . 
+2.	Consciousness of a white cup has earlier and later moments in its continuum.  
+3.	These moments of consciousness make up parts of the stream of consciousness.  
+4.	Even the shortest amount of time we can perceive in this continuum is made from parts.  
+5.	If it didn't have a beginning, middle, and end, it couldn't join with other moments to form a continuum.  
 
 ---
 
@@ -210,20 +223,6 @@ Contemplate What is Skillful (Singles)
 	1.2	Stress and delusive-desires are inexhaustible; I will end them all.  
 	1.3	There are teachings beyond-measure; I will learn them all.  
 	1.4	The Buddha's Way is unsurpassable; I will accomplish it all.  
-
----
-
-## [Contemplate Consciousness](https://openmindapp.org/meditations/insight__experience-relativity.html)  
-All things are relative to all things. 
-
-1.	Practice insight by thinking about how consciousness exists as a continuum of relative moments. 
-	1.1	Just as a moment has an end, so it must have a beginning and a middle. 
-	1.2	Also the beginning, middle, and end are to be analyzed like a moment.
-	1.3 ~ Nagarjuna
-2.	Consciousness of a white cup has earlier and later moments in its continuum.
-3.	These moments of consciousness make up parts of the stream of consciousness.
-4.	Even the shortest amount of time we can perceive in this continuum is made from parts.
-5.	If it didn't have a beginning, middle, and end, it couldn't join with other moments to form a continuum.
 
 ---
 
