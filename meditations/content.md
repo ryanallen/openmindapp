@@ -226,6 +226,30 @@ Contemplate What is Skillful (Singles)
 
 ## WIP 
 
+## [Contemplate Consciousness](https://openmindapp.org/meditations/insight__experience-relativity.html)  
+All things are relative to all things. 
+
+1.	Practice insight by thinking about how consciousness exists as a stream of relative moments.  
+	1.1	Just as a moment has an end, so it must have a beginning and a middle.  
+	1.2	Also the beginning, middle, and end are to be analyzed like a moment.  
+	1.3 ~ Nagarjuna . 
+2.	Consciousness of a white cup has earlier and later moments in its stream.   
+3.	Even the shortest amount of time we can perceive in this stream is made from parts.  
+4.	Consciousness is dependent on its parts and is therefore not an independent entity.
+5.	You are not this consciousness.
+
+## [Contemplate Space](https://openmindapp.org/meditations/insight__experience-relativity.html)  
+All things are relative to all things. 
+
+1.	Practice insight by thinking about how space exists dependent upon its parts.  
+	1.1	If even empty. 
+2.	Consciousness of a white cup has earlier and later moments in its stream.   
+3.	Even the shortest amount of time we can perceive in this stream is made from parts.  
+4.	Consciousness is dependent on its parts and is therefore not an independent entity.
+5.	You are not this space.
+
+---
+
 2.	Delusion is the mistaken view that people and things exist independently and outside the influence of other things and the realm of change.  
 	2.1	Think about it, if things existed outside the influence of other things, how would those things change?  
 	2.2	Is there any thing imaginable that is unchangable?  
