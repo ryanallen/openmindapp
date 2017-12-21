@@ -185,8 +185,6 @@ All things are relative to all things.
 6.	See how the house depending on other things conflicts with the deluded idea that the house exists as a concrete independent entity.  
 7.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.  
 
----
-
 ## [Contemplate Consciousness](https://openmindapp.org/meditations/insight__experience-relativity.html)  
 All things are relative to all things. 
 
