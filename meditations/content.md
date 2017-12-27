@@ -192,7 +192,7 @@ All things are relative to all things.
 	1.1	Just as a moment has an end, so it must have a beginning and a middle.  
 	1.2	Also the beginning, middle, and end are to be analyzed like a moment.  
 	1.3 ~ Nagarjuna . 
-2.	Consciousness of a white cup has earlier and later moments in its continuum.  
+2.	Consciousness of a grain of sand has earlier and later moments in its continuum.  
 3.	These moments of consciousness make up parts of the stream of consciousness.  
 4.	Even the shortest amount of time we can perceive in this continuum is made from parts.  
 5.	If it didn't have a beginning, middle, and end, it couldn't join with other moments to form a continuum.  
