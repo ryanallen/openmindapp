@@ -250,6 +250,17 @@ All things are relative to all things.
 
 ---
 
+Generate bhodicitta
+1. Imagine the Buddha
+2. Imagine his disciples and other noble beings
+3. Imagine all sentient beings around them
+4. Imagine our equality. Like how we all want happiness
+5. Think of how when you think of yourself you only think of one. When thinking of others it’s infinite. It’s immoral and impractical. 
+6. Think that you’ve had this self centered attitude since befinningless time. 
+7. It’s enough. Be determined to not follow this selfish path. 
+8. I will attain liberation and Buddhahood for the benefit of all sentient beings. Be determined. 
+9. Generate bodhicitta 
+
 2.	Delusion is the mistaken view that people and things exist independently and outside the influence of other things and the realm of change.  
 	2.1	Think about it, if things existed outside the influence of other things, how would those things change?  
 	2.2	Is there any thing imaginable that is unchangable?  
