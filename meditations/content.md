@@ -185,7 +185,7 @@ All things are relative to all things.
 6.	See how the house depending on other things conflicts with the deluded idea that the house exists as a concrete independent entity.  
 7.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.  
 
-## [Contemplate Consciousness](https://openmindapp.org/meditations/insight__experience-relativity.html)  
+## [Contemplate Consciousness](https://openmindapp.org/meditations/insight__contemplate-consciousness.html)  
 All things are relative to all things. 
 
 1.	Practice insight by thinking about how consciousness exists as a continuum of relative moments.  
@@ -198,7 +198,7 @@ All things are relative to all things.
 5.	If it didn't have a beginning, middle, and end, it couldn't join with other moments to form a continuum.  
 6.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.  
 
-## [Contemplate Space](https://openmindapp.org/meditations/insight__experience-relativity.html)  
+## [Contemplate Space](https://openmindapp.org/meditations/insight__contemplate-space.html)  
 All things are relative to all things. 
 
 1.	Practice insight by thinking about how space exists dependent upon its parts.  
