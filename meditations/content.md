@@ -196,6 +196,18 @@ All things are relative to all things.
 3.	These moments of consciousness make up parts of the stream of consciousness.  
 4.	Even the shortest amount of time we can perceive in this continuum is made from parts.  
 5.	If it didn't have a beginning, middle, and end, it couldn't join with other moments to form a continuum.  
+6.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.  
+
+## [Contemplate Space](https://openmindapp.org/meditations/insight__experience-relativity.html)  
+All things are relative to all things. 
+
+1.	Practice insight by thinking about how space exists dependent upon its parts.  
+2.	Think about how space depends on its particular directions, like space in the east, and the west.   
+	2.1	Think about the space of a house.  
+	2.2	Think about how it depends upon its parts, the space in the bedroom, the living room, and so forth.  
+3.	Consider how all space depends upon its parts.  
+4.	See how space existing dependant upon its parts conflicts with the deluded idea that it exist as an independent entity.  
+5.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.  
 
 ---
 
@@ -222,33 +234,10 @@ Contemplate What is Skillful (Singles)
 	1.3	There are teachings beyond-measure; I will learn them all.  
 	1.4	The Buddha's Way is unsurpassable; I will accomplish it all.  
 
----
-
-## WIP 
-
-## [Contemplate Consciousness](https://openmindapp.org/meditations/insight__experience-relativity.html)  
-All things are relative to all things. 
-
-1.	Practice insight by thinking about how consciousness exists as a stream of relative moments.  
-	1.1	Just as a moment has an end, so it must have a beginning and a middle.  
-	1.2	Also the beginning, middle, and end are to be analyzed like a moment.  
-	1.3 ~ Nagarjuna . 
-2.	Consciousness of a white cup has earlier and later moments in its stream.   
-3.	Even the shortest amount of time we can perceive in this stream is made from parts.  
-4.	Consciousness is dependent on its parts and is therefore not an independent entity.
-5.	You are not this consciousness.
-
-## [Contemplate Space](https://openmindapp.org/meditations/insight__experience-relativity.html)  
-All things are relative to all things. 
-
-1.	Practice insight by thinking about how space exists dependent upon its parts.  
-	1.1	If even empty. 
-2.	Consciousness of a white cup has earlier and later moments in its stream.   
-3.	Even the shortest amount of time we can perceive in this stream is made from parts.  
-4.	Consciousness is dependent on its parts and is therefore not an independent entity.
-5.	You are not this space.
 
 ---
+
+#WIP
 
 Generate bhodicitta
 1. Imagine the Buddha
