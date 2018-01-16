@@ -239,6 +239,21 @@ Contemplate What is Skillful (Singles)
 
 #WIP
 
+1.	Practice insight by seeing how all things exist dependent on other things.
+	1.1	If this exists, that exists.
+	1.2	If this ceases to exist, that ceases to exist. [source](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da)
+2.	See how things can exist dependent on other things, or independently, but not both, and ultimately no things exist independently.
+3.	For example, analyze a table to see that it exists dependent upon its parts.
+	3.1	Its wood and the trees it came from, its legs, its top, and so forth.
+	3.2	Nothing from within the parts is the table.
+	3.3	These things that aren't a table become a table in dependence upon thought.
+	3.4	A table doesn't exist independently.
+	3.5	It depends on its causes, its parts, and upon thought. These are the three modes of dependent origination.
+4.	As Einstein showed, things do not exist objectively in and of themselves, but exist relatively in the context of involvement with an observer.
+
+
+	
+
 Generate bhodicitta
 1. Imagine the Buddha
 2. Imagine his disciples and other noble beings
