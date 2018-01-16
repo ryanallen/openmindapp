@@ -239,9 +239,9 @@ Contemplate What is Skillful (Singles)
 
 #WIP
 
-1.	Practice insight by seeing how all things exist dependent on other things.
-	1.1	If this exists, that exists.
-	1.2	If this ceases to exist, that ceases to exist. [source](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da)
+1.	Practice insight by seeing how all things exist dependent on other things.  
+	1.1	When this is, that is.  
+	1.2	When this is not, that is not. [source](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) . 
 2.	See how things can exist dependent on other things, or independently, but not both, and ultimately no things exist independently.
 3.	For example, analyze a table to see that it exists dependent upon its parts.
 	3.1	Its wood and the trees it came from, its legs, its top, and so forth.
