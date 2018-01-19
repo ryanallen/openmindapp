@@ -251,8 +251,10 @@ Contemplate What is Skillful (Singles)
 	3.5	It depends on its causes, its parts, and upon thought. These are the three modes of dependent origination.
 4.	As Einstein showed, things do not exist objectively in and of themselves, but exist relatively in the context of involvement with an observer.
 
-
-	
+##Generate compassion (by [Shantideva](http://www.tibetanbuddhistaltar.org/commitment-from-the-way-of-the-bodhisattva-by-shantideva/)) 
+Wish for others to be free from suferring, and the causes of suffering.  
+1.	May all the pain of every living being be wholly scattered and destroyed!  
+2.	...
 
 Generate bhodicitta
 1. Imagine the Buddha
