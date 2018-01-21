@@ -262,9 +262,12 @@ Wish for others to be free from suferring, and the causes of suffering.
 7.	May I be a guard for those who are protector less.[18]  
 8.	A guide for those who journey on the road.[18]  
 9.	For those who wish to go across water, May I be a boat, a raft, a bridge.[18]  
-10.	
-1.	May all the pain of every living being be wholly scattered and destroyed!
-2.	...
+10.	May I be an isle for those who yearn for landfall.[19]  
+11.	A lamp for those who long for light.[19]  
+12.	For those who need a resting place, a bed.[19]  
+13.	For everything that lives may I provide their livelihood and nourishment.[22]  
+14.	May all the pain of every living being be wholly scattered and destroyed![7]  
+15.	Embrace, abide, and train in the awakened attitude of mind, for the benefit of all beings.[22-24]  
 
 Generate bhodicitta
 1. Imagine the Buddha
