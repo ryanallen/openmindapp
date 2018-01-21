@@ -252,8 +252,16 @@ Contemplate What is Skillful (Singles)
 4.	As Einstein showed, things do not exist objectively in and of themselves, but exist relatively in the context of involvement with an observer.
 
 ##Generate compassion (by [Shantideva](http://www.tibetanbuddhistaltar.org/commitment-from-the-way-of-the-bodhisattva-by-shantideva/)) 
-Wish for others to be free from suferring, and the causes of suffering.  
-1.	May all the pain of every living being be wholly scattered and destroyed!  
+Wish for others to be free from suferring, and the causes of suffering.  
+1.	My being and all my good I give away to bring about the benefit of all beings.[11]  
+2.	I give up my being to serve all beings; let them do whatever they want that does not bring them injury. [13-15]  
+3.	All those who do evil to me, may they attain the fortune of enlightenment![17]  
+4.	For all who are sick, may I be their doctor, nurse, and the medicine itself.[8]  
+5.	Raining down a flood of food and drink, may I dispel the ills of thirst and famine.[9]  
+6.	For sentient beings, poor and destitute, may I become a treasure ever plentiful.[10]  
+7.	
+4.	
+1.	May all the pain of every living being be wholly scattered and destroyed!
 2.	...
 
 Generate bhodicitta
