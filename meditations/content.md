@@ -259,8 +259,10 @@ Wish for others to be free from suferring, and the causes of suffering.
 4.	For all who are sick, may I be their doctor, nurse, and the medicine itself.[8]  
 5.	Raining down a flood of food and drink, may I dispel the ills of thirst and famine.[9]  
 6.	For sentient beings, poor and destitute, may I become a treasure ever plentiful.[10]  
-7.	
-4.	
+7.	May I be a guard for those who are protector less.[18]  
+8.	A guide for those who journey on the road.[18]  
+9.	For those who wish to go across water, May I be a boat, a raft, a bridge.[18]  
+10.	
 1.	May all the pain of every living being be wholly scattered and destroyed!
 2.	...
 
