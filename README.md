@@ -10,3 +10,6 @@ https://openmindapp.org
   
 ### Crowdin open source translation project
 https://crowdin.com/project/openmindapp
+
+### Contact us if you have any questions or comments
+https://goo.gl/forms/wjXV4SKdIGMH7yEu1
