@@ -206,7 +206,7 @@ All things are relative to all things.
 	2.1	Think about the space of a house.  
 	2.2	Think about how it depends upon its parts, the space in the bedroom, the living room, and so forth.  
 3.	Consider how all space depends upon its parts.  
-4.	See how space existing dependant upon its parts conflicts with the deluded idea that it exist as an independent entity.  
+4.	See how space existing dependant upon its parts conflicts with the deluded idea that it exists as an independent entity.  
 5.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.  
 
 ---

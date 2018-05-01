@@ -4,232 +4,304 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <!-- Index -->
-    <url>
-      <loc>https://openmindapp.org/</loc>
-      <lastmod>2017-08-21T22:40:41+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/index.html</loc>
-      <lastmod>2017-08-21T22:40:41+00:00</lastmod>
-    </url>
 
-  <!-- Intro -->
-    <url>
-      <loc>https://openmindapp.org/meditations/introduction.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/introduction__basics--90-seconds.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
+<url>
+  <loc>https://openmindapp.org/</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/introduction.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/sleep.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/skillful-contemplations.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/index.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/introduction__basics--90-seconds.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/sleep--5m.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/sleep--1m.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__calm-down.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__cause-of-stress.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__ending-stress.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__process-of-delusion.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__delusional-labeling.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__insight-ends-stress.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__experience-relativity.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__contemplate-consciousness.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__contemplate-space.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/sutras__5-things.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__calm-down--20-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__calm-down--10-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__calm-down--5-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__calm-down--1-minute.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__cause-of-stress--20-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__cause-of-stress--10-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__cause-of-stress--5-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__cause-of-stress--1-minute.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__ending-stress--20-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__ending-stress--10-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__ending-stress--5-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__ending-stress--1-minute.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__process-of-delusion--20-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__process-of-delusion--10-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__process-of-delusion--5-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__process-of-delusion--1-minute.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__delusional-labeling--20-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__delusional-labeling--10-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__delusional-labeling--5-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__delusional-labeling--1-minute.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__insight-ends-stress--20-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__insight-ends-stress--10-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__insight-ends-stress--5-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__insight-ends-stress--1-minute.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__experience-relativity--20m.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__experience-relativity--10m.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__experience-relativity--5m.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__experience-relativity--1m.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__contemplate-consciousness--20m.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__contemplate-consciousness--10m.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__contemplate-consciousness--5m.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__contemplate-consciousness--1m.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__contemplate-space--20m.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__contemplate-space--10m.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__contemplate-space--5m.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/insight__contemplate-space--1m.html</loc>
+  <lastmod>2018-03-07T18:28:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/sutras__5-things--20-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/sutras__5-things--10-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/sutras__5-things--5-minutes.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://openmindapp.org/meditations/sutras__5-things--1-minute.html</loc>
+  <lastmod>2018-03-07T18:28:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
 
-  <!-- Mindfulness -->
-    <url>
-      <loc>https://openmindapp.org/meditations/mindfulness.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/mindfulness__body--3-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/mindfulness__sound--3-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/mindfulness__breath--5-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/mindfulness__loving-kindness--10-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/mindfulness__breath-body-sound--12-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/mindfulness__full--19-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    
-  <!-- Insight -->
-    <url>
-      <loc>https://openmindapp.org/meditations/insight.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__calm-down.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__calm-down--1-minute.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__calm-down--5-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__calm-down--10-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__calm-down--20-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
 
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__cause-of-stress.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__cause-of-stress--1-minute.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__cause-of-stress--5-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__cause-of-stress--10-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__cause-of-stress--20-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__ending-stress.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__ending-stress--1-minute.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__ending-stress--5-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__ending-stress--10-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__ending-stress--20-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__process-of-delusion.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__process-of-delusion--1-minute.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__process-of-delusion--5-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__process-of-delusion--10-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__process-of-delusion--20-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__delusional-labeling.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__delusional-labeling--1-minute.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__delusional-labeling--5-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__delusional-labeling--10-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__delusional-labeling--20-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:49+00:00</lastmod>
-    </url>
-
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__insight-ends-stress.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__insight-ends-stress--1-minute.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__insight-ends-stress--5-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__insight-ends-stress--10-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__insight-ends-stress--20-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__experience-relativity.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__experience-relativity--1m.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__experience-relativity--5m.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__experience-relativity--10m.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/insight__experience-relativity--20m.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-
-  <!-- Sutras -->
-    <url>
-      <loc>https://openmindapp.org/meditations/sutras.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/sutras__5-things.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/sutras__5-things--1-minute.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/sutras__5-things--5-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/sutras__5-things--10-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
-    <url>
-      <loc>https://openmindapp.org/meditations/sutras__5-things--20-minutes.html</loc>
-      <lastmod>2017-08-21T22:40:50+00:00</lastmod>
-    </url>
 </urlset>
