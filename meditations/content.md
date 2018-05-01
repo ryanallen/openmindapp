@@ -209,6 +209,14 @@ All things are relative to all things.
 4.	See how space existing dependant upon its parts conflicts with the deluded idea that it exists as an independent entity.  
 5.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.  
 
+Because there are no phenomena that are not dependent-arisings, there are no phenomena that are not empty of inherent existence. p60
+
+All things depend on other things, therefore no things exist independently and within only their own power.
+
+All things have parts. The parts and the whole entity depend on other, though they seem to have their own independent entities. This doesn't mean that the whole entity doesn't exist, it just means that it exists in dependence upon its parts.
+
+
+
 ---
 
 Contemplate What is Skillful (Singles)  
