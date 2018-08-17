@@ -107,7 +107,7 @@ Contemplate What is Skillful (Groups)
 
 ## [Contemplate the Process of Delusion](https://openmindapp.org/meditations/insight__process-of-delusion.html)  
 1.	Practice to stop the stress caused by a deluded and closed mind with a limited view of reality.  
-	1.1	Let's think about the process behind this delusional belief.  
+	1.1	Let's think about the process behind this delusional.  
 2.	[Contact] First we sense things  
 	2.1	like light  
 	2.2	through our eyes.  
