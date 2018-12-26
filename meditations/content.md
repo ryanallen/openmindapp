@@ -209,7 +209,12 @@ All things are relative to all things.
 4.	See how space existing dependant upon its parts conflicts with the deluded idea that it exists as an independent entity.  
 5.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.  
 
+---
+
 Because there are no phenomena that are not dependent-arisings, there are no phenomena that are not empty of inherent existence. p60
+
+All things depend on other things for their existence.
+Therefore all things are empty of an independent existence.
 
 Things can either exist dependent on other things or independent. When something is one, it is not the other. 
 
@@ -244,6 +249,25 @@ Contemplate What is Skillful (Singles)
 	1.3	There are teachings beyond-measure; I will learn them all.  
 	1.4	The Buddha's Way is unsurpassable; I will accomplish it all.  
 
+## Generate compassion (by [Shantideva](http://www.tibetanbuddhistaltar.org/commitment-from-the-way-of-the-bodhisattva-by-shantideva/)) 
+Wish for others to be free from suferring, and the causes of suffering. 
+ 
+1.	My being and all my good I give away to bring about the benefit of all beings.[11]  
+2.	I give up my being to serve all beings; let them do whatever they want that does not bring them injury. [13-15]  
+3.	All those who do evil to me, may they attain the fortune of enlightenment![17]  
+4.	For all who are sick, may I be their doctor, nurse, and the medicine itself.[8]  
+5.	Raining down a flood of food and drink, may I dispel the ills of thirst and famine.[9]  
+6.	For sentient beings, poor and destitute, may I become a treasure ever plentiful.[10]  
+7.	May I be a guard for those who are protector less.[18]  
+8.	A guide for those who journey on the road.[18]  
+9.	For those who wish to go across water, May I be a boat, a raft, a bridge.[18]  
+10.	May I be an isle for those who yearn for landfall.[19]  
+11.	A lamp for those who long for light.[19]  
+12.	For those who need a resting place, a bed.[19]  
+13.	For everything that lives may I provide their livelihood and nourishment.[22]  
+14.	May all the pain of every living being be wholly scattered and destroyed![7]  
+15.	Embrace, abide, and train in the awakened attitude of mind, for the benefit of all beings.[22-24] 
+
 
 ---
 
@@ -261,24 +285,7 @@ Contemplate What is Skillful (Singles)
 	3.5	It depends on its causes, its parts, and upon thought. These are the three modes of dependent origination.
 4.	As Einstein showed, things do not exist objectively in and of themselves, but exist relatively in the context of involvement with an observer.
 
-##Generate compassion (by [Shantideva](http://www.tibetanbuddhistaltar.org/commitment-from-the-way-of-the-bodhisattva-by-shantideva/)) 
-Wish for others to be free from suferring, and the causes of suffering. 
  
-1.	My being and all my good I give away to bring about the benefit of all beings.[11]  
-2.	I give up my being to serve all beings; let them do whatever they want that does not bring them injury. [13-15]  
-3.	All those who do evil to me, may they attain the fortune of enlightenment![17]  
-4.	For all who are sick, may I be their doctor, nurse, and the medicine itself.[8]  
-5.	Raining down a flood of food and drink, may I dispel the ills of thirst and famine.[9]  
-6.	For sentient beings, poor and destitute, may I become a treasure ever plentiful.[10]  
-7.	May I be a guard for those who are protector less.[18]  
-8.	A guide for those who journey on the road.[18]  
-9.	For those who wish to go across water, May I be a boat, a raft, a bridge.[18]  
-10.	May I be an isle for those who yearn for landfall.[19]  
-11.	A lamp for those who long for light.[19]  
-12.	For those who need a resting place, a bed.[19]  
-13.	For everything that lives may I provide their livelihood and nourishment.[22]  
-14.	May all the pain of every living being be wholly scattered and destroyed![7]  
-15.	Embrace, abide, and train in the awakened attitude of mind, for the benefit of all beings.[22-24]  
 
 Generate bhodicitta
 1. Imagine the Buddha
