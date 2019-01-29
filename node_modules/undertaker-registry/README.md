@@ -6,7 +6,7 @@
 
 # undertaker-registry
 
-[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Gitter chat][gitter-image]][gitter-url]
+[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![AppVeyor Build Status][appveyor-image]][appveyor-url] [![Coveralls Status][coveralls-image]][coveralls-url] [![Gitter chat][gitter-image]][gitter-url]
 
 Default registry in gulp 4.
 
@@ -200,5 +200,11 @@ MIT
 [travis-url]: https://travis-ci.org/gulpjs/undertaker-registry
 [travis-image]: http://img.shields.io/travis/gulpjs/undertaker-registry.svg
 
+[appveyor-url]: https://ci.appveyor.com/project/gulpjs/undertaker-registry
+[appveyor-image]: https://img.shields.io/appveyor/ci/gulpjs/undertaker-registry.svg?label=appveyor
+
+[coveralls-url]: https://coveralls.io/r/gulpjs/undertaker-registry
+[coveralls-image]: http://img.shields.io/coveralls/gulpjs/undertaker-registry/master.svg
+
 [gitter-url]: https://gitter.im/gulpjs/gulp
-[gitter-image]: https://badges.gitter.im/gulpjs/gulp.png
+[gitter-image]: https://badges.gitter.im/gulpjs/gulp.svg

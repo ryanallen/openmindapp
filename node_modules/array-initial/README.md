@@ -2,17 +2,16 @@
 
 > Get all but the last element or last n elements of an array.
 
-## Install
-### Install with [npm](npmjs.org):
+## Install with [npm](npmjs.org)
 
 ```bash
-npm i array-initial --save-dev
+npm i array-initial --save
 ```
 
 ## Usage
 
 ```js
-var last = require('array-last');
+var initial = require('array-initial');
 
 initial(['a', 'b', 'c', 'd', 'e', 'f']);
 //=> ['a', 'b', 'c', 'd', 'e']
