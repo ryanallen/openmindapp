@@ -1,0 +1,2 @@
+# ignore the local build process stuff in node_modules
+node_modules/
