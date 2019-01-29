@@ -29,6 +29,6 @@ function Sink() {
 
 inherits(Sink, Writable);
 
-Sink.prototype._write = function(_, _, cb) {
+Sink.prototype._write = function(chunk, encoding, cb) {
   setImmediate(cb);
 };

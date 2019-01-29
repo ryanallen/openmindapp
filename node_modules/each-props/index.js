@@ -1,7 +1,7 @@
 'use strict';
 
 var isPlainObject = require('is-plain-object');
-var objectAssign = require('object-assign');
+var defaults = require('object.defaults/immutable');
 
 module.exports = function(obj, fn, opts) {
   if (!isObject(obj)) {
@@ -35,7 +35,7 @@ function forEachChild(node, baseKey, fn, depth, opts) {
     var keyChain = baseKey + '.' + key;
     var value = node[key];
 
-    var nodeInfo = objectAssign({}, opts);
+    var nodeInfo = defaults(opts);
     nodeInfo.name = key;
     nodeInfo.index = i;
     nodeInfo.count = n;
