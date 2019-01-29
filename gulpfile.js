@@ -14,9 +14,9 @@ gulp.task('prefix', function () {
 });
 
 // Rerun the task when a file changes
-gulp.task('watch', function() {
-  gulp.watch(paths.prefix, gulp.series('prefix'));
-});
+//gulp.task('watch', function() {
+//  gulp.watch(paths.prefix, gulp.series('prefix'));
+//});
 
 // The default task (called when you run `gulp` from cli)
 gulp.task('default', gulp.series('watch', 'prefix'));
