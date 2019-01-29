@@ -309,6 +309,7 @@ audio {
   border-top: 1px solid #333333;
   border-bottom: 1px solid #333333;
   color: white;
+  text-align: center;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
@@ -317,6 +318,7 @@ audio {
   align-items: center;
   -webkit-transition: background-color .3s ease, color .3s ease;
   transition: background-color .3s ease, color .3s ease;
+  margin-top: 36px;
   margin-bottom: 48px; }
   .notification:hover {
     background-color: white;
