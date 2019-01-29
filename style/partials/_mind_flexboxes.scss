@@ -10,9 +10,3 @@
 	background-color: $c10;
 	///margin:90vh 16px -90vh; /// moves to the bottom
 }
-
-
-.bottom-bar {
-	@include flex(2);/// 1/12 of the viewport height
-	/// layout defaults to horiz
-}
