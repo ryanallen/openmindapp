@@ -1,4 +1,5 @@
 * {
+  -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
 html {
@@ -12,13 +13,14 @@ body {
   height: 100%;
   width: 100%;
   background-color: #1a1a1a;
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 1;
+  -webkit-box-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  -webkit-flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column; }
 
@@ -135,18 +137,19 @@ ol {
   margin: 32px 16px; }
 
 .text-link {
+  -webkit-transition: color 0.2s;
   transition: color 0.2s; }
   .text-link:hover {
     color: white; }
 
 .audio__group {
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 1;
+  -webkit-box-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  -webkit-justify-content: center;
+  -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
   margin-top: 64px; }
@@ -155,7 +158,7 @@ audio {
   width: 60vw; }
 
 .button, .button-flat, .button-cta {
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   min-height: 96px;
@@ -164,49 +167,51 @@ audio {
   margin: 0 auto 12px auto;
   color: white;
   background-color: #3d3d3d;
-  -webkit-align-items: center;
+  -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
+  -webkit-transition: background-color .3s ease, color .3s ease;
   transition: background-color .3s ease, color .3s ease; }
   .button:hover, .button-flat:hover, .button-cta:hover {
     background-color: white;
     color: black; }
 
 .button__text {
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 1;
+  -webkit-box-flex: 1;
   -ms-flex: 1;
   flex: 1;
   margin: 0 0 0 32px; }
 
 .button__text--center {
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 1;
+  -webkit-box-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  -webkit-justify-content: center;
+  -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center; }
 
 .material-icons.button__icon {
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   font-size: 32px;
   margin: 0 32px; }
 
 .button__group, .button__group--viewport-bottom {
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 1;
+  -webkit-box-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  -webkit-flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column; }
 
@@ -226,54 +231,49 @@ audio {
   padding-top: 56px; }
 
 .action-menu {
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 1;
+  -webkit-box-flex: 1;
   -ms-flex: 1;
   flex: 1; }
 
 .shell {
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 1;
+  -webkit-box-flex: 1;
   -ms-flex: 1;
   flex: 1;
   height: 100%;
-  -webkit-flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
   background-color: #1a1a1a; }
 
-.bottom-bar {
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-flex: 2;
-  -ms-flex: 2;
-  flex: 2; }
-
 .hero {
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   min-height: 192px;
   width: 100%;
   max-width: 960px;
   margin: auto;
-  -webkit-flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  -webkit-align-items: center;
+  -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  -webkit-justify-content: center;
+  -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
   color: #999999;
   background-color: #1a1a1a;
   margin-top: 2px;
+  -webkit-box-shadow: 0 2px 0 0 #1a1a1a;
   box-shadow: 0 2px 0 0 #1a1a1a; }
 
 .hero__subtitle {
@@ -300,7 +300,7 @@ audio {
   height: auto; }
 
 .notification {
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   min-height: 96px;
@@ -309,13 +309,16 @@ audio {
   border-top: 1px solid #333333;
   border-bottom: 1px solid #333333;
   color: white;
-  -webkit-justify-content: center;
+  text-align: center;
+  -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  -webkit-align-items: center;
+  -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
+  -webkit-transition: background-color .3s ease, color .3s ease;
   transition: background-color .3s ease, color .3s ease;
+  margin-top: 36px;
   margin-bottom: 48px; }
   .notification:hover {
     background-color: white;
@@ -335,22 +338,24 @@ audio {
   margin-left: 16px; }
 
 .top-bar {
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   height: 64px;
   width: 100vw;
   background-color: #262626;
+  -webkit-box-shadow: 0 2px 0 0 #141414;
   box-shadow: 0 2px 0 0 #141414; }
 
 .top-bar__left-action {
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   color: #e6e6e6;
   width: 64px;
+  -webkit-transition: color .2s ease;
   transition: color .2s ease;
-  -webkit-align-items: center;
+  -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center; }
   .top-bar__left-action:hover {
@@ -372,7 +377,7 @@ audio {
   font-weight: bold; }
 
 .top-bar__sub--offset {
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   height: 64px;
@@ -385,24 +390,25 @@ audio {
   text-shadow: 0px 2px 4px black; }
 
 .top-bar__right-action {
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   width: 80px;
   height: 80px;
-  -webkit-justify-content: flex-end;
+  -webkit-box-pack: end;
   -ms-flex-pack: end;
   justify-content: flex-end;
   color: #e6e6e6;
+  -webkit-transition: color .2s ease;
   transition: color .2s ease;
-  -webkit-align-items: center;
+  -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center; }
   .top-bar__right-action:hover {
     color: white; }
 
 .top-bar__empty {
-  display: -webkit-flex;
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   color: rgba(0, 0, 0, 0);
