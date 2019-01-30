@@ -1,6 +1,5 @@
 # ignore the local build process stuff (except the gulpfile)
 node_modules/
-style/partials/
 style/.sass-cache/
 package-lock.json
 package.json

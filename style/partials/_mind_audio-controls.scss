@@ -1,0 +1,9 @@
+.audio__group {
+  @include flex(1);/// button container
+  justify-content: center;
+  margin-top: 64px;
+}
+
+audio {
+    width: 60vw;
+}

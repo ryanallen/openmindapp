@@ -1,0 +1,34 @@
+.notification {
+  display: flex;
+	min-height: 96px;
+  width: 100%; /// important for chrome
+  background-color: $c15;
+  border-top: 1px solid $c20;
+  border-bottom: 1px solid $c20;
+  color: $c100;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+      &:hover { 
+        background-color: $c100;
+        color: $c00;
+      }
+  transition: background-color .3s ease, color .3s ease; 
+  margin-top: 36px; // 48-12 (12 is from button margin-bottom)
+  margin-bottom: 48px;
+}
+
+.notification__text {
+	text-align: center;
+	margin: 0 16px;
+}
+
+.material-icons.notification-icon {
+  font-size: 24px;
+  line-height: 24px;
+  padding: 8px;
+  color: $c00;
+  background-color: $c100;
+  border-radius: 2px;
+  margin-left: 16px;
+}

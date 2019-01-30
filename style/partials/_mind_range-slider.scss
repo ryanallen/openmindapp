@@ -1,0 +1,137 @@
+/// Variables
+$slider-width: 60%;
+
+$thumb-size: 6vh;
+$thumb-center-horizontally: -$thumb-size/2 0; ///the negative margin is half of the height of the thumb button applied to the top and bottom
+$thumb-color: $c90;
+$thumb-color-hover: $c100;
+$thumb-color-active: $thumb-color-hover;
+$thumb-shadow-hover: 0 0 0 1.4vh $c30_5;
+$thumb-shadow-active: 0 0 0 2.4vh $c40_5;
+$thumb-corners: $thumb-size/2;
+
+$track-width: 100%;
+$track-height: .6vh;
+$track-color: $c20;
+$track-color-active: $c30;
+$track-corners: $track-height/2;
+
+
+input[type=range] {
+  ///
+  /// Browser resets for webkit / ie
+  /// 
+  -webkit-appearance: none; /// Hides the slider so that custom slider can be made
+  width: $slider-width; /// Specific width is required for Firefox.
+  background: transparent; /// Otherwise white in Chrome
+
+  &::-webkit-slider-thumb {
+    -webkit-appearance: none;
+  }
+
+  &:focus {
+    outline: none; /// removes default focus
+  }
+
+  &::-ms-track {
+    width: $track-width;
+    cursor: pointer;
+    background: transparent; /// hides the slider for custom styles to be added
+    border-color: transparent; /// hides the slider for custom styles to be added
+    color: transparent; /// hides the slider for custom styles to be added
+  }
+
+///
+/// Thumb styling for webkit / firefox / ie
+///
+
+  &::-webkit-slider-thumb { /// webkit
+    -webkit-appearance: none;
+    height: $thumb-size;
+    width: $thumb-size;
+    border-radius: $thumb-corners;
+    background: $thumb-color;
+    cursor: pointer;
+    margin: $thumb-center-horizontally;
+
+    &:hover { /// button hover effect
+      background: $thumb-color-hover;
+      box-shadow: $thumb-shadow-hover;
+    }
+
+    &:active { /// button hover effect
+      background: $thumb-color-active;
+      box-shadow: $thumb-shadow-active;
+    }
+  }
+
+  &::-moz-range-thumb { /// firefox
+    height: $thumb-size;
+    width: $thumb-size;
+    border-radius: $thumb-corners;
+    background: $thumb-color;
+    cursor: pointer;
+    margin: $thumb-center-horizontally;
+
+   &:hover { /// button hover effect
+      background: $thumb-color-hover;
+      box-shadow: $thumb-shadow-hover;
+    }
+
+    &:active { /// button hover effect
+      background: $thumb-color-active;
+      box-shadow: $thumb-shadow-active;
+    }
+  }
+
+  &::-ms-thumb { /// ie
+    height: $thumb-size;
+    width: $thumb-size;
+    border-radius: $thumb-corners;
+    background: $thumb-color;
+    cursor: pointer;
+    margin: $thumb-center-horizontally;
+
+   &:hover { /// button hover effect
+      background: $thumb-color-hover;
+      box-shadow: $thumb-shadow-hover;
+    }
+
+    &:active { /// button hover effect
+      background: $thumb-color-active;
+      box-shadow: $thumb-shadow-active;
+    }
+  }
+
+  ///
+  /// Track styling for webkit / firefox / ie
+  /// 
+  &::-webkit-slider-runnable-track { 
+    width: $track-width;
+    height: $track-height;
+    cursor: pointer;
+    background: $track-color;
+    border-radius: $track-corners;
+  }
+
+  &:active::-webkit-slider-runnable-track {
+    background: $track-color-active;
+  }
+
+  &::-moz-range-track {
+    width: $track-width;
+    height: $track-height;
+    cursor: pointer;
+    background: $track-color;
+    border-radius: $track-corners;
+  }
+
+  &::-ms-track {
+    width: $track-width;
+    height: $track-height;
+    cursor: pointer;
+    background: $track-color;
+    border-radius: $track-corners;
+  }
+
+}
