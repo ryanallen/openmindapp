@@ -8,5 +8,5 @@ https://openmindapp.org
 ### Crowdin open source translation project
 https://crowdin.com/project/openmindapp
 
-### Contact us if you have any questions or comments
-https://goo.gl/forms/wjXV4SKdIGMH7yEu1
+### App Usage Data
+General app usage data is public to view [in this data studio report](https://datastudio.google.com/open/0B9WhcAnN6U4WcmExaHBKbmFWb2s).
