@@ -211,22 +211,7 @@ All things are relative to all things.
 
 ---
 
-Because there are no phenomena that are not dependent-arisings, there are no phenomena that are not empty of inherent existence. p60
-
-All things depend on other things for their existence.
-Therefore all things are empty of an independent existence.
-
-Things can either exist dependent on other things or independent. When something is one, it is not the other. 
-
-All things have parts. The parts and the whole entity depend on each other, though they seem to have their own independent entities. This doesn't mean that the whole entity doesn't exist, it just means that it exists in dependence upon its parts.
-
-All things depend on and exist relative to other things, therefore no things exist independently and within only their own power.
-
-All things are empty of being under their own power as an independent, inherently-existent entity, because all things arise in dependence on other things.
-
----
-
-Contemplate What is Skillful (Singles)  
+# Contemplate What is Skillful (Singles)  
 ======================
 
 ## [Words of the Buddha](https://openmindapp.org/meditations/sutras.html)  
@@ -271,7 +256,38 @@ Wish for others to be free from suferring, and the causes of suffering.
 
 ---
 
-#WIP
+# WIP
+======================
+
+## Contemplate Not Self
+1.	Practice insight by seeing how all things exist dependent on other things.  
+	1.1	When this is, that is.  
+	1.2	When this is not, that is not. [source](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) . 
+2.	See how things can exist dependent on other things, or independently, but not both, and ultimately no things exist independently.
+3.	For example, analyze a table to see that it exists dependent upon its parts.
+	3.1	Its wood and the trees it came from, its legs, its top, and so forth.
+	3.2	Nothing from within the parts is the table.
+	3.3	These things that aren't a table become a table in dependence upon thought.
+	3.4	A table doesn't exist independently.
+	3.5	It depends on its causes, its parts, and upon thought. These are the three modes of dependent origination.
+4.	As Einstein showed, things do not exist objectively in and of themselves, but exist relatively in the context of involvement with an observer.
+
+---
+
+Because there are no phenomena that are not dependent-arisings, there are no phenomena that are not empty of inherent existence. p60
+
+All things depend on other things for their existence.
+Therefore all things are empty of an independent existence.
+
+Things can either exist dependent on other things or independent. When something is one, it is not the other. 
+
+All things have parts. The parts and the whole entity depend on each other, though they seem to have their own independent entities. This doesn't mean that the whole entity doesn't exist, it just means that it exists in dependence upon its parts.
+
+All things depend on and exist relative to other things, therefore no things exist independently and within only their own power.
+
+All things are empty of being under their own power as an independent, inherently-existent entity, because all things arise in dependence on other things.
+
+---
 
 1.	Practice insight by seeing how all things exist dependent on other things.  
 	1.1	When this is, that is.  
