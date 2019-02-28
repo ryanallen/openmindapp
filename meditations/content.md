@@ -263,14 +263,16 @@ Wish for others to be free from suferring, and the causes of suffering.
 1.	Practice insight by seeing how all things exist dependent on other things.  
 	1.1	When this is, that is.  
 	1.2	When this is not, that is not. [source](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) . 
-2.	See how things can exist dependent on other things, or independently, but not both, and ultimately no things exist independently.
-3.	For example, analyze a table to see that it exists dependent upon its parts.
-	3.1	Its wood and the trees it came from, its legs, its top, and so forth.
-	3.2	Nothing from within the parts is the table.
-	3.3	These things that aren't a table become a table in dependence upon thought.
-	3.4	A table doesn't exist independently.
-	3.5	It depends on its causes, its parts, and upon thought. These are the three modes of dependent origination.
-4.	As Einstein showed, things do not exist objectively in and of themselves, but exist relatively in the context of involvement with an observer.
+2.	See how things can exist dependent on other things, or independent, but not both.
+3.	For example, think about our selves. Where do we exist? See how our sense of "I" depends upon things like our body and mind.
+	3.1	If we had no heart we would cease to be, so if we replace our heart did we lose our self?
+	3.2	If our thought patterns change, and our personalities change, did we cease to exist?
+	3.3 Is a flame from now the same flame from two seconds ago?
+	3.3	Our minds make these things exist for us. They are all built by thought dependent on our very limited human senses.
+4.	See how our idea of self doesn't exist independently. It is dependent upon its causes, its parts, and upon thought.
+5.	Choose to calm down and focus your concentration on analyzing your mind to see all things as they really are, which sees through delusion on a path that ends unhelpful stress for everyone.  
+
+## Not nihilism, not eternalism.
 
 ---
 
