@@ -334,6 +334,3 @@ Generate bhodicitta
 	4.2	If either of these is absent, the flame will cease to burn. 
 5.	Or consider a plant, which is dependent upon things like the seed, earth and light.
 6.	See how every thing arises dependent upon causal factors, and not independently.
-
-
-
