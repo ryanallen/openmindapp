@@ -260,7 +260,7 @@ Wish for others to be free from suferring, and the causes of suffering.
 ======================
 
 ## Contemplate Not Self
-1.	Practice insight by seeing how all things exist dependent on other things.  
+1.	Practice insight by seeing how we exist dependent on other things.  
 	1.1	When this is, that is.  
 	1.2	When this is not, that is not. [source](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) . 
 2.	See how things can exist dependent on other things, or independent, but not both.
