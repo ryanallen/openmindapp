@@ -6,13 +6,13 @@ html {
   font-size: 8px;
   height: 100%;
   width: 100%;
-  background-color: #1a1a1a; }
+  background-color: #131720; }
 
 body {
   margin: 0;
   height: 100%;
   width: 100%;
-  background-color: #1a1a1a;
+  background-color: #131720;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -26,10 +26,10 @@ body {
 
 a:link {
   text-decoration: none;
-  color: #e6e6e6; }
+  color: #eedaba; }
 
 a:visited {
-  color: #999999; }
+  color: #c58189; }
 
 input, button, submit {
   border: none; }
@@ -131,7 +131,7 @@ p, ol {
   font-family: "Amiko", serif;
   font-size: 16px;
   line-height: 24px;
-  color: #666666; }
+  color: #8a7583; }
 
 ol {
   margin: 32px 16px; }
@@ -166,7 +166,7 @@ audio {
   max-width: 960px;
   margin: 0 auto 12px auto;
   color: white;
-  background-color: #3d3d3d;
+  background-color: #2d2060;
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
@@ -250,7 +250,7 @@ audio {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  background-color: #1a1a1a; }
+  background-color: #131720; }
 
 .hero {
   display: -webkit-box;
@@ -270,15 +270,15 @@ audio {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  color: #999999;
-  background-color: #1a1a1a;
+  color: #9c8ab7;
+  background-color: #131720;
   margin-top: 2px;
-  -webkit-box-shadow: 0 2px 0 0 #1a1a1a;
-  box-shadow: 0 2px 0 0 #1a1a1a; }
+  -webkit-box-shadow: 0 2px 0 0 #131720;
+  box-shadow: 0 2px 0 0 #131720; }
 
 .hero__subtitle {
   margin: 16px;
-  color: gray;
+  color: #86788c;
   font-weight: bold;
   text-align: center;
   font-size: 18px;
@@ -305,10 +305,10 @@ audio {
   display: flex;
   min-height: 96px;
   width: 100%;
-  background-color: #262626;
-  border-top: 1px solid #333333;
-  border-bottom: 1px solid #333333;
-  color: white;
+  background-color: #151b37;
+  border-top: 1px solid #1d2449;
+  border-bottom: 1px solid #1d2449;
+  color: #eedaba;
   text-align: center;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
@@ -343,9 +343,7 @@ audio {
   display: flex;
   height: 64px;
   width: 100vw;
-  background-color: #262626;
-  -webkit-box-shadow: 0 2px 0 0 #141414;
-  box-shadow: 0 2px 0 0 #141414; }
+  background-color: #151b37; }
 
 .top-bar__left-action {
   display: -webkit-box;
@@ -360,18 +358,18 @@ audio {
   align-items: center; }
   .top-bar__left-action:hover {
     color: white;
-    text-shadow: 0 0 16px gray; }
+    text-shadow: 0 0 16px #8a7583; }
 
 .top-bar__heading {
   margin: auto;
-  color: #cccccc;
+  color: #dbe4b4;
   font-size: 32px;
   line-height: 40px;
   font-weight: bold; }
 
 .top-bar__sub {
   margin: auto;
-  color: #cccccc;
+  color: #dbe4b4;
   font-size: 18px;
   line-height: 24px;
   font-weight: bold; }
