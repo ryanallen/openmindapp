@@ -22,11 +22,11 @@ body {
 
 a:link { 
 	text-decoration: none; 
-	color: $c90;
+	color: $c85;
 }
 
 a:visited {
-	color: $c60;
+	color: $c64;
 }
 input, button, submit { border:none; &:focus {outline: none;} } /// removes outlines
 

@@ -3,7 +3,6 @@
 	height: $top-bar__height;
 	width: 100vw;
 	background-color: $c15;
-	box-shadow: 0 2px 0 0 $c08;
 	/// layout defaults to horiz
 }
 
@@ -21,7 +20,7 @@
 
 .top-bar__heading {
 	margin: auto; ///horizontally center
-	color: $c80; ///this is set in import.scss
+	color: $c80;
 	font-size: 32px; ///dynamic text size set to 4% of viewport height
 	line-height: 40px; /// for vertical rhythm
 	font-weight: bold;
