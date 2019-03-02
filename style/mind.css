@@ -6,13 +6,13 @@ html {
   font-size: 8px;
   height: 100%;
   width: 100%;
-  background-color: #131720; }
+  background-color: #141122; }
 
 body {
   margin: 0;
   height: 100%;
   width: 100%;
-  background-color: #131720;
+  background-color: #141122;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -131,7 +131,7 @@ p, ol {
   font-family: "Amiko", serif;
   font-size: 16px;
   line-height: 24px;
-  color: #8a7583; }
+  color: #cea1bf; }
 
 ol {
   margin: 32px 16px; }
@@ -166,7 +166,7 @@ audio {
   max-width: 960px;
   margin: 0 auto 12px auto;
   color: white;
-  background-color: #2d2060;
+  background-color: #302659;
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
@@ -250,7 +250,7 @@ audio {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  background-color: #131720; }
+  background-color: #141122; }
 
 .hero {
   display: -webkit-box;
@@ -270,15 +270,15 @@ audio {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  color: #9c8ab7;
-  background-color: #131720;
+  color: #c9bcdc;
+  background-color: #141122;
   margin-top: 2px;
-  -webkit-box-shadow: 0 2px 0 0 #131720;
-  box-shadow: 0 2px 0 0 #131720; }
+  -webkit-box-shadow: 0 2px 0 0 #141122;
+  box-shadow: 0 2px 0 0 #141122; }
 
 .hero__subtitle {
   margin: 16px;
-  color: #86788c;
+  color: #b577cf;
   font-weight: bold;
   text-align: center;
   font-size: 18px;
@@ -305,7 +305,7 @@ audio {
   display: flex;
   min-height: 96px;
   width: 100%;
-  background-color: #151b37;
+  background-color: #1b1736;
   border-top: 1px solid #1d2449;
   border-bottom: 1px solid #1d2449;
   color: #eedaba;
@@ -343,7 +343,7 @@ audio {
   display: flex;
   height: 64px;
   width: 100vw;
-  background-color: #151b37; }
+  background-color: #1b1736; }
 
 .top-bar__left-action {
   display: -webkit-box;
@@ -358,18 +358,18 @@ audio {
   align-items: center; }
   .top-bar__left-action:hover {
     color: white;
-    text-shadow: 0 0 16px #8a7583; }
+    text-shadow: 0 0 16px #cea1bf; }
 
 .top-bar__heading {
   margin: auto;
-  color: #dbe4b4;
+  color: #f5ffcc;
   font-size: 32px;
   line-height: 40px;
   font-weight: bold; }
 
 .top-bar__sub {
   margin: auto;
-  color: #dbe4b4;
+  color: #f5ffcc;
   font-size: 18px;
   line-height: 24px;
   font-weight: bold; }
