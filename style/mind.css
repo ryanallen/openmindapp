@@ -26,7 +26,7 @@ body {
 
 a:link {
   text-decoration: none;
-  color: #eedaba; }
+  color: #f0dec2; }
 
 a:visited {
   color: #c58189; }
@@ -308,7 +308,6 @@ audio {
   background-color: #1b1736;
   border-top: 1px solid #1d2449;
   border-bottom: 1px solid #1d2449;
-  color: #eedaba;
   text-align: center;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
