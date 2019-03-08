@@ -67,15 +67,6 @@ Contemplate What is Skillful (Groups)
 
 # The Need for Insight  
 
-## An Overview [4 Noble Truths]  
-1.	The reason to practice is to stop unhelpful stress.  
-2.	There are many ways to end stress.  
-3.	The most efficient way to end stress is to identify a root cause and then change it.  
-4.	Unhelpful stress is caused by our mind's deluded belief in a dualistic reality.  
-5.	Choose to calm down and focus to better analyze your mind to see all things as they really are.  
-	5.1 Which sees through delusion  
-	5.2	on a path that ends unhelpful stress for everyone.  
-
 ## [Contemplate the Cause of Stress](https://openmindapp.org/meditations/insight__cause-of-stress.html)  
 1.	The reason to practice is to stop unhelpful stress.  
 	1.1	Let's think about what causes that stress.  
