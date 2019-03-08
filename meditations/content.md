@@ -16,6 +16,8 @@ Meditation content
 6. And thats it, you're now ready experience a calmer, wiser, and more open mind.
 
 ---
+The content for this audio course comes from ["Mindset"](https://mindsetonline.com/whatisit/about/), by [Carol Dweck](https://mindsetonline.com/whatisit/about/), ["How to See Yourself as You Really Are"](https://en.wikipedia.org/wiki/How_to_See_Yourself_as_You_Really_Are), by [H.H. Dalai Lama](https://en.wikipedia.org/wiki/14th_Dalai_Lama), ["The 6 Dharma Gates to the Sublime"](http://www.kalavinka.org/kp_book_pages/sgs_book_page.htm), by [Zhiyi](https://en.wikipedia.org/wiki/Zhiyi), and ["The Words of My Perfect Teacher"](https://books.google.com/books/about/The_Words_of_My_Perfect_Teacher.html?id=40i38mGQ6aAC) by [Patrul Rinpoche](https://en.wikipedia.org/wiki/Patrul_Rinpoche).
+---
 
 [Framework and Calm Down](https://openmindapp.org/meditations/insight__calm-down.html)
 ==========
