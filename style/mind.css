@@ -276,7 +276,7 @@ audio {
   box-shadow: 0 2px 0 0 #141122; }
 
 .hero__subtitle {
-  margin: 16px;
+  margin: 0px 16px 24px 16px;
   color: #b577cf;
   font-weight: bold;
   text-align: center;
