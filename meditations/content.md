@@ -13,11 +13,9 @@ Meditation content
 5.	There are different postures you can use such as laying down, sitting, kneeling, standing, walking, or even doing simple repetitive tasks. The easiest and most skillful position when first starting is sitting, and it's what I would recommend starting off with. If you keep your back straight while also remaining relaxed it makes it easier to calm your breathing and your mind. Back supports like walls and chairs can be helpful :)
 
 6. And thats it, you're now ready experience a calmer, wiser, and more open mind.
-
 ---
 The content for this audio course comes from ["Mindset"](https://mindsetonline.com/whatisit/about/), by [Carol Dweck](https://mindsetonline.com/whatisit/about/), ["How to See Yourself as You Really Are"](https://en.wikipedia.org/wiki/How_to_See_Yourself_as_You_Really_Are), by [H.H. Dalai Lama](https://en.wikipedia.org/wiki/14th_Dalai_Lama), ["The 6 Dharma Gates to the Sublime"](http://www.kalavinka.org/kp_book_pages/sgs_book_page.htm), by [Zhiyi](https://en.wikipedia.org/wiki/Zhiyi), and ["The Words of My Perfect Teacher"](https://books.google.com/books/about/The_Words_of_My_Perfect_Teacher.html?id=40i38mGQ6aAC) by [Patrul Rinpoche](https://en.wikipedia.org/wiki/Patrul_Rinpoche).
 ---
-
 [Framework and Calm Down](https://openmindapp.org/meditations/insight__calm-down.html)
 ==========
 
