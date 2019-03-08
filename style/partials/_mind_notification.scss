@@ -3,9 +3,8 @@
 	min-height: 96px;
   width: 100%; /// important for chrome
   background-color: $c15;
-  border-top: 1px solid $c20;
-  border-bottom: 1px solid $c20;
   text-align: center;
+  text-decoration: underline;
   justify-content: center;
   align-items: center;
       &:hover { 
