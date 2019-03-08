@@ -206,7 +206,7 @@ All things are relative to all things.
 # Contemplate What is Skillful (Singles)  
 ======================
 
-## [Words of the Buddha](https://openmindapp.org/meditations/sutras.html)  
+## Other Sources (Not HTSYAYRA)
 ### [5 Things to Think About Often](https://openmindapp.org/meditations/sutras__5-things.html)  
 #### Contemplate the Five Remembrances (Upajjhatthana Sutta)  
 #### End harmful thoughts and actions  
