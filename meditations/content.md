@@ -2,16 +2,15 @@ Meditation content
 =======
 
 # Introduction
-1. Hi, my name's Ryan, and welcome to Open Mind, a free app to help you develop your mindfulness to know what's' going on in your head at any moment, as well as your wisdom by practicing insight, all in an effort to end your stress and the stress of those around you. Here are some tips on how to get the most out of these exercises for your brain.  
-
+1. Hi, my name's Ryan, and welcome to Open Mind, a free app to help you develop your mindfulness and wisdom. This is all in an effort to end your stress and the stress of those around you. Here are some tips on how to get the most out of these exercises for your brain.  
 
 2.	Finding a place where you won't be disturbed is important when you're beginning. Background noise is ok if it isn't distracting.  
 
 3.	Science has shown that if you practice around the same time each day you're more likely to create a skillful habit. Practicing in the same place can also be helpful.  
 
-4.	Your practice will be different every time you do it. Sometimes it's easy to maintain your focus and concentration, sometimes it's difficult and your thoughts scatter quickly and repeatedly. It's important to stick with it and notice when your attention wanders, and then start over. Try to maintain focus, fail, and try again without judging yourself. The reason we fail is so we can learn to bring our focus back.  
+4.	Your practice will be different every time you do it. Sometimes it's easy to maintain your focus and concentration, sometimes it's difficult and your thoughts scatter quickly and repeatedly. This is normal, don't worry :) The less incoming data to your mind the quieter it becomes. The more you practice taking the time to quiet it, the easier it becomes. The important thing is to stick with it and notice when your attention wanders, and then start over. Repeat to form helpful habits. Try to maintain focus, fail, and try again without judging yourself. The reason we fail is so we can learn to bring our focus back.  
 
-5.	There are different postures you can use such as laying down, sitting, kneeling, standing, walking, or even doing simple repetitive tasks. The easiest and most skillful position when first starting is sitting, and it's what I would recommend starting off with. If you keep your back straight while also remaining relaxed it makes it easier to calm your breathing and your mind.  
+5.	There are different postures you can use such as laying down, sitting, kneeling, standing, walking, or even doing simple repetitive tasks. The easiest and most skillful position when first starting is sitting, and it's what I would recommend starting off with. If you keep your back straight while also remaining relaxed it makes it easier to calm your breathing and your mind. Back supports like walls and chairs can be helpful :)
 
 6. And thats it, you're now ready experience a calmer, wiser, and more open mind.
 
