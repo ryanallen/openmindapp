@@ -35,12 +35,6 @@ The content for this audio course comes from ["Mindset"](https://mindsetonline.c
 	1.2 [Motivation] Understand that our basic traits like focus, intelligence, concentration and the like, are not fixed, they like all our basic abilities can be developed through effort. We must choose to make the effort.*[source](http://mindsetonline.com/whatisit/about/)*  
 	1.3	[Notice the Senses] So just start to notice and calm the senses.
 		1.3.1	[Body scan] As you begin to scan down from head to toe. Noticing the different areas of comfort or discomfort.  
-			1.3.1.1	Imagine a warm sun, shining on the top of the head. As it melts down the forehead, the face, the back of the head, the neck.  
-			1.3.1.2	Shoulders, upper arms, upper chest, upper back.  
-			1.3.1.3	The lower back, the abdomen, the lower arms.  
-			1.3.1.4	The wrists, hands, fingers.  
-			1.3.1.5	Hips, upper legs, lower legs.  
-			1.3.1.6	Ankles, feet, toes.  
 	1.4	[Object of meditation] Now take your biggest breath and notice the feeling of it somewhere in the body.  
 		1.4.1	The tip of the nose,  
 		1.4.2	back of the throat,  
