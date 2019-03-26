@@ -705,43 +705,38 @@ degrees of insight knowledge see 'The Progress of Insight' by the Venerable Maha
 Sayadaw (Published by The Forest Heritage, Kandy, Sri Lanka) } and onward to higher
 stages of insight meditation (vipassana-bhavana).
 ---
-ITHE
-MEANING OF
-SaTIPATTHANA
-The Meaning of Satipatthana
-Introduction
-The Ven. Sayadaw U Pandita talks frequently about the meaning of
-satipatthana. He uses etymology to explain the proper way to note
-and observe the arising physical and mental objects in the practice
-of meditation.
-This detailed and practical exposition of the term satipatthana goes
-to the Sayadaw's credit. It is a formula or recipe for success in
-meditation. If applied meticulously to one's practice, the dhamma
-will unfold in no time.
-The seven benefits of mindfulness
-The practice of satipatthana meditation leads to the purification of
-the mind, the overcoming of sorrow and lamentation, the complete
-destruction of physical pain and mental distress, the entering of the
-right path and the attainment of nibbana.
-The etymo logy of satipatthnna
-The Pali term satipatthana is generally rendered as the 'Four
-foundations of mindfulness'. However, its fulI meaning can be
-revealed by breaking up the compound word into its parts and
-examining these elements both individually and in combination.
-sati + patthana
-or
-sati+pa+(t)thana
-The word sali derives from the root meaning 'to temember' (sant
-sarati), but as a mental factor it signifies 'presence of mind,
-attentiveness to the present, awareness, wakefulness and
-heedfulness', rather than the faculty of memory of the past.
-Pqtthqna means 'close, firm and steadfast establishment,
-application, setting up'.
-Combining these two elements, the meaning of the compound
-becomes 'close, firm and steadfast establishment of awareness on
-the object of observation'. This kind of awareness is also called
-nrppatitthi ta sati,' steadfast mindfulness'.
-The four foundations of mindfulness
+
+## The Meaning of Satipatthana
+From: https://www.saddhamma.org/pdfs/the-meaning-of-satipatthana.pdf 
+
+### Introduction
+The Ven. Sayadaw U Pandita talks frequently about the meaning of satipatthana. He uses etymology to explain the proper way to note and observe the arising physical and mental objects in the practice of meditation. This detailed and practical exposition of the term satipatthana goes to the Sayadaw's credit. It is a formula or recipe for success in meditation. If applied meticulously to one's practice, the dhamma will unfold in no time.
+
+### The seven benefits of mindfulness
+The practice of satipatthana meditation leads to
+1.  the purification of the mind, 
+2. the overcoming of sorrow and lamentation, 
+3. the complete destruction of physical pain and mental distress, 
+4. the entering of the right path and the attainment of nibbana.
+
+### The etymology of satipatthnna
+The Pali term satipatthana is generally rendered as the **Four foundations of mindfulness**. However, its full meaning can be revealed by breaking up the compound word into its parts and examining these elements both individually and in combination.
+1. sati + patthana, or, 
+2. sati+pa+(t)thana
+The word sati derives from the root meaning **to remember** (sam sarati), but as a mental factor it signifies:
+1. presence of mind,
+2. attentiveness to the present, 
+3. awareness, 
+4. wakefulness and
+5. heedfulness, 
+rather than the faculty of memory of the past.
+Patthana means:
+1. close, firm, and steadfast establishment,
+2. application, 
+3. setting up.
+Combining these two elements, the meaning of the compound becomes **close, firm and steadfast establishment of awareness on the object of observation**. This kind of awareness is also called *suppatitthita sati*, **steadfast mindfulness**.
+
+### The four foundations of mindfulness
 The four foundations of mindfulness have a single essence - mindful
 contemplation of raa*ural , phcnom€na. They are differentiated
 insofar as this mindful contemplation is applied to four objects: l.
