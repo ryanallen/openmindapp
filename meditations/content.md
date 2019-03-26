@@ -737,101 +737,63 @@ Patthana means:
 Combining these two elements, the meaning of the compound becomes **close, firm and steadfast establishment of awareness on the object of observation**. This kind of awareness is also called *suppatitthita sati*, **steadfast mindfulness**.
 
 ### The four foundations of mindfulness
-The four foundations of mindfulness have a single essence - mindful
-contemplation of raa*ural , phcnom€na. They are differentiated
-insofar as this mindful contemplation is applied to four objects: l.
-the body (kaya);2. the feelings (vedana);3. states of consciousness
-(citta); and 4. mental objects (dhamma). The latter comprise such
-factors as the five hindrances, the five aggregates, the six sense
-bases and six sense objects (general activities), the seven factors of
-enlightenment and the four noble truths.
-Sati
-'Mindfulness' has come to be the accepted English translation of
-the term sati. However, this is an incomplete rendering.
-'Observing power' is a more adequate translation. The full scope
-of its meaning will be explained by examining its various aspects,
-such as characteristic, function, manifestation, proximate cause and
-the further diptinguishing factors of mindfulness.
-Non-superficiality
-Sati has the characteristic of not wobbling; that is, of not floating
-away from the object (apilapana lakkhana). The commentators
-have give the simile of a dried, hollow pumpkin thrown into water.
-The cork or pumpkin will pop up and down on the surface of the
-water. In the same way, the noting and observing mind should not
-skim over the object in a superficial manner. Instead, the mind
-should sink or plunge into the object of observation, just as when a
-stone is thrown into water it will sink or plunge to the bottom.
-2
-Suppose you are watching your abdomen as the object of your
-satipatthana practice. You try to be very firm, focusing your
-attention on the main object so that the mind will not skip off.
-Instead, the mind will sink deeply into the process of rising and
-falling. As the mind penetrates this process, you can comprehend
-its true nature: tension, pressure, movement and so on.
-Keeping the object in view
-The function of sati is the absence of confusion, or nonforgetfulness (asamnrosa rasa). This means that the noting and
-observing mind should neither lose sight of, nor miss, nor forget,
-nor allow the object of observation to disappear. To express this
-aspect positively, the function of sati is to keep the object always in
-view. Just as a footballer never loses sight of the football, a
-badminton player the shuttlecock and a boxer his opponent's
-movements, so too the yogi never loses sight of the object of
-mindfulness.
-Confrontation and protection
-There are two nnnifestations of sati, namely: coming face-to-face
-with the object; and protection
-o Face-to-face with the object
-The chief manifestation of sati is confrontation - it sets the mind
-direotly, face-to-face, with the object of observation
-(t,isayabhimukha bhava pacapatthana). Sati manifests as the
-mind in a state (bhava) of confronting, face-to-face (abhimukha)
-with an object or objective field (visaya).
-It is said that the human face is the index of character. Therefore, if
-you want to 'size up' a person, you have to be face-to-face with
-that person and examine his or her face carefully. Then your
-judgement will be correct. But if you stand at an angle, behind or
-far away from that other person, then you will not be able to
-distinguish the distinctive features of his face.
-3
-Similarly, when you are observin! the rising nlovement of your
-abdomen, if the mind is really face-to-face with the rising
-movement, you will notice different sensations in the rising such as
-tension, pressure, heat, coolness or movement.
-o Protection
-If the noting and observing mind remains face-to-face with the
-object of observation for a significant period of time, the yogi can
-discover a great purity of mind due to the absence of kilesas
-(mental defilements). This purity is the result of the second
-manifestation of sati - guardianship or protection from attack by the
-kilesas (amkkha paccupatthana). With sati present, mental
-defilements have no chance to enter the stream of consciousness.
+The four foundations of mindfulness have a single essence - mindful contemplation of natural phenomenon. They are differentiated insofar as this mindful contemplation is applied to four objects:
+1. the body (kaya)
+2. the feelings (vedana)
+3. states of consciousness (citta)
+4. mental objects (dhamma)
+The latter comprise such factors as:
+1. the five hindrances
+2. the five aggregates
+3. the six sense bases and six sense objects (general activities)
+4. he seven factors of enlightenment
+5. the four noble truths
+
+### Sati
+**Mindfulness** has come to be the accepted English translation of the term sati. However, this is an incomplete rendering. **Observing power** is a more adequate translation. The full scope of its meaning will be explained by examining its various aspects, such as characteristic, function, manifestation, proximate cause and the further distinguishing factors of mindfulness.
+
+### Non-superficiality
+Sati has the characteristic of not wobbling; that is, of not floating away from the object (apilapana lakkhana). The commentators have give the simile of a dried, hollow pumpkin thrown into water. The cork or pumpkin will pop up and down on the surface of the water. In the same way, the noting and observing mind should not skim over the object in a superficial manner. Instead, the mind should sink or plunge into the object of observation, just as when a stone is thrown into water it will sink or plunge to the bottom.
+
+Suppose you are watching your abdomen as the object of your satipatthana practice. You try to be very firm, focusing your attention on the main object so that the mind will not skip off. Instead, the mind will sink deeply into the process of rising and
+falling. As the mind penetrates this process, you can comprehend its true nature: tension, pressure, movement and so on.
+
+### Keeping the object in view
+The function of sati is the absence of confusion, or nonforgetfulness (asamnrosa rasa). This means that the noting and observing mind should neither lose sight of, nor miss, nor forget, nor allow the object of observation to disappear. To express this aspect positively, the function of sati is to keep the object always in view. Just as a footballer never loses sight of the football, a badminton player the shuttlecock and a boxer his opponent's movements, so too the yogi never loses sight of the object of mindfulness.
+
+### Confrontation and protection
+There are two manifestations of sati, namely: 
+1. coming face-to-face with the object; and 
+2. protection
+
+#### Face-to-face with the object
+The chief manifestation of sati is confrontation - it sets the mind directly, face-to-face, with the object of observatio (visayabhimuka bhava paccupatthana). Sati manifests as the mind in a state (bhava) of confronting, face-to-face (abhimukha) with an object or objective field (visaya). It is said that the human face is the index of character. Therefore, if you want to 'size up' a person, you have to be face-to-face with that person and examine his or her face carefully. Then your judgement will be correct. But if you stand at an angle, behind or far away from that other person, then you will not be able to distinguish the distinctive features of his face.
+
+Similarly, when you are observing the rising movement of your abdomen, if the mind is really face-to-face with the rising
+movement, you will notice different sensations in the rising such as tension, pressure, heat, coolness or movement.
+
+#### Protection
+If the noting and observing mind remains face-to-face with the object of observation for a significant period of time, the yogi can
+discover a great purity of mind due to the absence of kilesas (mental defilements). This purity is the result of the second manifestation of sati - guardianship or protection from attack by the kilesas (amkkha paccupatthana). With sati present, mental
+defilements have no chance to enter the stream of consciousness. 
+
 Sati is likened to a doorkeeper because it guards the six sensedoors. A doorkeeper dose not admit bad and destructive people; he
-admits only good and useful people. Sati does not admit
-unwholesomeness (akusala); it admits only wholesomendss
-(kusala). By not accepting akusala, the mind is protected.
-The proximate causes of mindfulness
-The proximate causes for the arising of sati are: strong perception
-(thirasanna padat.thana); and the four foundations of mindfulness
-(kayadi sati patthana padatthana).
-o Strong perception
-In order to be mindful of an object, strong and firm (thira)
-perception of it is necessary. As much as perception (sarrra) is
-firm, strong and steadfast, mindfulness will also be firm, strong and
-steadfast.
-The two functions of perception are the recording and the
-recognition of formations (sankhara), irrespective of their
-wholesome or unwholesome nature. Sanna is compared to the
-recording of talks with the help of a tape or video recorder. The
-4
-recording takes place regardless of the content or quality of the
-talks. A clear, high quality recording, such as a state-of-the-art
-digital recording on CD of a classical concert or opera, is the cause
-for a clear, strong, impressive listening experience (mindfulness)
-when replaying the recording.
-Similarly, in the meditation practice a strong, clear-cut perception
-(noting or labelling) of the arising objects of observation is very
+admits only good and useful people. Sati does not admit unwholesomeness (akusala); it admits only wholesomendss (kusala). By not accepting akusala, the mind is protected.
+
+### The proximate causes of mindfulness
+The proximate causes for the arising of sati are: 
+1. strong perception (thirasanna padat.thana); and 
+2. the four foundations of mindfulness (kayadi sati patthana padatthana).
+
+#### Strong perception
+In order to be mindful of an object, strong and firm (thira) perception of it is necessary. As much as perception (sarrra) is firm, strong and steadfast, mindfulness will also be firm, strong and steadfast.
+
+The two functions of perception are the recording and the recognition of formations (sankhara), irrespective of their wholesome or unwholesome nature. Sanna is compared to the recording of talks with the help of a tape or video recorder. The recording takes place regardless of the content or quality of the talks. A clear, high quality recording, such as a state-of-the-art digital recording on CD of a classical concert or opera, is the cause for a clear, strong, impressive listening experience (mindfulness) when replaying the recording.
+
+Similarly, in the meditation practice a strong, clear-cut perception (noting or labelling) of the arising objects of observation is very
 supportive of strong, clear-cut, steadfast mindfulness.
-o Four foundations of mindfulness
+
+#### Four foundations of mindfulness
 Another proximate cause for the arising of sati is the four
 foundations of mindfulness (kayadi satipatthana padatthana). That
 is, mindfulness itself is the cause of mindfulness. In fact, the
@@ -999,54 +961,8 @@ abhidhamma. B.P.S.
 6. Mahagandayou Sayadaw U Janaka Bhivamsa, Ven.
 Sangahabhasa-lllra. @urmese). I 990
 7. Sayadaw U Pandita Bhivamsa, Ven. Various dhamma talks.
-ll
-r
-DONORS LIST
-May all donors who contributed towards the publication of this bookiejoice in
-their meritorious deed of generosity and may they attain Nibbana, the cessation
-of all suffering. SADHU!SADHU! SADHU!
-RM 125 LIM LAN ENG
-RM 1OO MRS. WEE & FAMILY, MR. & MRS. TAN BOON SOOI & FAMILY'
-FONG CHOONG MUN
-RM50AWTEEMIN&FAMILY,TUESDAYBREAKFASTDANACROUP'HO
-CHIEW WAH, KHOO KEAT CHYE, LIM CHAI KUAN' CHOW SIEW KAM'
-CHEAH SWEE SENG & FAMILY
-RM25SEOWGINGENG,KATHYKWOK,CHIOKPENGLIANG&FAMILY'
-FONG SWEE CHEONG, FONG LAY LEAN, ANDY LIM & FAMILY' NIBBANIC
-BLISS FOUNDATION, CHONG GEOK CHUANG & FAMILY, JANET HOR POH
-JIN. HUA WEI LING, QUAH FAMILY, MONDAY BREAKFAST DANA GROUP,
-LILY OOI, ANG AH KENG & FAMILY, GNOH PHAIK HAR' KANG ENG LEE' HO
-CHIEW KEAT, LEONG NGEE SANG, MR. & MRS. WANG HWEE BENG &
-FAMILY, JEFFREY CHEW
-RM 20 WEDNESDAY BREAKFAST DANA GROUP, HOE SOON YING, TEK CHIN
-MAY
-RM15MR.FUCHEEHANG,MDM.CHANSWEECHOOI,MR.FUYUCHIN'MS.
-FU YU YING
-RMlOWONGSOOKKHENG,DHAMMAPALAWONGKINYAN'LIMCHEE
-KEAT, LIM CHEE KEONG, YOON KHAI CHEONG, KHOO KAY ONG & FAMILY'
-JENNYNcoo,MR.&MRs.QUAHKEATJIN,LEEKEowMooI'HooKIAGUT'
-LAU MING YOKE, CHEAH SEOK EAM, CARMEN & MOTHER, LIM CHIN KOOI,
-CHAN SIN SEONG, LOW SIEW CHUEN & FAMILY, OOI ENG GEOK & FAMILY
-RM8 MR.CHEW
-RM 6 MR. & MRS. OHNG BENG SEONG, SAYALEI MA VIVEKANANDI
-RM 5 FONG KOON NIEW & FAMILY, LIM CHIN KOOI, LIAN CHEE SENG' MAK
-THEAM HOCK & FAMILY, LIEW SOO, MR. & MRS. LIEW CHEE CHOY'
-ANONYMOUS: KHAW SIEW TUAN, TAY FAMILY, KHOO PENG KEONG, LIM
-BEE LEE,MR. ONG CHENC SAN & FAMILY, CHEW PUI LIN & FAMILY, ANG
-GIM WAH, NG JOO HUN, CHEAH SIEW CHIN, TAN KENG SEONG, TAN HSIEN
-IO\NC. KHOO SAW GUAT, I/M OF CHEAH NAR GEAN, HO CHIEW BOON,
-AUMY MARY & CATHERINE, CHUA EAN EAN, WONG KIM LOOI & FAMILY,
-LEE YONG FEE & FAMILY, SAM AH MOOI, TAN HSIEN KHAI
-RM 3 Nc LEE CHoo & FAMILY, HONG FoNG CH|N & FAMILY, NG KoK PENG
-&FAMILY.CHEAHJINJIN,CHEAHCHIANGENG,LIMGUATLING'OH
-CHENG KANG, HONG MIN FOO, NG KOK HWA, LEE CHEE WEE, THOE SING
-WEI, CHUAH GAIK, EE, OOH PAIK TIN, WILLIAM SEE, TAN GAIK CHOO' AH
-JUAN. NG PHAIK SIM
-RM2GOHSWEEPOH,LIMSINHUAT,LIMCHINCHOO,SAWENGLEAN'
-TAN EE LIANG, SAW ENG BEE, SAW ENG SEE, KHOO FAMILY
-ll
-F-.,
 ---
+
 ## Contemplate Not Self
 1.	Practice insight by seeing how we exist dependent on other things.  
 	1.1	When this is, that is.  
