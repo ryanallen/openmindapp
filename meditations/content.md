@@ -707,10 +707,10 @@ stages of insight meditation (vipassana-bhavana).
 ---
 
 ## The Meaning of Satipatthana
-From: https://www.saddhamma.org/pdfs/the-meaning-of-satipatthana.pdf 
+From: https://www.saddhamma.org/pdfs/the-meaning-of-satipatthana.pdf  
 
 ### Introduction
-The Ven. Sayadaw U Pandita talks frequently about the meaning of satipatthana. He uses etymology to explain the proper way to note and observe the arising physical and mental objects in the practice of meditation. This detailed and practical exposition of the term satipatthana goes to the Sayadaw's credit. It is a formula or recipe for success in meditation. If applied meticulously to one's practice, the dhamma will unfold in no time.
+The Ven. Sayadaw U Pandita talks frequently about the meaning of satipatthana. He uses etymology to explain the proper way to note and observe the arising physical and mental objects in the practice of meditation. This detailed and practical exposition of the term satipatthana goes to the Sayadaw's credit. It is a formula or recipe for success in meditation. If applied meticulously to one's practice, the dhamma will unfold in no time.  
 
 ### The seven benefits of mindfulness
 The practice of satipatthana meditation leads to
@@ -794,17 +794,11 @@ Similarly, in the meditation practice a strong, clear-cut perception (noting or 
 supportive of strong, clear-cut, steadfast mindfulness.
 
 #### Four foundations of mindfulness
-Another proximate cause for the arising of sati is the four
-foundations of mindfulness (kayadi satipatthana padatthana). That
-is, mindfulness itself is the cause of mindfulness. In fact, the
-development of mindfulness is the result of continuous momentum,
-one moment of mindfulness causing the next.
-This can be compared to the process of acquiring an education,
-assuming that the sludent is studious and does his homework
-respectfully. Lessons learnt in the lower grades are a cause for
-learning lessons in the higher grade. Primary school education is a
-cause for high school education, and this in turn serves as a cause
-for tertiary and university education.
+Another proximate cause for the arising of sati is the four foundations of mindfulness (kayadi satipatthana padatthana). That
+is, **mindfulness itself is the cause of mindfulness**. In fact, the development of mindfulness is the result of continuous momentum, one moment of mindfulness causing the next.
+
+This can be compared to the process of acquiring an education, assuming that the sludent is studious and does his homework respectfully. Lessons learnt in the lower grades are a cause for learning lessons in the higher grade. Primary school education is a cause for high school education, and this in turn serves as a cause for tertiary and university education.
+
 In a nutsheli, mindfulness leads to ever greater and stronger
 mindfulness.
 Immediacy
